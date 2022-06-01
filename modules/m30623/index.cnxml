@@ -1,0 +1,607 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Berekeninge met heelgetalle</title>
+  <metadata>
+  <md:content-id>m30623</md:content-id><md:title>Berekeninge met heelgetalle</md:title>
+  <md:abstract/>
+  <md:uuid>3e07ad1d-a628-49f4-91a7-c0eb5a8fd3b8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166659708428">
+      <title>WISKUNDE</title>
+      <para id="para-id1166659708428">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166660103353">
+      <title>Graad 4</title>
+      <para id="para-id1166660103353">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2387966">
+      <title>HEELGETALLE EN HUL VERWANTSKAPPE</title>
+      <para id="para-id2387966">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2729324">
+      <title>Module 3</title>
+      <para id="para-id2729324">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2771388">
+      <title>berekeninge met heelgetalle skriftelik en in hoofrekene</title>
+      <para id="id1166662974595">Aktiwiteit 1:</para>
+      <list id="id2983560" list-type="bulleted">
+        <item><emphasis effect="bold">Om </emphasis>‘n reeks tegnieke te gebruik om berekeninge met heelgetalle skriftelik en in hoofrekene uit te voer [LU 1.10]</item>
+        <item>Om te skat en te bereken met die selektering en gebruik van gepaste bewerkings vir die oplossing van probleme: afronding [LU1.8.1]</item>
+        <item>Om probleme op te los wat die vergelyking van twee of meer hoeveelhede van dieselfde soort behels (verhouding) [LU 1.7.1]</item>
+        <item>Om ‘n reeks strategieë te gebruik om oplossings te kontroleer en hulle redelikheid te beoordeel [LU 1.11]</item>
+      </list>
+      <para id="id1166666067602">SKATTING EN KONTROLERING VAN GERAAMDE ANTWOORDE </para>
+      <para id="id1166655394712">Ons het ”plekwaardes” bestudeer en nou gaan ons na die “afronding” van getalle kyk en sien hoe ons dit gebruik om: </para>
+      <list id="id1166661257109" list-type="bulleted">
+        <item>geskatte antwoorde vinnig te bereken en ook </item>
+        <item>ons antwoorde vinnig te kontroleer.</item>
+      </list>
+      <para id="id1166655175361">1. SKATTING MET BEHULP VAN AFRONDING</para>
+      <para id="id6379189"> Dink aan die volgende: </para>
+      <para id="id1166665501839">1.1 Jy ry op jou fiets na jou maat wat 10 km van jou af woon. Na 4 km bars een van jou buitebande. Waarheen gaan jy stap om dit reg te maak – terug na jou eie huis of gaan jy tot by jou maat se huis stap? </para>
+      <para id="id8791483">Natuurlik sal jy na jou eie huis terug stap – dis nader. 4 is nader aan 0 as aan 10.</para>
+      <para id="id6293326">1.2 Sê nou dat die band na 6 km bars. Sal jy weer besluit om terug huis toe te gaan of sal jy aanstap na jou maat se huis toe?</para>
+      <para id="id1166669275643">Ja, hierdie keer sal jy na jou maat se huis toe stap – dis nader. </para>
+      <para id="id1166669567353">6 is nader aan 10 as aan 0.</para>
+      <para id="id9065861">1.3 Hierdie keer bars die band nadat jy presies 5 km gery het. Sal jy besluit om terug  huis toe te gaan of sal jy na jou maat se huis toe aanstap? </para>
+      <para id="id1166665363493">
+        <emphasis effect="bold">In Wiskunde </emphasis>
+        <emphasis effect="italics">rond jy altyd opwaarts af</emphasis>
+        <emphasis effect="bold"> indien die laaste syfer 5 is.</emphasis>
+      </para>
+      <list id="id6292269" list-type="bulleted">
+        <item>Voltooi die volgende tabel: </item>
+      </list>
+      <table id="id1166665507967" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Getal</entry>
+              <entry>Afronding tot die naaste 10</entry>
+            </row>
+            <row>
+              <entry>54</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 345</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>278</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>978</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>245</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 133</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>684</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166654021334">1.5 Nou gaan ons “afronding” gebruik om 'n <emphasis effect="italics">benaderde antwoord</emphasis> vinnig vir die volgende somme te bereken, en daarna sal ons die<emphasis effect="italics"> presiese antwoord</emphasis> bereken en die verskil tussen die twee antwoorde bereken. Vul in wat in die kolomme ontbreek:</para>
+      <table id="id1166666338526" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Som</entry>
+              <entry>Getalle afgerond tot die naaste 10</entry>
+              <entry>Geskatte antwoord</entry>
+              <entry>Presiese antwoord</entry>
+              <entry>Verskil tussen die 2 antwoorde</entry>
+            </row>
+            <row>
+              <entry>24 + 36</entry>
+              <entry>20 + 40</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>52 + 48</entry>
+              <entry>50 + 50</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>33 + 52</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>79 + 23</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>17 + 47</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>125 + 46</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>411 + 732</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166659719644">1.6 Kyk na die somme wat jy so pas voltooi het. In watter van hierdie somme was die geskatte en die werklike antwoorde taamlik ver van mekaar, en hoekom was dit so?</para>
+      <para id="id2237301"/>
+      <para id="id2210411"/>
+      <para id="id7506260">AFRONDING TOT DIE NAASTE 100:</para>
+      <para id="id5514035">1.7 Voltooi die volgende tabel. </para>
+      <table id="id7485189" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Getal</entry>
+              <entry>Afgerond tot die naaste 100</entry>
+            </row>
+            <row>
+              <entry>256</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>304</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>549</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 207</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 399</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8811638">AFRONDING TOT DIE NAASTE 1 000:</para>
+      <para id="id1166666003135">1</para>
+      <para id="id1166654472326">1.8 Voltooi die tabel hieronder. Indien jy onseker voel, kan jy die diagram in 1.9 raadpleeg.</para>
+      <table id="id5113049" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Getal</entry>
+              <entry>Getal afgerond tot die naaste 1 000</entry>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 702</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4 089</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>723</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 055</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>276</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8808494">1.9 Gebruik afronding om antwoorde vir die volgende somme te skat. Daarna moet jy die korrekte antwoord bereken.</para>
+      <table id="id7513070" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Die som met die presiese antwoord.</entry>
+              <entry>Die som met die getalle tot die naaste 10 afgerond en die geskatte antwoord.</entry>
+            </row>
+            <row>
+              <entry>873 + 46</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>934 － 87</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166663934089">2. <emphasis effect="bold">WOORDSOMME</emphasis></para>
+      <list id="id2608547" list-type="bulleted">
+        <item>Kom ons kyk hoe goed ons woordsomme sonder ‘n sakrekenaar kan oplos. Kontroleer dat jou antwoorde redelik is deur die getalle af te rond. Onthou dat jou finale antwoorde <emphasis effect="italics">presies</emphasis> moet wees. Die getalle is nie baie groot nie en die somme is redelik eenvoudig, maar jy moet versigtig lees. Skryf wat nodig is om te skryf en onthou om woorde by jou antwoorde te skryf. Wanneer jy die werk voltooi het, kan jy jou bevindings met dié van ‘n maat vergelyk. Geniet hierdie taak!</item>
+      </list>
+      <para id="id1166654332573">2.1 Tydens ‘n Algemene Kennis Kompetisie het die meisiespan teen teetyd 642 punte aangeteken. Die seunspan het 493 punte aangeteken. Hoeveel punte was die seunspan agter die meisiespan? </para>
+      <para id="id4519671">2.2 Teen etenstyd was die meisiespan se telling 734 punte en die seunspan se telling was 655.</para>
+      <list id="id915392" list-type="enumerated" number-style="lower-alpha">
+        <item>Is die seunspan besig om in te haal?</item>
+        <item>Hoekom gee jy hierdie antwoord? Wees versigtig hoe jy antwoord. </item>
+        <item>Met hoeveel punte was die seunspan teen etenstyd agter by die meisiespan? </item>
+      </list>
+      <para id="id1166664212716">2.3 Na ete het die seuns ‘n besliste poging aangewend. Tydens die middagskof het hulle ‘n verdere 619 punte aangeteken. Die meisies het 519 punte in die middag aangeteken. Aan die einde van die dag het hulle al die punte bymekaar getel. Wie het uiteindelik die kompetisie gewen – en met hoeveel punte?</para>
+      <para id="id1117654">3. <emphasis effect="bold">SAKREKENAAR-SPELETJIE: Twee spelers, een sakrekenaar</emphasis></para>
+      <figure id="id1166663060292">
+        <media id="id1166663060292_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-d64e.png" id="id1166663060292__onlineimage" height="249" width="587"/>
+        </media>
+      </figure>
+      <list id="id1166666863711" list-type="bulleted">
+        <item>Gaan so voort. As een van die spelers ‘n fout begaan, moet dit reggestel word en dan kry die ander speler ‘n ekstra kans om ‘n vraag te vra. Sorg dat die getalle nie groter as 4-syfergetalle word nie. Dit is ‘n goeie idee en waardevol om eers baie goed met 2-syfergetalle te leer speel.</item>
+        <item>Voltooi:</item>
+      </list>
+      <para id="id1166663134122">a. 100 – 7 =    </para>
+      <para id="id1166667315337">b. 1 000 – 7 =  </para>
+      <para id="id1873241">c. 500 – 7 =   </para>
+      <para id="id1166654277364">d. 500 – 17 =  </para>
+      <para id="id7492005">e. 500 – 27 =   </para>
+      <para id="id1166654903395">f. 700 – 70 =  </para>
+      <para id="id2628320">g. 1 000 – 70 =   </para>
+      <para id="id1166663894879">h. 2 100 – 70 =  </para>
+      <para id="id1166662732131">4. <emphasis effect="bold">‘N PAAR TEGNIEKE OM SKRIFTELIKE BEREKENINGE EN HOOFREKENE TE DOEN:</emphasis></para>
+      <list id="id1166663392541" list-type="bulleted">
+        <item>Hoe kan ek 8 + 7 maklik bymekaar tel?</item>
+      </list>
+      <figure id="id1166666296289">
+        <media id="id1166666296289_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-0986.png" id="id1166666296289__onlineimage" height="205" width="633"/>
+        </media>
+      </figure>
+      <para id="id1166655646010">
+        <figure id="id1202884">
+          <media id="id1202884_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-1785.png" id="id1202884__onlineimage" height="250" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1166669196380">4.2 Bespreek: Watter leerder was reg? Watter metode moet ons gebruik?</para>
+      <para id="id1166669550667"/>
+      <para id="id1166654020715"/>
+      <list id="id1166670272895" list-type="bulleted">
+        <item>Jy moet die metode gebruik <emphasis effect="italics">wat jy die heel beste verstaan</emphasis>, dit beteken die een waarmee jy gemaklik voel, maar jy moet terselfdertyd bereid wees om na die verduidelikings van ander leerders te luister. Gebruik altyd die metode wat jy goed genoeg verstaan om maklik <emphasis effect="italics">aan ander leerders te verduidelik</emphasis>. 4.3 Probeer om skakels tussen die verskillende somme raak te sien wanneer jy  antwoorde neerskryf:</item>
+      </list>
+      <para id="id5015833">a. 8 + 7 =   </para>
+      <para id="id1166667171798">b. 18 + 7 = </para>
+      <para id="id1166667091427">c. 8 + 17 =   </para>
+      <para id="id1166666241789">d. 18 + 17 = </para>
+      <para id="id2907800">e. 8 – 7 =   </para>
+      <para id="id1166664357128">f. 18 – 7 = </para>
+      <para id="id1166670499173">g. 28 – 7 =   </para>
+      <para id="id1166664323148">h. 28 – 17 = </para>
+      <para id="id1166666331800">5. Gebruik nou jou eie metode vir die volgende skriftelike somme. Skryf al die stappe wat jy  nodig het om by die antwoord uit te kom. Jy mag nie ‘n sakrekenaar gebruik nie.</para>
+      <list id="id1166665461270" list-type="bulleted">
+        <item>87 － 54</item>
+        <item>84 － 57</item>
+        <item>Bespreek hierdie twee somme en hulle antwoorde met ‘n maat.</item>
+        <item>Verduidelik wat jy agtergekom het. 6. Bereken nou, sonder ‘n sakrekenaar, maar met gebruik van die metodes waarmee jy die  gemaklikste voel. Skryf al die stappe van jou berekeninge neer:</item>
+      </list>
+      <list id="id1166670723978" list-type="bulleted">
+        <item>1 345 + 278</item>
+        <item>978 – 245</item>
+        <item>1 278 + 1 133 </item>
+        <item>845 – 672</item>
+        <item>684 – 659</item>
+      </list>
+      <list id="id1166671481462" list-type="bulleted">
+        <item>4 092 + 3 214</item>
+      </list>
+      <list id="id1166664288094" list-type="bulleted">
+        <item>Kontroleer die laaste som deur die afronding van die getalle tot die naaste 10 of die naaste 100 en die berekening van ‘n geskatte antwoord. Daarna kan jy met ‘n maat bespreek hoe jy jou antwoord gekry het. Indien nodig, kan jy jou antwoord met ‘n sakrekenaar kontroleer.</item>
+      </list>
+      <para id="id1166665748578">7. <emphasis effect="bold">MEER WOORDSOMME</emphasis></para>
+      <para id="id8870001"> Die verkope by ‘n kunsvlytmark oor die eerste vyf maande van die jaar:</para>
+      <table id="id1166667218601" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Maande</entry>
+              <entry>Koeldrank</entry>
+              <entry>Worsbroodjies</entry>
+              <entry>Roomys</entry>
+              <entry>Bekers sop</entry>
+            </row>
+            <row>
+              <entry>Januarie</entry>
+              <entry>3 064</entry>
+              <entry>1 754</entry>
+              <entry>2 356</entry>
+              <entry>225</entry>
+            </row>
+            <row>
+              <entry>Februarie</entry>
+              <entry>3 215</entry>
+              <entry>1 036</entry>
+              <entry>2978</entry>
+              <entry>54</entry>
+            </row>
+            <row>
+              <entry>Maart</entry>
+              <entry>1 964</entry>
+              <entry>2 375</entry>
+              <entry>2 035</entry>
+              <entry>987</entry>
+            </row>
+            <row>
+              <entry>April</entry>
+              <entry>874</entry>
+              <entry>3 752</entry>
+              <entry>1 096</entry>
+              <entry>1 952</entry>
+            </row>
+            <row>
+              <entry>Mei</entry>
+              <entry>756</entry>
+              <entry>3 904</entry>
+              <entry>788</entry>
+              <entry>2 659</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166667163539">7.1 Hoeveel koeldranke is altesame oor die vyf maande verkoop?</para>
+      <para id="id1166664364209">7.2 Wat was meer gewild oor hierdie vyf maande – koeldrank of roomys? Gee ‘n  verduideliking vir jou antwoord.</para>
+      <para id="id1166654888678">7.3 Koeldranke kos R5,00 elk. Hoeveel geld is in Mei met die verkoop van koeldranke  ingesamel? Kry ‘n maklike manier om hierdie berekening te doen en skryf dit neer.</para>
+      <para id="id1166664540946">7.4 Begin Januarie koop die eienaar van die roomysstalletjie 24 dose roomys. Elkeen  bevat 100 roomyse. Hoeveel roomyse is aan die einde van die Januarie-mark oor?</para>
+      <para id="id1166663855190">7.5 Wat was tydens die eerste vyf maande die gewildste: koeldrank, roomys,  worsbroodjies of sop?</para>
+      <para id="id8304646">7.6 Rond die getal koppies sop af tot die naaste 100 en maak ‘n skatting van hoeveel  koppies sop altesame verkoop is.</para>
+    </section>
+    <section id="id1166666239808">
+      <title>Assessering</title>
+      <table id="id1166654162191" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.7 probleme oplos wat die volgende behels:1.7.1 vergelyking van twee of meer hoeveelhede van dieselfde soort (verhouding);</entry>
+            </row>
+            <row>
+              <entry>1.8 skat en bereken deur geskikte bewerkings vir die oplossing van probleme in verband met die volgende te kies en te gebruik:1.8.1 afronding tot die naaste 10, 100 of 1 000; optel en aftrek van heelgetalle met minstens 4 syfers;</entry>
+            </row>
+            <row>
+              <entry>1.9 hoofberekeninge uitvoer wat die volgende behels:<list id="id8951260" list-type="bulleted"><item>optelling en aftrekking;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.10 ‘n verskeidenheid tegnieke gebruik om sowel skriftelike as hoofberekeninge met heelgetalle te doen, insluitend:<list id="id1166663235992" list-type="bulleted"><item>opbou en afbreek van getalle;</item><item>afronding en kompensering;</item><item>verdubbeling en halvering;</item><item>gebruik van ‘n getallelyn;</item><item>gebruik van ‘n sakrekenaar.</item></list></entry>
+            </row>
+            <row>
+              <entry>1.11 ‘n verskeidenheid strategieë gebruik om oplossings te kontroleer en die redelikheid van oplossings te beoordeel.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1166665271465">
+      <title>Memorandum</title>
+      <para id="id1166653991454">AKTIWITEIT 1</para>
+      <para id="id1166670492956">1.1  eie huis  </para>
+      <para id="id1166665423122">1.2 maat se huis  </para>
+      <para id="id1166654433396">1.3 enigeen / maat se huis</para>
+      <para id="id1166664186864">1.4  50; 1 350; 280; 980; 250; 1 130; 680</para>
+      <para id="id3132111">1.5 </para>
+      <table id="id1166654041770" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Som</entry>
+              <entry>Getalle afgerond tot die naaste 10</entry>
+              <entry>Geskatte antwoord</entry>
+              <entry>Presiese antwoord</entry>
+              <entry>Verskil</entry>
+            </row>
+            <row>
+              <entry>24 + 36</entry>
+              <entry>20 + 40</entry>
+              <entry>60</entry>
+              <entry>60</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>52 + 48</entry>
+              <entry>50 + 50</entry>
+              <entry>100</entry>
+              <entry>100</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>33 + 52</entry>
+              <entry>30 + 50</entry>
+              <entry>80</entry>
+              <entry>85</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>79+ 23</entry>
+              <entry>80 + 20</entry>
+              <entry>100</entry>
+              <entry>102</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>17 + 47</entry>
+              <entry>20 + 50</entry>
+              <entry>70 </entry>
+              <entry>64</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>125 + 46</entry>
+              <entry>130 + 50</entry>
+              <entry>180</entry>
+              <entry>171</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>411 + 732</entry>
+              <entry>410 + 730</entry>
+              <entry>1 140</entry>
+              <entry>1 143</entry>
+              <entry>3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166654491691">1.6 Hulle is na aan mekaar wanneer een antwoord boontoe afgerond word en die ander een ondertoe. Indien albei antwoorde boontoe afgerond word, of beide ondertoe afgerond word, is die totale nie so na aan mekaar nie, soos byvoorbeeld in die derde som, die vyfde som en die laaste twee somme. Die afronding vergroot die gaping.</para>
+      <para id="id1166669339455">1.9 873 + 46 = 919;  </para>
+      <para id="id1166653985505">870 + 50 = 920</para>
+      <para id="id1166663811884"> 934 – 87 = 847;  </para>
+      <para id="id1166663383579">930 – 90 = 840</para>
+      <para id="id1166665745324">2 WOORDSOMME</para>
+      <para id="id1166669316023">2.1  642 – 493 =149; </para>
+      <para id="id1166653989364">640 – 490 = 150</para>
+      <para id="id1166654984889">Die seuns was met 149 punte agter.</para>
+      <para id="id1166654360531">2.2 (a)  Ja</para>
+      <para id="id1166654505081">(b) 734 – 655 =79;  </para>
+      <para id="id1166656506841">730 – 660 = 70</para>
+      <para id="id1166665611760">Teen teetyd was die verskil tussen die meisies se punte en dié van die seuns 149 punte; teen etenstyd was die verskil slegs 79 punte. Dus was die seuns besig om die meisies in te haal</para>
+      <para id="id1166660152960">(c)  79 punte, sien hierbo</para>
+      <para id="id1166664253340">(d)  Meisies    </para>
+      <para id="id5996922">734 + 519 = 1 253 </para>
+      <para id="id1984480">Seuns</para>
+      <para id="id1166671484960">655 + 619 = 1 274</para>
+      <para id="id8093289">Die seuns het met 21 punte gewen.</para>
+      <para id="id7952712">3.1  Rekenaarspeletjie</para>
+      <para id="id1166654764759">3.2 (a) 93 </para>
+      <para id="id1166671439242">(b) 993 </para>
+      <para id="id1166669174527">(c) 493 </para>
+      <para id="id1166666141539">(d) 483  </para>
+      <para id="id1166654122730">(e) 473 </para>
+      <para id="id1166654216379">(f) 630</para>
+      <para id="id1166654434036">(g) 930 </para>
+      <para id="id1166670502040">(h) 2 030</para>
+      <para id="id1166666057275">4.1 en 4.2 Bespreking: Tegnieke</para>
+      <para id="id1166666143449">4.3 (a)  15 </para>
+      <para id="id8765985">(b) 25  </para>
+      <para id="id1166669264214">(c) 25 </para>
+      <para id="id1166665691579">(d) 35 </para>
+      <para id="id1166654128308">(e) 1 </para>
+      <para id="id1166656694846">(f) 11</para>
+      <para id="id1166670681392">(g) 21 </para>
+      <para id="id7360118">(h) 11</para>
+      <para id="id1166665997437">5. GESKREWE SOMME</para>
+      <para id="id1166654908519">5.1 33  </para>
+      <para id="id3011461">5.2 27</para>
+      <para id="id8782430">5.3 en 5.4 bespreking en verduideliking</para>
+      <para id="id1166669317302">6.1 1623  </para>
+      <para id="id1166665917784">6.2 733  </para>
+      <para id="id1166663819232">6.3 2 411  </para>
+      <para id="id1166671405950">6.4 173</para>
+      <para id="id1166663272521">6.5 25  </para>
+      <para id="id8847138">6.6 7 306</para>
+      <para id="id1166671525201">6.7 Kontrolering met behulp van afronding en bespreking</para>
+      <list id="id1166662974722" list-type="bulleted">
+        <item>9 873 koeldranke</item>
+        <item>koeldranke; 620 meer koeldranke as roomyse is verkoop</item>
+        <item>44 roomyse het oorgebly</item>
+        <item>worsbroodjies</item>
+        <item>Mei; baie worsbroodjies en bekers sop is verkoop; min koeldrank en roomys is verkoop.</item>
+        <item>6 000 bekers sop</item>
+      </list>
+    </section>
+  </content>
+</document>

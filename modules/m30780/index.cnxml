@@ -1,0 +1,1323 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ondersoek die oppervlak van veelhoeke</title>
+  <metadata>
+  <md:content-id>m30780</md:content-id><md:title>Ondersoek die oppervlak van veelhoeke</md:title>
+  <md:abstract/>
+  <md:uuid>82a2f7ec-d744-4b56-9859-1190a9f2add0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3147207">
+      <title>WISKUNDE </title>
+      <para id="para-id3147207">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3147214">
+      <title>Graad 4</title>
+      <para id="para-id3147214">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3147222">
+      <title>RUIMTE EN VORM, PATRONE, DATAHANTERING</title>
+      <para id="para-id3147222">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3147230">
+      <title>Module 14</title>
+      <para id="para-id3147230">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3147238">
+      <title>ONDERSOEK DIE OPPERVLAK VAN VEELHOEKE</title>
+      <para id="id3147244">Aktiwiteit 1:</para>
+      <para id="id3147249">Om die oppervlak van veelhoeke (met behulp van vierkantige roosters en teëls) te ondersoek en skat om 'n begrip van vierkanteenhede te ontwikkel [LU 4.8]</para>
+      <list id="id3147256" list-type="bulleted">
+        <item>Jy besef nou dat wanneer ons tessellasie doen, 'n plat vlak heeltemal bedek word sodat daar geen spasies of oorvleueling is nie.</item>
+      </list>
+      <para id="id3147265">1. Vierkantige blokke wat deur jou hand bedek word.</para>
+      <para id="id3147272">1.1 Werk versigtig en plaas jou hand, met vingers oopgesprei, op die geruite deel van die papier hier onder. Trek 'n potloodlyn reg rondom jou hand op die papier, tot by die gewrig. Lig jou hand. Daar sien jy nou jou hand se buitelyn. Wat ons wil doen, is om te sien hoeveel vierkantige blokkies jou hand bedek het.</para>
+      <para id="id3147288">1.2 Maak 'n kolletjie in elke volledige blokkie soos jy hulle tel, en skryf die totaal volledige blokkies in die tabel op die volgende bladsy. Soek nou al die plekke waar 'n halwe blokkie bedek is. Twee halwe blokkies maak een hele blok. Maak dus 'n kolletjie in elke halwe blokkie en tel hulle as hele blokkies. Skryf die getal neer. Sit nou dié waarvan minder as die helfte bedek is by dié waarvan meer as die helfte bedek is om nog meer hele blokke te maak. Skryf ook hierdie totaal neer. Dit behoort nou vir jou 'n benaderde idee te gee van hoeveel blokkies deur jou hand bedek word.</para>
+      <table id="id3147314" summary="">
+        <tgroup cols="15">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3148640">Vierkantige blokkies wat deur my hand bedek is</para>
+      <table id="id3148644" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Hele blokkies</entry>
+              <entry>Halwe blokkies wat tot heles gemaak is</entry>
+              <entry>Ander dele wat tot hele blokke gemaak is</entry>
+              <entry>Totale getal blokkies wat deur my hand bedek word.</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3148731">1.3 Kleur nou die vorm van jou hand op die papier in.</para>
+      <para id="id3148737">2. Tel die aantal vierkantige blokkies wat deur die volgende vorm bedek word op dieselfde manier. Sit dan al die blokkies bymekaar om hele blokke te maak. (Maak kolletjies in die blokkies, terwyl jy tel as dit jou help om dit reg te doen.)</para>
+      <table id="id3148749" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id3148770" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 1-c629.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>Totale getal vierkantige blokkies wat bedek word:  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3148808">3. Tel die blokkies wat deur die volgende veelhoeke bedek word:</para>
+      <figure id="id3148818">
+        <media id="id3148818_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-0c3c.png" id="id3148818__onlineimage" height="212" width="258"/>
+        </media>
+      </figure>
+      <para id="id3148841">3. 1   vierkantige blokkies</para>
+      <figure id="id3148852">
+        <media id="id3148852_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-43d5.png" id="id3148852__onlineimage" height="211" width="255"/>
+        </media>
+      </figure>
+      <para id="id3148875">3.2   vierkantige blokkies</para>
+      <para id="id3148882">Meet die vierkantige blokkies met jou liniaal. Hulle is 1 cm lank en 1 cm wyd . In plaas daarvan om van "vierkantige blokkies" te praat, kan ons hulle dus VIERKANT SENTIMETERS noem.</para>
+      <para id="id3148888">4. Vind nou uit hoeveel vierkant sentimeters deur elk van die volgende veelhoeke bedek word:</para>
+      <figure id="id3148898">
+        <media id="id3148898_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-47c5.png" id="id3148898__onlineimage" height="203" width="328"/>
+        </media>
+      </figure>
+      <para id="id3148921"> 4.1 _____________ vierkant cm</para>
+      <para id="id3148927">
+        <figure id="id3148931">
+          <media id="id3148931_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 5-233a.png" id="id3148931__onlineimage" height="205" width="293"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3148954">4.2 _____________ vierkant cm</para>
+      <para id="id3148958">5. Kom ons maak of jy 'n pophuis vir 'n niggietjie gebou het. Jy het die vloer van die badkamer met papier bedek waarop jy 1 cm vierkantblokkies getrek het. Op die vloer is daar 'n badmatjie, soos hieronder. Hoeveel van die teëls word deur die badmatjie bedek?</para>
+      <figure id="id3148976">
+        <media id="id3148976_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-6978.png" id="id3148976__onlineimage" height="206" width="571"/>
+        </media>
+      </figure>
+      <list id="id3148999" list-type="bulleted">
+        <item>Verduidelik vir jou maat hoe jy die antwoord bereken het.</item>
+        <item>Skryf neer hoe jy jou antwoord bereken het. Skryf ook jou antwoord neer. Onthou om “vierkant cm” by die antwoord te skryf.</item>
+      </list>
+      <para id="id3149020">6. In die gesinskamer is daar 'n mat wat 4 m lank en 3 m wyd is.</para>
+      <para id="id3149028">6.1 Teken 'n diagram om te toon hoe die mat lyk en skryf ook die lengte en die breedte  in.</para>
+      <para id="id3149037">6.2 Bereken hoeveel vierkant meters van die vloer deur die mat bedek word. Skryf jou berekening en die antwoord neer. Onthou om “vierkant meter" by die antwoord te skryf.</para>
+      <para id="id3149055">6.3 Teken nou 'n blok op jou diagram wat vier blokke lank en drie blokke wyd is. Toets jou antwoord vir 6.2.</para>
+      <para id="id3149063">7. Pappa gebruik 36 vierkantige teëls om die vloer van 'n vierkantige braai-area te teël. Hy begin die teëlwerk deur ses teëls langs mekaar teen die kant van die vloer te sit.</para>
+      <para id="id3149075">7.1 Hoeveel rye van ses teëls elk sal hy hê wanneer hy klaar is?</para>
+      <para id="id3149082">7.2 Teken 'n diagram om te wys hoe dit lyk.</para>
+      <para id="id3149089">8. </para>
+      <list id="id3149094" list-type="bulleted">
+        <item>Kan 'n mens 'n vierkantige geteëlde area met 25 vierkantige teëls maak? </item>
+      </list>
+      <para id="id3149103">8.2 Teken 'n diagram om te toon hoe dit sou lyk.</para>
+      <para id="id3149109">9. Pappa gebruik 736 teëls om 'n reghoekige stoep te teël. Daar is 23 teëls oor die breedte van die stoep. Hoeveel teëls is daar oor die lengte van hierdie stoep? Skryf jou berekening en die antwoord neer.</para>
+      <para id="id3149125">10. Klein 1-vierkantsentimeter-teëltjies wat soos tieroog halfedelstene lyk is gebruik om die werkoppervlak in die kombuis te bedek. Daar is 75 van hierdie teëltjies langs die lengte van hierdie oppervlak, en 54 teëltjies langs die breedte. Hoeveel teëltjies is daar altesaam?</para>
+      <para id="id3149141">Aktiwiteit 2:</para>
+      <para id="id3149146">Om getal- en geometriese patrone wat nie tot reekse met konstante verskil of verhouding beperk word nie te ondersoek en uit te brei [LU 2.1]</para>
+      <list id="id3149151" list-type="enumerated" number-style="arabic">
+        <item>Kyk na die volgende vorms (wat met eetstokkies of tandestokkies gemaak kan word) en skryf jou antwoorde neer:</item>
+      </list>
+      <para id="id3149161">1.1</para>
+      <para id="id3149165">
+        <figure id="id3149170">
+          <media id="id3149170_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149170__onlineimage" height="60" width="60"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3149192">1.2</para>
+      <figure id="id3149200">
+        <media id="id3149200_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149200__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id3149226">
+        <media id="id3149226_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149226__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <para id="id3149249">1.3</para>
+      <figure id="id3149257">
+        <media id="id3149257_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149257__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id3149283">
+        <media id="id3149283_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149283__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <figure id="id3149310">
+        <media id="id3149310_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-9254.png" id="id3149310__onlineimage" height="60" width="60"/>
+        </media>
+      </figure>
+      <para id="id3149333">1.4</para>
+      <para id="id3149337">_______________________</para>
+      <para id="id3149342">Daar is 'n duidelike patroon. Voorspel wat 1.4 sal wees.</para>
+      <para id="id3149348">Die patroon is so maklik om te herken omdat dit telkens op dieselfde manier verander.</para>
+      <para id="id3149352">As 'n mens die patroon kan raaksien, spaar dit baie tyd en energie wanneer ons antwoorde moet bereken.</para>
+      <para id="id3149357"/>
+      <para id="id3149361">2. Kyk nou weer 'n slag na veelvoude van 9. Ons het al klaar een patroon raakgesien. Het jy dalk 'n ander een ook opgemerk? 9; 18; 27; 36; …..</para>
+      <para id="id3149372">Tel die syfers wat deur elke veelvoud gelewer word bymekaar:0 + 9 = …; 1 + 8 = …; 2 + 7 = …….; 3 + 6 = …..</para>
+      <para id="id3149378">Is dit so by al die veelvoude van 9? Probeer nog 'n paar.Om die patroon te ken kan nuttig wees as jy nie seker is van 'n veelvoud nie. Soms raak 'n leerder deurmekaar en is dan onseker of dit 54 of 56 is wat 'n veelvoud van 9 is.Water een is dit? ……….</para>
+      <para id="id3149388">Johan weet dat iets in die sewentig 'n veelvoud van 9 is.Help hom: Dit is ………-en-sewentig.Al wat Johan moet doen, is om te sê: 7 + …… = 9; die veelvoud is 72.</para>
+      <para id="id3149397">3. Voltooi die volgende tabel deur die patroon te ontdek en te gebruik:</para>
+      <para id="id3149404">3.1</para>
+      <table id="id3149408" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>Invoer </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+            </row>
+            <row>
+              <entry>Uitvoer</entry>
+              <entry>7</entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry>28</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3149612">3.2 Hierdie inligting kan ook in 'n vloeidiagram gegee word. Voltooi nou die volgende vloeidiagram deur weer na 4.1 te kyk:</para>
+      <figure id="id3149624">
+        <media id="id3149624_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 17-39ae.png" id="id3149624__onlineimage" height="239" width="347"/>
+        </media>
+      </figure>
+      <para id="id3149647">3.3 Verduidelik wat gedoen is deur dit in woorde uit te skryf: Die invoergetal was</para>
+      <para id="id3149656"/>
+      <para id="id3149660"/>
+      <para id="id3149665">4.</para>
+      <para id="id3149669">4.1 Voltooi die tabel en verduidelik dan vir jou maats wat gedoen is:</para>
+      <table id="id3149676" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>17</entry>
+              <entry>22</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3149872">4.2 Gee dieselfde inligting van 5.1 in 'n vloeidiagram:</para>
+      <figure id="id3149882">
+        <media id="id3149882_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 18-7024.png" id="id3149882__onlineimage" height="199" width="522"/>
+        </media>
+      </figure>
+      <para id="id3149905">4.3 Verduidelik wat gedoen is deur dit in woorde uit te skryf: Die invoergetal was  </para>
+      <para id="id3149925"/>
+      <para id="id3149931">5.</para>
+      <para id="id3149935">5.1 Vind nou uit wat die “resep” hiervoor is en voltooi die tabel:</para>
+      <table id="id3149943" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id3150143" list-type="bulleted">
+        <item>Verduidelik wat gedoen is deur dit in woorde uit te skryf: Die invoergetal was  </item>
+      </list>
+      <para id="id3150153"/>
+      <para id="id3150157">5.3 Vind nou uit wat die “resep” is om hierdie tabel te voltooi:</para>
+      <table id="id3150165" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>14</entry>
+            </row>
+            <row>
+              <entry>Uit</entry>
+              <entry>3</entry>
+              <entry>7</entry>
+              <entry>11</entry>
+              <entry>15</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3150365">5.4 Verduidelik wat gedoen is deur dit in woorde uit te skryf: Die invoergetal was </para>
+      <para id="id3150377"/>
+      <para id="id3150382">5.5 Hoekom kan hierdie (6.3) tabel nie in die vorm van 'n vloeidiagram gegee word nie?  Bespreek dit met jou maats en skryf dan jou antwoord neer.</para>
+      <para id="id3150391"/>
+      <para id="id3150396">6. Ander patrone met getalle:</para>
+      <para id="id3150402">6.1 Tel hierdie syfers bymekaar: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10</para>
+      <para id="id3150410">'n Mens kan hulle maar in daardie volgorde bymekaar tel, of 'n mens kan 'n patroon probeer opspoor. Kom ons paar teenoorstaande getalle soos ons die nommers op die dobbelsteentjie gepaar het: die eerste en die laaste, en so aan. Dan word dit:</para>
+      <para id="id3150421">1 + 10 en 2 + 9 en 3 + 8 en 4 + 7 en 5 + 6. Wat merk jy nou op as jy die totale vergelyk?</para>
+      <para id="id3150430">  Jy kan dit verkort na: 5 × 11. Verduidelik dit aan 'n maat. Waarvandaan kry ons die 5 × 11 ?</para>
+      <para id="id3150454">6.2 Tel al die getalle van 1 tot 20 insluitend bymekaar. Probeer om 'n patroon en 'n kort metode op te spoor. Skryf wat jy gedoen het en die antwoord wat jy gekry op die stippellyn hieronder. Toets jou antwoord op die lang manier. Jy mag maar 'n sakrekenaar hiervoor gebruik.</para>
+      <para id="id3150471"/>
+      <para id="id3150476">7. Daar is nog 'n interessante patroon wat gesien kan word as jy die volgende bymekaartel:</para>
+      <list id="id3150482" list-type="bulleted">
+        <item>1 tot 10 insluitend = ……….</item>
+        <item>11 tot 20 insluitend = ………</item>
+        <item>21 tot 30 insluitend = ………</item>
+        <item>31 tot 40 insluitend = ……….</item>
+        <item>41 tot 50 insluitend, en so voorts tot 100. Skryf die antwoorde neer, bestudeer dit dan en probeer om te verduidelik hoekom hierdie patroon voorkom.</item>
+      </list>
+      <para id="id3150517"/>
+      <para id="id3150522">8. Nog meer patrone met vorms. Die volgende patroon kan met tandestokkies gebou word, een vir elke reguit lyn.</para>
+      <figure id="id3150533">
+        <media id="id3150533_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 19-cde0.png" id="id3150533__onlineimage" height="69" width="361"/>
+        </media>
+      </figure>
+      <para id="id3150556">8.1 Patroon: Elke keer as ons nog 'n driehoek bysit, het ons nog ……… tandestokkies nodig.</para>
+      <list id="id3150564" list-type="bulleted">
+        <item>Ons kan hierdie inligting in 'n tabel aanteken. Voltooi dit asseblief.</item>
+      </list>
+      <table id="id3150573" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Aantal driehoeke</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>17</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Aantal tande-stokkies</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id7584685" list-type="bulleted">
+        <item>Hoe word die laaste twee antwoorde bereken? Daar is ten minste twee verskillende maniere (sonder 'n sakrekenaar) en dit is belangrik om hulle met jou maats te bespreek.</item>
+      </list>
+      <para id="id7584696"><emphasis effect="bold">Wenk:</emphasis> Jy kan miskien na die tandestokkies wat virses driehoeke gebruik is, kyk en dit gebruik om te bereken hoeveel tandestokkies vir 17 driehoeke benodig word. Anders kan jy die algemene patroon gebruik en dit toepas om uit te vind hoeveel tandestokkies jy vir die 17 driehoeke nodig het. Die bespreking is belangrik, dus gee ons nie sommer 'n antwoord nie.Dieselfde geld vir die 25 driehoeke.</para>
+      <para id="id7584735">8.4 Skryf hoe jy die antwoorde bereken het, vir:</para>
+      <list id="id7584741" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>17 driehoeke</item>
+      </list>
+      <para id="id7584750"/>
+      <list id="id7584754" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>25 driehoeke</item>
+      </list>
+      <para id="id7584765"/>
+      <para id="id7584770">9. Voltooi die tabel:</para>
+      <table id="id7584779" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Uit</entry>
+              <entry>8</entry>
+              <entry>15</entry>
+              <entry>22</entry>
+              <entry>29</entry>
+              <entry>36</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7584983">TOETS JOU VORDERING</para>
+      <para id="id7584988">1. Toon die volgende 'n tessellasie? Skryf “ja” of “nee” vir elkeen.</para>
+      <table id="id7584998" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id7585018" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 20-9702.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>1.1 Gebruik van die trapesium en die ruit  </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id7585070" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 21-2ef3.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>1.2 Gebruik van die trapesium op sy eie  </entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id7585122" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 22-8c82.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>1.3 Gebruik van sirkels  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7585161">2. Noem een verskil tussen die kante van 'n trapesium en die kante van 'n parallelogram. .</para>
+      <para id="id7585170"/>
+      <para id="id7585174"/>
+      <para id="id7585179">3. Hoekom word 'n driehoek vir die raamwerk van 'n huis se dak gebruik?</para>
+      <para id="id7585185"/>
+      <para id="id7585190"/>
+      <para id="id7585194">4. Daar is 10 teëls in 'n ry en 17 rye teëls op 'n vloer. Hoeveel teëls is daar altesaam?</para>
+      <para id="id7585205"/>
+      <para id="id7585209"/>
+      <para id="id7585213">5. Pappa gebruik 135 teëls om die stoep te teël. Hy plaas 9 teëls oor die breedte van die stoep. Hoeveel teëls is daar oor die lengte van die stoep?</para>
+      <para id="id7585227"/>
+      <para id="id7585232"/>
+      <para id="id7585236"/>
+      <para id="id7585240"/>
+      <para id="id7585245"/>
+      <para id="id7585249">6. Teken 'n diagram om te wys hoe 'n geteëlde vierkant sal lyk as 16 vierkantige teëls gebruik word om dit te teël. Gebruik jou liniaal wanneer jy die teëls teken.</para>
+      <para id="id7585261"/>
+      <para id="id7585265"/>
+      <para id="id7585270"/>
+      <para id="id7585274"/>
+      <para id="id7585278"/>
+      <para id="id7585284">7. Voltooi die tabel:</para>
+      <table id="id7585291" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>13</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7585470">8. Voltooi die tabel:</para>
+      <table id="id7585477" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>9</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry>100</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7585626">9. Dertig vierkante word met tandestokkies gebou, soos in die diagram (een tandestokkie vir elke reguit lyn). Hoeveel tandestokkies word benodig?</para>
+      <para id="id7585635"/>
+      <para id="id7585737"/>
+      <para id="id7585741"/>
+      <para id="id7585746">10. Vind 'n patroon en skryf die ontbrekende getalle: 5; 13; 21; 29; …; …</para>
+    </section>
+    <section id="id7585753">
+      <title>Assessering</title>
+      <table id="id7585760" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder is in staat om patrone en verwantskappe te herken, te beskryf en voor te stel en probleme op te los deur algebraïese taal en vaardighede te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 meetkundige patrone ondersoek en uitbrei om verwantskappe of reëls te vind, insluitend patrone soos die volgende:</entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id7585889" list-type="bulleted">
+                  <item>voorgestel in fisiese of diagramvorm;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id7585904" list-type="bulleted">
+                  <item>nie beperk tot reekse met ‘n konstante verskil of verhouding nie.</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>LU 4 </entry>
+            </row>
+            <row>
+              <entry>MetingDie leerder is in staat om gepaste meeteenhede, instrumente en formules in ‘n verskeidenheid kontekste te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>4.8 ondersoek instel en bepaal by benadering (alleen en/of as lid van 'n groep of span) met betrekking tot:</entry>
+            </row>
+            <row>
+              <entry>4.8.2 oppervlakte van veelhoeke (m.b.v. vierkantroosters en teëling) ten einde ‘n begrip van vierkante eenhede te ontwikkel;<list id="id7585995" list-type="bulleted"><item>volume/kapasiteit van driedimensionele voorwerpe (deur dit te plak of te vul) ten einde ‘n begrip van kubieke eenhede te ontwikkel.</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7586005">
+      <title>Memorandum</title>
+      <para id="id7586011">AKTIWITEIT 1: oppervlak / area van veelhoeke</para>
+      <para id="id7586020">1.1 tot 1.3 Praktiese eie werk en die aanteken daarvan.</para>
+      <para id="id7586024">2. vier hele blokke en vyf en 'n stukkie van 'n blok = omtrent nege blokke</para>
+      <para id="id7586031">3.1 6</para>
+      <para id="id7586037">3.2 12</para>
+      <list id="id7586043" list-type="bulleted">
+        <item>omtrent 8 vierkante cm</item>
+        <item>7 vierkante cm</item>
+      </list>
+      <list id="id7586055" list-type="bulleted">
+        <item>die lengte aan die lang kant en die aantal teëls aan die kort kant is getel.</item>
+        <item>5 x 2 = 10 teëls of 10 vierkante cm</item>
+      </list>
+      <list id="id7586069" list-type="bulleted">
+        <item>Teken</item>
+        <item>4 m x 3 m = 12 vierkante meter</item>
+        <item>Teken</item>
+      </list>
+      <list id="id7586089" list-type="bulleted">
+        <item>6 rye</item>
+        <item>Teken</item>
+      </list>
+      <para id="id7586101">8.1 Ja</para>
+      <para id="id7586107">8.2 Teken</para>
+      <para id="id7586114">9. 23 x ? =736</para>
+      <para id="id7586131"> 32 teëls</para>
+      <para id="id7586137">10. 75 x 54 = 4 050 teëls!</para>
+      <para id="id7586145">AKTIWITEIT 2: patrone</para>
+      <para id="id7586152">1.4 vier patrone</para>
+      <para id="id7586159">2. Veelvoude van 9 – die syfers wat elke veelvoud van 9 vorm tel saam 9, dus is 54 'n veelvoud van 9; 72 is 'n veelvoud van 9. Dit is nuttig vir die kontrolering van antwoorde.</para>
+      <list id="id7586170" list-type="bulleted">
+        <item>Ontbrekende uitvoergetalle: 35; 42; 49; 70; 91</item>
+        <item>Vloeidiagram: invoergetalle: 1; 2; 3; 4; 5; 6; 7; 8; 9; 10 blou bewerkingsteken: x 7</item>
+      </list>
+      <para id="id7586190">3.Uitvoergetalle: 7; 14; 21; 28; 35; 42; 49; 56; 63; 70 </para>
+      <list id="id7586194" list-type="bulleted">
+        <item>Vermenigvuldig met 7</item>
+      </list>
+      <para id="id7586201">4.1</para>
+      <table id="id7586205" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>12</entry>
+              <entry>17</entry>
+              <entry>22</entry>
+              <entry>37</entry>
+              <entry>42</entry>
+              <entry>47</entry>
+              <entry>52</entry>
+              <entry>102</entry>
+              <entry>252</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7586429">4.2 Vloeidiagram:</para>
+      <para id="id7586436">Invoergetalle: 1; 2; 3; 4; 7; 8; 9; 10; 20; 50</para>
+      <para id="id7586442">Operators/bewerkingstekens:  x 5 + 2</para>
+      <para id="id7586449">Uitvoergetalle: 7; 12; 17; 22; 37; 42; 47; 52; 102; 252</para>
+      <list id="id7586456" list-type="bulleted">
+        <item>Vermenigvuldig met 5 en voeg 2 by die antwoord.</item>
+      </list>
+      <para id="id7586464">5.1</para>
+      <table id="id7586468" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+              <entry>20</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>13</entry>
+              <entry>19</entry>
+              <entry>23</entry>
+              <entry>25</entry>
+              <entry>41</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7586692">5.3 Vermenigvuldig met 2 en voeg telkens 1 by die antwoord </para>
+      <table id="id7586699" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>10</entry>
+              <entry>14</entry>
+            </row>
+            <row>
+              <entry>Uit</entry>
+              <entry>3</entry>
+              <entry>7</entry>
+              <entry>11</entry>
+              <entry>15</entry>
+              <entry>19</entry>
+              <entry>23</entry>
+              <entry>27</entry>
+              <entry>39</entry>
+              <entry>55</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7586920">5.4 Vermenigvuldig met 4 en trek 1 van die antwoord af.</para>
+      <list id="id7586926" list-type="bulleted">
+        <item>Dit kan!  x 4 – 1</item>
+      </list>
+      <list id="id7586935" list-type="bulleted">
+        <item>Eie</item>
+      </list>
+      <para id="id7586942">6.2 1 + 20; 2 + 19; 3 + 18; 4 + 17; 5 + 16; 6 + 15; 7 + 14; 8 + 13; 9 + 12; 10 + 11</para>
+      <para id="id7586948">10 x 21 = 210</para>
+      <para id="id7586953">7. 55; 155; 255; 355; 455 ens.</para>
+      <para id="id7586969"> Eie</para>
+      <para id="id7586974">8.1 2</para>
+      <para id="id7586980">8.2</para>
+      <table id="id7586984" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Driehoeke</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>17</entry>
+              <entry>25</entry>
+            </row>
+            <row>
+              <entry>Tande-stokkies</entry>
+              <entry>3</entry>
+              <entry>5</entry>
+              <entry>7</entry>
+              <entry>9</entry>
+              <entry>11</entry>
+              <entry>13</entry>
+              <entry>35</entry>
+              <entry>51</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id7587193" list-type="bulleted">
+        <item>Bespreking</item>
+      </list>
+      <para id="id7587202">8.4 (a) 17 x 2 + 1  </para>
+      <para id="id7587213">(b) 25 x 2 + 1</para>
+      <para id="id7587219">9.</para>
+      <table id="id7587223" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry>In </entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>10</entry>
+              <entry>20</entry>
+              <entry>50</entry>
+            </row>
+            <row>
+              <entry>Uit</entry>
+              <entry>8</entry>
+              <entry>15</entry>
+              <entry>22</entry>
+              <entry>29</entry>
+              <entry>36</entry>
+              <entry>43</entry>
+              <entry>71</entry>
+              <entry>141</entry>
+              <entry>351</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id7587444">
+        <title>TOETS JOU VORDERING</title>
+        <para id="id7587451">1.1 Ja  </para>
+        <para id="id7587459">1.2 Ja  </para>
+        <para id="id7587468">1.3 Nee</para>
+        <para id="id7587474">2. Net een stel teenoorstaande kante is parallel; hulle is nie ewe lank nie</para>
+        <para id="id7587480">3. Dit is 'n stewige fatsoen</para>
+        <para id="id7587487">4.  170 teëls</para>
+        <para id="id7587493">5. 15 teëls</para>
+        <para id="id7587501">6. Diagram 4 by 4</para>
+        <para id="id7587508">7.</para>
+        <table id="id7587512" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>10</entry>
+                <entry>12</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>7</entry>
+                <entry>10</entry>
+                <entry>13</entry>
+                <entry>16</entry>
+                <entry>19</entry>
+                <entry>31</entry>
+                <entry>37</entry>
+                <entry>61</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7587708">8.</para>
+        <table id="id7587712" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>10</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>4</entry>
+                <entry>9</entry>
+                <entry>16</entry>
+                <entry>49</entry>
+                <entry>64</entry>
+                <entry>100</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7587872">10.  5; 13; 21; 29; 37; 45</para>
+      </section>
+    </section>
+  </content>
+</document>

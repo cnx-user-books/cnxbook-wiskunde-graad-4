@@ -1,0 +1,974 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Gewone breuke met verskillende noemers en tellers</title>
+  <metadata>
+  <md:content-id>m30670</md:content-id><md:title>Gewone breuke met verskillende noemers en tellers</md:title>
+  <md:abstract/>
+  <md:uuid>62f8320f-89db-4fbc-9443-4f8a9d0d1ef9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7170436">
+      <title>WISKUNDE</title>
+      <para id="para-id7170436">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172607689409">
+      <title>Graad 4</title>
+      <para id="para-id1172607689409">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2001450">
+      <title>GETALLE, BREUKE, DESIMALE BREUKE EN GETALPATRONE</title>
+      <para id="para-id2001450">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3584425">
+      <title>Module 7</title>
+      <para id="para-id3584425">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7567666">
+      <title>GEWONE BREUKE MET VERSKILLENDE NOEMERS EN TELLERS</title>
+      <para id="id7223014">Aktiwiteit 1:</para>
+      <para id="id1172614158797">Om gewone breuke met verskillende noemers en tellers te herken [LU 1.3.2]</para>
+      <para id="id1172607227425">Wanneer heel voorwerpe in gelyke dele verdeel word, kry ons breuke. Breuke is gedeeltes van heles.</para>
+      <para id="id7588874">1. Lees die volgende en vul die ontbrekende getalle van die dele in:</para>
+      <table id="id7969906" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Aantal gelyke dele waarin die hele verdeel is</entry>
+              <entry>Naam van breuk</entry>
+            </row>
+            <row>
+              <entry>2 gelyke dele</entry>
+              <entry>Halwes</entry>
+            </row>
+            <row>
+              <entry>…….gelyke dele</entry>
+              <entry>Derdes</entry>
+            </row>
+            <row>
+              <entry>4 gelyke dele</entry>
+              <entry>Kwarte</entry>
+            </row>
+            <row>
+              <entry>5 gelyke dele</entry>
+              <entry>Vyfdes</entry>
+            </row>
+            <row>
+              <entry>……. gelyke dele</entry>
+              <entry>Sesdes</entry>
+            </row>
+            <row>
+              <entry>7 gelyke dele</entry>
+              <entry>Sewendes</entry>
+            </row>
+            <row>
+              <entry>8 gelyke dele</entry>
+              <entry>Agstes</entry>
+            </row>
+            <row>
+              <entry>9 gelyke dele</entry>
+              <entry>Negendes</entry>
+            </row>
+            <row>
+              <entry>……. gelyke dele</entry>
+              <entry>Tiendes</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172606085882">2. Noem die dele of GEWONE BREUKE waarin elke staaf verdeel is:</para>
+      <para id="id1172616178532">Voorbeeld:</para>
+      <table id="id1172616171808" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8977963">Dit is in kwarte verdeel.</para>
+      <para id="id1172613930620">2.1 </para>
+      <table id="id1172616480668" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4549066">Dit is in __________________verdeel.</para>
+      <para id="id1172608539357">2.2</para>
+      <table id="id2084412" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172614337104">Dit is in_______________________ verdeel.</para>
+      <para id="id2370092">2.3</para>
+      <table id="id1172612954743" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172616457979">Dit is in____________________ verdeel.</para>
+      <para id="id8678879">2.4</para>
+      <table id="id2188114" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8751988">Dit is in_________________________ verdeel.</para>
+      <para id="id2162835">2.5</para>
+      <table id="id7406309" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172610558203">Dit is in____________________ verdeel.</para>
+      <para id="id1172613151829"/>
+      <para id="id8699360">2.6</para>
+      <table id="id1172613242490" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2726080">Dit is in_____________________ verdeel.</para>
+      <para id="id2204134">TOETS JOU VAARDIGHEID (oefeninge 1 en 2 hierbo) </para>
+      <para id="id1172614396682">1.</para>
+      <para id="id5136284">1.1Verdeel die sirkel in die helfte:</para>
+      <figure id="id4598873">
+        <media id="id4598873_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-2488.png" id="id4598873__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id2743793">1.2 Verdeel dit op 'n ander manier in die helfte:</para>
+      <figure id="id6008345">
+        <media id="id6008345_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id6008345__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id8650947"> 1.3 Op hoeveel verskillende maniere kan 'n sirkel in die helfte verdeel word?</para>
+      <para id="id8975252">2.</para>
+      <para id="id1160139">2.1 Verdeel die reghoek in derdes.</para>
+      <para id="id2304187">
+        <figure id="id1172608569492">
+          <media id="id1172608569492_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-7361.png" id="id1172608569492__onlineimage" height="178" width="236"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1172616140790">2.2 Verdeel dit in derdes op 'n ander manier:</para>
+      <figure id="id1172616130266">
+        <media id="id1172616130266_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-7361.png" id="id1172616130266__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <para id="id1172616221276"> 2.3 Hoeveel gelyke dele is daar as iets in derdes verdeel is?</para>
+      <para id="id1172604494290">3. Hoeveel gelyke dele is daar in elk van die volgende diagramme en wat noem ons hulle?</para>
+      <table id="id3980863" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172613273831">3.1 _______dele; wat ons ________ noem.</para>
+      <table id="id1172607191729" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172613158453"/>
+      <para id="id1172608616362">3.2 _______dele; wat ons _______  noem.</para>
+      <para id="id8705559">4. Kleur een helfte van 3.1 op die vorige bladsy in, en een derde van 3.2. Watter een is groter: een halwe of een derde?</para>
+      <para id="id1172610920777">5. Kyk nou na die twee stawe hieronder. Die boonste staaf toon _______omdat</para>
+      <para id="id3425934"> daar _______gelyke dele is.</para>
+      <table id="id1172616221580" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry namest="c6" nameend="c7"/>
+              <entry/>
+              <entry/>
+              <entry namest="c10" nameend="c11"/>
+              <entry namest="c12" nameend="c13"/>
+              <entry namest="c14" nameend="c15"/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3420062">Die staaf daaronder toon_______ omdat daar________gelyke dele is. </para>
+      <para id="id8946972">3. <emphasis effect="bold">WERK SELF! INDIWIDUELE WERK: HERKENNING EN VOORSTELLING VAN TELLERS</emphasis></para>
+      <list id="id2207916" list-type="bulleted">
+        <item>Die werk op hierdie bladsy is vir uitknip en vou bedoel. Die module het 'n aparte bladsy met voorbeelde van verskillende fatsoene. Knip al die fatsoene op bl. 24 uit en volg die instruksies hieronder:</item>
+      </list>
+      <para id="id3482882">3.1 Knip die driehoek op die aparte bladsy uit. Vou dit in die helfte. Ontvou dit nou. Teken 'n stippellyn op die vou langs. Die stippellyn verdeel die driehoek in twee gelyke dele, of halwes. Kleur een helfte in. Plak jou uitgeknipte fatsoen in die driehoek hieronder. Gee die naam van die deel wat jy ingekleur het.</para>
+      <figure id="id3979063">
+        <media id="id3979063_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-07fa.png" id="id3979063__onlineimage" height="311" width="311"/>
+        </media>
+      </figure>
+      <para id="id1172612907782">3.2 Knip die sirkel op jou aparte bladsy uit. Vou dit in die helfte. Vou dit weer in die helfte. Ontvou nou die sirkel. Trek stippellyne op die voue. Die stippellyne behoort die sirkel in vier gelyke dele (kwarte) te verdeel. Kleur drie van die dele in. Plak nou jou uitgeknipte fatsoen oor die sirkel wat hieronder gedruk is. Benoem die deel wat ingekleur is.</para>
+      <figure id="id3264656">
+        <media id="id3264656_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-df60.png" id="id3264656__onlineimage" height="281" width="301"/>
+        </media>
+      </figure>
+      <para id="id1172610848950">3.3 Is die sirkel in kwarte verdeel?</para>
+      <para id="id7496214">Jou antwoord: ________</para>
+      <figure id="id7502683">
+        <media id="id7502683_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-586e.png" id="id7502683__onlineimage" height="97" width="99"/>
+        </media>
+      </figure>
+      <para id="id8051393">3.4 Knip die reghoek op jou aparte bladsy uit. Vou dit om derdes te lewer. Ontvou dit. Trek stippellyne op die voue. Die stippellyne behoort die reghoek in derdes te verdeel. Kleur twee van hulle in. Doen dieselfde met die tweede reghoek, maar probeer om dit in sesdes te vou. Kleur twee van hulle in. Plak nou jou uitgeknipte fatsoene oor die reghoeke wat hieronder verskyn. Benoem die dele wat jy ingekleur het.</para>
+      <figure id="id8208185">
+        <media id="id8208185_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-7361.png" id="id8208185__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <figure id="id3642366">
+        <media id="id3642366_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-7361.png" id="id3642366__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <para id="id2389332"/>
+      <para id="id4028712">3.5 Knip die staaf op die aparte bladsy uit. Vou dit om agstes te lewer. Ontvou dit. Trek stippellyne op die voue. Die stippellyne behoort die staaf in agt gelyke dele te verdeel. Toets dit om te sorg dat dit reg is. Kleur twee dele in. Doen dieselfde met die tweede staaf, maar vou dit om kwarte te lewer. Kleur ook twee van hulle in. Plak nou jou uitknipsel oor die stawe wat hieronder getoon word. Benoem die dele wat jy ingekleur het.</para>
+      <figure id="id1172616530877">
+        <media id="id1172616530877_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id1172616530877__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <figure id="id3588781">
+        <media id="id3588781_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id3588781__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <para id="id1172612993675">3.6 Kyk nou na die stawe en gebruik die tekens &lt; en  om die werk op die volgende bladsy van die module te voltooi:</para>
+      <list id="id1172613154734" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Twee agstes ____________ twee kwarte</item>
+        <item>Drie agstes ____________ een kwart</item>
+        <item>Een agste _________ een kwart</item>
+        <item>Vyf agstes ________ 'n driekwart</item>
+        <item>Ses agstes ___________twee kwarte</item>
+        <item>Drie agstes ____________ twee kwarte</item>
+      </list>
+      <para id="id6269182">FATSOENE VIR UITKNIP</para>
+      <figure id="id1172605878422">
+        <media id="id1172605878422_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-07fa.png" id="id1172605878422__onlineimage" height="311" width="311"/>
+        </media>
+      </figure>
+      <figure id="id3372696">
+        <media id="id3372696_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-df60.png" id="id3372696__onlineimage" height="281" width="301"/>
+        </media>
+      </figure>
+      <para id="id5512156">
+        <figure id="id3481621">
+          <media id="id3481621_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 11-7361.png" id="id3481621__onlineimage" height="178" width="236"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id4638694">
+        <media id="id4638694_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12-7361.png" id="id4638694__onlineimage" height="178" width="236"/>
+        </media>
+      </figure>
+      <figure id="id3515681">
+        <media id="id3515681_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id3515681__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <figure id="id5234045">
+        <media id="id5234045_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id5234045__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <para id="id3161021">Aktiwiteit 2:</para>
+      <para id="id5763085">Om omgekeerde verwantskap, ekwivalensie en die eienskappe van heelgetalle te herken en te beskryf [LU 1.12]</para>
+      <para id="id1172613219811"/>
+      <para id="id8991674">Wat is breuke?</para>
+      <para id="id5467522">Ons het gesê dat breuke gelyke dele van 'n geheel is. Breuke is getalle. Vyf en twintig is 'n getal; half / halwe is ook 'n getal.</para>
+      <list id="id7459941" list-type="bulleted">
+        <item>25 is nie 'n 2 en 'n 5 nie! 25 is twintig en vyf. Net so moet ons aan 'n halwe as 'n getal dink. Dit bestaan nie uit 'n 1 en 'n 2 nie; dit is 'n halwe, 'n getal. </item>
+        <item>Al die deeltjies van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> vorm saam 'n getal.</item>
+        <item>In Module 1 het ons geleer dat <emphasis effect="italics">vyf en twintig</emphasis> in woorde of met syfers geskryf kan word: 25.</item>
+        <item>Breuke kan ook in woorde of met syfers geskryf word: halwe of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>.</item>
+      </list>
+      <para id="id1172605676661">Wat is 'n halwe? Ons neem 'n hele en verdeel dit in twee gelyke dele. Ons sou 'n appel kon neem en dit gelykop tussen twee meisies kon verdeel. 1  2 = halwe</para>
+      <para id="id4065670"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> Die lyn in die middel kan  beteken, so 1  2</para>
+      <para id="id1172603703978">Halwe of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> beteken 1  2</para>
+      <list id="id4074158" list-type="bulleted">
+        <item>Wanneer ons breuke as getalle skryf, sê die syfer wat onder die lyn is vir ons in hoeveel dele die geheel verdeel is. Die boonste syfer sê vir ons hoeveel van die dele gebruik word.</item>
+      </list>
+      <equation id="id1172608585791">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="id1172610707354">Hoeveel van die dele gebruik word (Teller)</para>
+      <para id="id3533285"/>
+      <para id="id9059637">In hoeveel dele die geheel verdeel is (Noemer)</para>
+      <para id="id1172616474514">1. Elk van die volgende stawe stel 'n geheel (een hele) voor.</para>
+      <para id="id6109253">1.1 Hierdie staaf is in vyfdes verdeel.</para>
+      <para id="id1172608733615">a) Trek gekleurde lyne daaroor om tiendes te toon:</para>
+      <table id="id8145021" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id7150302" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Kleur 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> daarvan in.</item>
+      </list>
+      <para id="id5513547">1.2 Hierdie staaf toon twaalfdes.</para>
+      <para id="id2359923">a) Trek gekleurde lyne daaroor om kwarte te toon.</para>
+      <table id="id3149495" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2401958">b) Kleur 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> daarvan in.</para>
+      <para id="id8357369">1.3 Hierdie staaf toon veertiendes.</para>
+      <para id="id1172614401882">a) Trek gekleurde lyne daaroor om sewendes te toon.</para>
+      <table id="id1172616314302" summary="">
+        <tgroup cols="14">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172614057153">b) Kleur 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {7} } } {}</m:annotation></m:semantics></m:math> daarvan in.</para>
+      <para id="id2762084">Aktiwiteit 3:</para>
+      <list id="id1172604812168" list-type="bulleted">
+        <item>Om probleme op te los wat gelyke deling met 'n res behels [LU 1.8.6]</item>
+      </list>
+      <list id="id3588457" list-type="bulleted">
+        <item>Om ekwivalente vorms van gewone breuke te herken en gebruik [LU 1.5.1]</item>
+        <item/>
+      </list>
+      <para id="id1172604663483">Om gewone breuke te herken en voor te stel om hulle in skrif en diagrammaties te beskryf en voor te stel [LU 1.3.3]</para>
+      <para id="id4141757"/>
+      <para id="id5263057">GROEPWERK</para>
+      <para id="id3126406">1. Lees die volgende storietjie en voltooi dan die vrae en instruksies daaroor. Indien jou opvoeder daarmee tevrede is, kan julle in groepe saamwerk.</para>
+      <para id="id4157347">Toe die klok vir pouse lui, het Khanyi en Reyhana na hulle gunsteling sonnige hoek van die speelgrond gehardloop. Hulle gaan sit en maak hul kosblikke oop.</para>
+      <para id="id1172608690751">“Kyk net!” sê Khanyi. “Vandag het ek ses Marie-beskuitjies! Ek kan nie ses beskuitjies eet nie! Ek sê jou wat ons doen, Reyhana. Kom ons deel ons kos gelykop.”</para>
+      <para id="id1172616537003">“Dis 'n goeie plan,” sê Reyhana. “Ek het van daardie stukkies gedroogde vrugte. Jy weet mos, hulle maak die vrugte fyn, rol dit in suiker en sny dit in sulke happie-groottes. My ma het nege stukkies ingepak!”</para>
+      <para id="id5781086">Net toe kom twee ander maats aangehardloop en vra of hulle ook daar mag sit. “Natuurlik!” sê Reyhana. “Ons gaan ons skoolkos gelykop deel. Dit sal nogal prettig wees. Wat het julle?”</para>
+      <para id="id1172606354064">Jill gaan sit en maak haar kosblik oop. “Ek het twee van daardie kasies wat 'n mens in 'n ronde dosie koop,” sê sy. “Jy weet, die kaasdriehoekies wat in blink papier toegedraai is.”</para>
+      <para id="id3671002">Themba sê, “Ek dink my ma was haastig! Sy het 'n appel in agt stukkie gesny en dit vir my ingepak.”</para>
+      <para id="id8776629">“Dit werk goed uit,” sê Khanyi, “Daar is vier van ons, dus kan elkeen twee stukkies van jou appel kry. Kom ons verdeel nou my ses beskuitjies.”</para>
+      <para id="id1172613970459">Hier is die vrae en instruksies oor die storie.</para>
+      <list id="id1172613159493" list-type="bulleted">
+        <item>Daar was 4 meisies. Kleur in hoeveel van die beskuitjies EEN meisie gekry het.</item>
+      </list>
+      <figure id="id3658992">
+        <media id="id3658992_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id3658992__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id1172606056790">
+        <media id="id1172606056790_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id1172606056790__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id1172616586942"/>
+      <figure id="id3062305">
+        <media id="id3062305_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id3062305__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id6724384">
+        <media id="id6724384_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id6724384__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id3578470">
+        <media id="id3578470_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id3578470__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <figure id="id1172616204854">
+        <media id="id1172616204854_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 20-2488.png" id="id1172616204854__onlineimage" height="138" width="140"/>
+        </media>
+      </figure>
+      <para id="id2554229"/>
+      <para id="id1172607515753">1.2 Hoeveel van die beskuitjies het elke meisie gekry?</para>
+      <para id="id1172604367933">1.3 Khanyi het gesê dat elke meisie twee stukkies appel kon kry. Gesels met 'n maat of in die groep en bespreek hoeveel van die hele appel elke meisie ontvang het. Skryf nou jou antwoord hier.</para>
+      <para id="id8935172">1.4 Daar was nege stukkies versuikerde vrugte. Hoeveel hele stukkies het elke meisie ontvang?</para>
+      <para id="id3247385">1.5 Hoeveel stukkies versuikerde vrugte het oorgebly? Teken 'n prent om aan te dui hoe die meisies dit gelykop kon verdeel.</para>
+      <para id="id2617407">1.6 Hoeveel van die gedroogde vrugte het elke meisie ontvang?</para>
+      <para id="id2571665">1.7 Daar was twee kaasdriehoekies en vier meisies. Bespreek, met 'n maat of met die groep, hoe die meisies dit gelykop kon verdeel en trek stippellyne op die diagramme hieronder om te wys hoe hulle dit gedoen het.</para>
+      <figure id="id7337137">
+        <media id="id7337137_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 26-07fa.png" id="id7337137__onlineimage" height="200" width="200"/>
+        </media>
+      </figure>
+      <para id="id6159667">
+        <figure id="id3592376">
+          <media id="id3592376_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 26-07fa.png" id="id3592376__onlineimage" height="200" width="200"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3685440">1.8 Watter breuk van een kaasdriehoekie het elke meisie ontvang?</para>
+      <para id="id8979955">1.9 Watter breuk van al die kaas (twee driehoekies) het elke meisie ontvang?</para>
+      <para id="id8081312">et toe lui die klok om aan te dui dat die pouse verby was. Toe hulle weer in die klaskamer is, sê hulle opvoeder, “Vandag gaan ons oor gelyke verdeling’ gesels en julle kan 'n prent teken van hoe julle dinge gelykop verdeel.” Ons vier maats het natuurlik gedink dat hierdie les besonder maklik was en die opvoeder was hoogs tevrede met hulle werk. Sy het gewonder hoe hulle dit reggekry het om die werk so vinnig en sonder foute te doen. En hulle het ná die les eers verduidelik hoe hulle hul pouse deurgebring het!</para>
+      <para id="id2077463">TOETS JOU VAARDIGHEDE: [LU 1.3.3, 1.5.1, 1.8.6]</para>
+      <para id="id2755080">BREUKE IN DIAGRAMMATIESE VORM; GELYKE VERDELING </para>
+      <para id="id3584847">Kyk of jy die werk wat die opvoeder aan die klas opgedra het, kan doen:</para>
+      <list id="id2536959" list-type="enumerated" number-style="arabic">
+        <item>Verdeel 2 Marie-beskuitjies gelykop tussen 5 leerders. Trek lyne oor die sirkels hieronder om te wys hoe jy dit sou doen en skryf dan altesaam hoeveel elke leerder gekry het.</item>
+      </list>
+      <para id="id6781060">
+        <figure id="id1172605693131">
+          <media id="id1172605693131_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 28-2488.png" id="id1172605693131__onlineimage" height="118" width="119"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1172606060400">
+        <media id="id1172606060400_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 28-2488.png" id="id1172606060400__onlineimage" height="118" width="119"/>
+        </media>
+      </figure>
+      <para id="id8306932">Antwoord: ____________________________</para>
+      <list id="id1172605892278" list-type="enumerated" number-style="arabic">
+        <item>Verdeel 5 Provita-beskuitjies gelykop tussen 2 meisies. Trek eers lyne oor die reghoeke om te wys hoe hulle gelykop tussen die twee meisies verdeel is. Skryf dan altesaam hoeveel elke meisie ontvang het.</item>
+      </list>
+      <figure id="id2260000">
+        <media id="id2260000_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id2260000__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <figure id="id1172613312748">
+        <media id="id1172613312748_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id1172613312748__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <para id="id1172608590619">
+        <figure id="id7201036">
+          <media id="id7201036_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id7201036__onlineimage" height="104" width="253"/>
+          </media>
+        </figure>
+      </para>
+      <figure id="id1172608557093">
+        <media id="id1172608557093_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id1172608557093__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <figure id="id5867989">
+        <media id="id5867989_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-2488.png" id="id5867989__onlineimage" height="104" width="253"/>
+        </media>
+      </figure>
+      <para id="id1172616247427">Antwoord: ______________________________</para>
+      <list id="id4770044" list-type="enumerated" number-style="arabic">
+        <item>Drie leerders wil 'n blikkie Coca Cola gelykop verdeel. Elkeen het 'n papierkoppie. Hoeveel van die Coca Cola sal elke leerder ontvang? Trek stippellyne op die blikkie hieronder om te toon hoeveel elke leerder sal kry. Skryf dan wat die deel is wat elkeen ontvang.</item>
+      </list>
+      <figure id="id1172607687676">
+        <media id="id1172607687676_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 28-2488.png" id="id1172607687676__onlineimage" height="119" width="75"/>
+        </media>
+      </figure>
+      <para id="id1172610965212">Antwoord: _____________________________________</para>
+      <para id="id3757268">4. Verdeel 2 brode gelykop tussen 3 werkers. Hoeveel sal elke werker ontvang? (Jy mag dit teken as dit jou sal help.)</para>
+      <para id="id4428571">5. Verdeel 7 worsbroodjies gelykop tussen 6 seuns. Hoeveel van die worsbroodjies sal elke seun ontvang? (Jy mag dit teken as dit jou sal help.) </para>
+      <para id="id7201767">6. Verdeel 8 toebroodjies gelykop tussen 3 seuns. Hoeveel sal elke seun ontvang? (Jy mag dit teken as dit jou sal help.) </para>
+      <para id="id7798118">7. Verdeel 8 piesangs gelykop tussen 7 seuns. Hoeveel sal elke seun ontvang? (Jy mag dit teken as dit jou sal help.)</para>
+      <para id="id6131962">8. Verdeel 17 skywe polonie gelykop tussen 8 seuns. Hoeveel sal elke seun ontvang? (Jy mag dit teken as dit jou sal help.)</para>
+      <figure id="id7989666">
+        <media id="id7989666_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 35.png" id="id7989666__onlineimage" height="126" width="129"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id2041157">
+      <title>Assessering</title>
+      <table id="id8510181" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder kan getalle en hulle verwantskappe herken, beskryf en voorstel en kan in die oplossing van probleme met bekwaamheid en selfvertroue tel, skat, bereken en kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 aan en terugtel in ‘n verskeidenheid van intervalle;</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle herken en voorstel sodat dit beskryf en vergelyk kan word:<list id="id1172605551948" list-type="bulleted"><item>gewone breuke met verskillende noemers, insluitend halwes, derdes, kwarte, vyfdes, sesdes, sewendes en agstes;</item><item>gewone breuke in diagramvorm;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens., in die konteks van meting;</item></list><list id="id1172610907001" list-type="bulleted"><item>veelvoude van enkelsyfergetalle tot minstens 100;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.5 ekwivalente vorms van die bogenoemde getalle herken en gebruik, insluitend;<list id="id1172614347398" list-type="bulleted"><item>gewone breuke met noemers wat veelvoude van mekaar is;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens. In die konteks van die meting;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.7 probleme oplos wat die volgende behels:1.7.1 vergelyking van twee of meer hoeveelhede van dieselfde soort(verhouding);</entry>
+            </row>
+            <row>
+              <entry>1.8 skat en bereken deur geskikte bewerkings vir die oplossing van probleme in verband met die volgende kies en te gebruik:<list id="id8689822" list-type="bulleted"><item>optel van gewone breuke in konteks;</item></list><list id="id2078082" list-type="bulleted"><item>gelyke verdeling met reste;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.9 hoofberekeninge uitvoer wat die volgende behels:1</entry>
+            </row>
+            <row>
+              <entry>1.9.2 vermenigvuldiging van heelgetalle tot minstens 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 herken, beskryf en gebruik:</entry>
+            </row>
+            <row>
+              <entry>1.12.1 die omgekeerde verwantskap tussen vermenigvuldiging en deling (bv. as 5 x 3 = 15 , dan is 15 ÷ 3 = 5 en 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 die ekwivalensie van deling en breuke (bv. 1 ÷ 8 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>;</entry>
+            </row>
+            <row>
+              <entry>1.12.3 die kommutatiewe, assosiatiewe en distributiewe eienskappe van heelgetalle.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7361694">
+      <title>Memorandum</title>
+      <para id="id1172613011530">AKTIWITEIT 1: herkenning van gewone breuke</para>
+      <para id="id1172607465395">1. Ontbrekende getalle: …; 3; 6; 10</para>
+      <para id="id1172605954711">2. Gewone breuke</para>
+      <para id="id1172616459417">2.1 vyfdes 2.2 sesdes 2.3 sewendes 2.4 agstes</para>
+      <para id="id1172604580036">2.5 neëndes 2.6 tiendes</para>
+      <para id="id2244376">TOETS JOU VAARDIGHEID</para>
+      <list id="id1172605841070" list-type="bulleted">
+        <item>en 1.2 sirkel vertikaal in die helfte verdeel; sirkel horisontaal in die helfte verdeel</item>
+      </list>
+      <para id="id1172613945086">2.1 en 2.2 Reghoek horisontaal en vertikaal in derdes verdeel.</para>
+      <para id="id1172614181121">2.3 3</para>
+      <para id="id8301651">3.1 2; halwes 3.2 3 derdes</para>
+      <para id="id1172606279555">4. ingekleurde deel; een halwe is groter as een derde.</para>
+      <para id="id1172613155715">5. tiendes; 10 gelyke dele; agstes; 8 gelyke dele</para>
+      <para id="id5866367">3. DOEN DIT SELF</para>
+      <para id="id1172603560309">3.1 Driehoek in die helfte gevou; een helfte ingekleur.</para>
+      <para id="id1172604507261">3.2 Sirkel in kwarte gevou; drie kwarte ingekleur.</para>
+      <para id="id4044580">3.3 Nee</para>
+      <para id="id1172608837674">3.4 Reghoek in derdes gevou; twee derdes ingekleur; tweede reghoek in sesdes gevou; twee sesdes ingekleur. </para>
+      <para id="id1172613038749">3.5 Staaf in agstes gevou; twee agstes ingekleur; tweede staaf in kwarte gevou; twee kwarte ingekleur.</para>
+      <para id="id3984776">3.6 (a) &lt; (b)  (c) &lt; (d) &lt; (e)  (f) &lt;</para>
+      <para id="id6702375">AKTIWITEIT 2: ekwivalensie van deling en breuke</para>
+      <para id="id3973697">1.1 (a) en (b)</para>
+      <table id="id7570734" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1746833">1.2 (a) en (b)</para>
+      <table id="id1172608624433" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172606093528">1.3 (a) en (b)</para>
+      <table id="id1172605783760" summary="">
+        <tgroup cols="14">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172604534694">AKTIWITEIT 3: probleme</para>
+      <para id="id3511210">1.1 ses beskuitjies; een hele en een halwe ingekleur</para>
+      <para id="id1172613936958">1.2 een en 'n halwe</para>
+      <para id="id1172614166381">1.3 twee agstes/ een kwart</para>
+      <para id="id1172608660101">1.4 2</para>
+      <para id="id1172610852262">1.5 </para>
+      <table id="id2596380" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5493072">1.6 2 en 'n kwart</para>
+      <list id="id1172606455943" list-type="bulleted">
+        <item>twee driehoeke wat gehalveer is</item>
+        <item>die helfte</item>
+        <item>'n kwart</item>
+      </list>
+      <section id="id1172616234511">
+        <title>TOETS JOU VAARDIGHEID</title>
+        <list id="id1172604745142" list-type="enumerated" number-style="arabic">
+          <item>twee sirkels wat elk in vyfdes verdeel is; twee vyfdes</item>
+          <item>een reghoek word in die helfte verdeel; 2 en 'n halwe</item>
+          <item>'n silinder wat in derdes verdeel is; een derde</item>
+          <item>twee derdes</item>
+          <item>een en 'n sesde</item>
+          <item>twee en twee derdes</item>
+          <item>een en 'n sewende</item>
+          <item>twee en 'n agste</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

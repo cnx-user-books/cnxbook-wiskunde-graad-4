@@ -1,0 +1,1144 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Getalpatrone</title>
+  <metadata>
+  <md:content-id>m30666</md:content-id><md:title>Getalpatrone</md:title>
+  <md:abstract/>
+  <md:uuid>363f00bb-34ea-4eca-a784-15f2145dbb75</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6724246">
+      <title>WISKUNDE</title>
+      <para id="para-id6724246">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6976645">
+      <title>Graad 4</title>
+      <para id="para-id6976645">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2284781">
+      <title>GETALLE, BREUKE, DESIMALE BREUKE EN GETALPATRONE</title>
+      <para id="para-id2284781">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170759394342">
+      <title>Module 6</title>
+      <para id="para-id1170759394342">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1170751103190">
+      <title>GETALPATRONE</title>
+      <para id="id1170757099189">Aktiwiteit 1:</para>
+      <list id="id1170750984166" list-type="bulleted">
+        <item>Om veelvoude te herken, hulle te beskryf, voor te stel en te vergelyk [LU 1.3]</item>
+        <item>Om getalpatrone te ondersoek [LU 2.1]</item>
+        <item>Om getalpatrone te ondersoek [LU 2.2]</item>
+        <item>Om uitvoergetalle op te spoor [LU 2.3]</item>
+      </list>
+      <para id="id2357872">1. As ons in 6’e tel, sê ons die <emphasis effect="bold">veelvoude van 6</emphasis> op<emphasis effect="bold">.</emphasis></para>
+      <para id="id1170754142379">1.1 Werk saam met 'n maat. Een van julle moet van 0 tot 102 in 6'e tel. Die ander een moet 'n sakrekenaar gebruik om jou te kontroleer en om jou te stop wanneer jy 'n fout maak. Indien jy 'n fout maak, moet die maat met die sakrekenaar ”Stop!” sê en die sakrekenaar vir jou wys. Die tellery moet van daar af voortgaan. Wanneer die een wat tel, klaar is, moet julle omruil.</para>
+      <para id="id1170754709740">1.2 Skryf nou die ontbrekende veelvoude van 6 op hul plekke in die tabel hieronder:</para>
+      <table id="id4797050" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 6</entry>
+              <entry>6</entry>
+              <entry>12</entry>
+              <entry>18</entry>
+              <entry>24</entry>
+              <entry>30</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>60</entry>
+              <entry>66</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170750507531">1.3 Nou moet julle in 6'e terugtel van 102 tot by 0. Laat 'n maat jou tellery kontroleer en ruil dan om. Het julle enigiets interessants opgemerk? Wat ons opmerk, is dat die veelvoude van 6 almal gelyke getalle is.</para>
+      <para id="id8202840">1.4 Watter patrone merk jy op? Kyk net, die laaste syfers in die getalle is 6;..2; ..8; ..4; ..0. Hulle word herhaal en vorm dus 'n patroon.</para>
+      <para id="id1170757253399">Nou dat jy dít weet, kan jy sommer vir ewig aanhou om in 6'e te tel (indien jy goed genoeg bly konsentreer)!</para>
+      <para id="id1170750959781">1.5 Tel in 6’e en voltooi die vloeidiagram:</para>
+      <figure id="id1170757089431">
+        <media id="id1170757089431_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-1f5f.png" id="id1170757089431__onlineimage" height="211" width="319"/>
+        </media>
+      </figure>
+      <para id="id1170751006434">1.6 Hoe programmeer ons 'n sakrekenaar om in 6'e te tel?</para>
+      <para id="id1170751502591">Sleutel "clear" in en </para>
+      <para id="id2852059">1.7 Skryf die veelvoude van 6 van 102 tot 0:</para>
+      <para id="id2968341">1.8 Hoe programmeer ons 'n sakrekenaar om in 6'e van 102 af terug te tel?</para>
+      <para id="id1170752348304">Sleutel "clear" in en_______________________-</para>
+      <para id="id1170756372255">Nou is dit eers maklik om in 6'e te tel! Ons gaan dus oor na 7's.</para>
+      <para id="id1170759251809">2. <emphasis effect="bold">Veelvoude van 7</emphasis></para>
+      <para id="id1170757424033">2.1 Gebruik jou sakrekenaar (as jy dit nodig het) om in 7's te tel en die vloeidiagram te voltooi:</para>
+      <para id="id1170754052405">
+        <figure id="id1170750381735">
+          <media id="id1170750381735_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-25c3.png" id="id1170750381735__onlineimage" height="255" width="386"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170752448883"> Kan jy enige patrone hier raaksien? Twee van hulle is hieronder neergeskryf. Kyk of jy meer kan raaksien en bespreek dit met 'n maat.</para>
+      <list id="id1170751290063" list-type="bulleted">
+        <item>Daar is ewe en onewe getalle.</item>
+        <item>Dit lyk of hulle om die beurt onewe en ewe is.</item>
+      </list>
+      <para id="id1170761215217">2.2 Skryf nou die ontbrekende veelvoude van 7 in die oop spasies:</para>
+      <table id="id2968017" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 7</entry>
+              <entry>7 </entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>70</entry>
+              <entry>77</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170751271520">Dit lyk of daar 'n soort herhaling na die eerste 9 veelvoude voorkom. Is daar so 'n herhaling wat voortgaan?</para>
+      <para id="id8767810">Is daar enige ander patrone? Skryf neer wat jy opgemerk het.</para>
+      <para id="id1170750369491"/>
+      <para id="id1170757491634"/>
+      <list id="id1170751315961" list-type="bulleted">
+        <item>Tel terug in 7's van 105 tot by 0. Gebruik jou sakrekenaar hiervoor as jy dit nodig het.</item>
+        <item>Skryf die ontbrekende veelvoude van 6 in die eerste ry van die tabel hieronder en die ontbrekende veelvoude van 7 in die volgende ry. Wat merk jy op wat interessant is?</item>
+      </list>
+      <table id="id1170759996647" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 6</entry>
+              <entry>6 </entry>
+              <entry>12</entry>
+              <entry>18</entry>
+              <entry>24</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>× 7</entry>
+              <entry>7</entry>
+              <entry>14</entry>
+              <entry>21</entry>
+              <entry>28</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170756285719">2.5 Vergelyk die twee rye antwoorde wat horisontaal loop. Dit lyk of daar 'n interessante patroon aan ontwikkel is.</para>
+      <para id="id1170755975648">Kyk net: 1 × 7 = 1× 6 + 1  5 × 7 = 5 × 6 + ……  9 × 7 = 9 × 6 + ……</para>
+      <para id="id1170763589166"/>
+      <para id="id1170755865772">2 × 7 = 2 × 6 + …….  6 × 7 = 6 × 6 + ……  10 × 7 = 10 × 6 + …..</para>
+      <para id="id1170754656306">3 × 7 = 3 × 6 + ……  7 × 7 = 7 × 6 + ……  11 × 7 = 11 × 6 +……</para>
+      <para id="id3373773">  4 × 7 = 4 × 6 + ……  8 × 7 = 8 × 6 + ……  12 × 7 = 12 × 6 +……</para>
+      <para id="id1170754211026">3. <emphasis effect="bold">Veelvoude van 8</emphasis></para>
+      <para id="id6297950">3.1 Die getallelyn toon spronge van 8 heelgetalle. Gebruik die sakrekenaar om in 8's te tel en skryf die ontbrekende veelvoude van 8 onder die getallelyn in die korrekte posisies.</para>
+      <para id="id1170760305990">0, 8, 16, 24, 32, _____, _____, _____, ______, _____, _____, _____, _____</para>
+      <para id="id1170759529765">3.2 'n Ander manier waarop ons 8 + 8 + 8 + 8 kan sê, is 4 × 8.</para>
+      <para id="id1170750343880">Voltooi hierdie vloeidiagram:</para>
+      <figure id="id1170750975704">
+        <media id="id1170750975704_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-4435.png" id="id1170750975704__onlineimage" height="246" width="372"/>
+        </media>
+      </figure>
+      <para id="id1170760495546">3.3 Soek 'n patroon. Skryf die ontbrekende veelvoude van 8 in die onderstaande tabel en beskou die laaste syfer van elkeen.</para>
+      <table id="id1170754607871" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 8</entry>
+              <entry>8</entry>
+              <entry>16</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>80 </entry>
+              <entry>88</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2558510">Kyk met aandag:</para>
+      <para id="id1170759498411"><emphasis effect="underline">8</emphasis>; 1<emphasis effect="underline">6</emphasis>; 2<emphasis effect="underline">4</emphasis>; 3<emphasis effect="underline">2</emphasis>; 4<emphasis effect="underline">0</emphasis>; 48; 56; 64; 72; 80; 88; 96</para>
+      <para id="id1170761396606">As jy bewus is van die patroon waarin 8; ..6; ..4; ..2; ..0; herhaal word en regtig konsentreer, behoort jy vir ewig in 8's te kan tel, sonder om foute te maak.</para>
+      <list id="id5664785" list-type="bulleted">
+        <item>Werk nou saam met 'n maat. Tel in 8's van 0 tot 104 terwyl jou maat jou tellery met behulp van 'n sakrekenaar kontroleer. Ruil dan om.</item>
+      </list>
+      <para id="id1170750581624">3.5 Tel nou terug in 8's van 104 tot 0, terwyl jou maat die sakrekenaar gebruik om te  kontroleer of jy dit reg doen. </para>
+      <para id="id1170750408678"> Ruil om wanneer jy klaar getel het.</para>
+      <para id="id1170759278884">4. <emphasis effect="bold">Veelvoude van 9</emphasis></para>
+      <figure id="id1170755071817">
+        <media id="id1170755071817_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-70bf.png" id="id1170755071817__onlineimage" height="244" width="634"/>
+        </media>
+      </figure>
+      <para id="id1170756323637">4.1 Doen wat Susan voorstel. Skryf die ontbrekende veelvoude van 9 in die vloeidiagram en kyk na die laaste syfer van elkeen. Sien jy die patroon raak?.</para>
+      <figure id="id1170750481738">
+        <media id="id1170750481738_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-185a.png" id="id1170750481738__onlineimage" height="278" width="418"/>
+        </media>
+      </figure>
+      <para id="id1170756315420">4.2 Om in 9's te tel is die maklikste van alles! Voltooi nou die onderstaande tabel.</para>
+      <table id="id1170756335605" summary="">
+        <tgroup cols="13">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+              <entry>8</entry>
+              <entry>9</entry>
+              <entry>10</entry>
+              <entry>11</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>× 9</entry>
+              <entry>9</entry>
+              <entry>18</entry>
+              <entry>27</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>90</entry>
+              <entry>99</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id4413206" list-type="bulleted">
+        <item>Tel terug in 9's, terwyl 'n maat die rekenaar gebruik om te kontroleer of jy dit reg doen. Begin by 108.</item>
+      </list>
+      <para id="id1170750472798">Jy behoort nou heeltemal gemaklik te voel wanneer jy in 6’e; 7’s; 8’s en 9’s moet tel en jy weet mos al klaar hoe om in tiene te tel. Oefen dit saam met 'n maat - tel aan en terug.</para>
+      <para id="id8300249">TOETS JOU VAARDIGHEDE</para>
+      <para id="id2936939">1. Voltooi die volgende deur een kolom per dag in te vul, of al vier kolomme in een dag. Jou opvoeder sal hieroor besluit:</para>
+      <table id="id1170756548748" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>(a) 7 × 4 =</entry>
+              <entry>6 × 8 =</entry>
+              <entry>8 × 9 =</entry>
+              <entry>2 × 8 =</entry>
+            </row>
+            <row>
+              <entry>(b) 9 × 8 =</entry>
+              <entry>3 × 7 =</entry>
+              <entry>1 × 7 =</entry>
+              <entry>6 × 9 =</entry>
+            </row>
+            <row>
+              <entry>(c) 7 × 6 =</entry>
+              <entry>8 × 7 =</entry>
+              <entry>6 × 5 =</entry>
+              <entry>8 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(d) 2 × 5 =</entry>
+              <entry>3 × 9 =</entry>
+              <entry>7 × 9 =</entry>
+              <entry>5 × 5 =</entry>
+            </row>
+            <row>
+              <entry>(e) 10 × 10 =</entry>
+              <entry>2 × 8 =</entry>
+              <entry>9 × 9 =</entry>
+              <entry>4 × 6 =</entry>
+            </row>
+            <row>
+              <entry>(f) 3 × 6 =</entry>
+              <entry>8 × 5 =</entry>
+              <entry>9 × 0 =</entry>
+              <entry>9 × 8 =</entry>
+            </row>
+            <row>
+              <entry>(g) 4 × 2 =</entry>
+              <entry>5 × 8 =</entry>
+              <entry>7 × 3 =</entry>
+              <entry>7 × 10 =</entry>
+            </row>
+            <row>
+              <entry>(h) 5 × 6 =</entry>
+              <entry>6 × 6 =</entry>
+              <entry>8 × 8 =</entry>
+              <entry>3 × 8 =</entry>
+            </row>
+            <row>
+              <entry>(j) 4 × 4 =</entry>
+              <entry>0 × 10 =</entry>
+              <entry>4 × 9 =</entry>
+              <entry>5 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(k) 5 × 9 =</entry>
+              <entry>4 × 8 =</entry>
+              <entry>5 × 7 =</entry>
+              <entry>4 × 7 =</entry>
+            </row>
+            <row>
+              <entry>TOTAAL:</entry>
+              <entry>TOTAAL:</entry>
+              <entry>TOTAAL:</entry>
+              <entry>TOTAAL:</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8226136">2. Skryf nou almal wat jy verkeerd gedoen het neer en skryf ook hoe jy die korrekte antwoord vir elkeen kan kry.</para>
+      <para id="id1170750472969">Aktiwiteit 2:</para>
+      <para id="id1170758059320">Om hoofrekene in vermenigvuldiging met heelgetalle te doen [LU 1.9.2]</para>
+      <para id="id1170755769907"/>
+      <para id="id4253142">1. Voltooi nou hierdie vloeidiagram:</para>
+      <figure id="id1170750195977">
+        <media id="id1170750195977_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-61ca.png" id="id1170750195977__onlineimage" height="278" width="418"/>
+        </media>
+      </figure>
+      <para id="id1170756280035">2. Maniere om 'n oplossing te vind vir 7 x 8.</para>
+      <para id="id1170750316293">Voorbeeld vir die oplossing van 7 x 8.</para>
+      <para id="id1170759226482">7 x 4 + 7 x 4</para>
+      <para id="id1170755096687">8 + 8 + 8 + 8 + 8 + 8 + 8</para>
+      <para id="id1170759617012">tel in 8's totdat jy by 7 × 8 uitkom</para>
+      <para id="id8198660">7 × 5 + 7 × 3. Breek m.a.w. die 8 op soos ons voorheen gedoen het</para>
+      <para id="id2717116">2 × 8 + 5 × 8. Breek die 7 op om dit makliker te maak; Ek ken 2 × 8 en 5 × 8</para>
+      <para id="id1170761372729">verdubbel 3 × 8 + 8</para>
+      <para id="id6696316">7 x 10 - 2 x 7</para>
+      <para id="id2919929">Maar maak seker dat jy weet wat jy besig is om te doen!</para>
+      <para id="id1170761205502">3. Neem elk van dié wat jou hinder en soek 'n manier om die antwoord te kry <emphasis effect="bold">sonder om 'n sakrekenaar te gebruik. </emphasis>Skryf jou oplossing in die tabel hieronder.</para>
+      <para id="id1170756959622">My eie manier om die probleme op te los:</para>
+      <table id="id6343774" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Voorbeeld: 8 × 8</entry>
+              <entry>Verdubbel 4 × 8 =32 + 32 = 64</entry>
+            </row>
+            <row>
+              <entry>3 × 6</entry>
+              <entry>6 × 3 (Ek ken die 3 x tafel) = 18</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1170754714760">. </para>
+      <para id="id4026812">TOETS JOU VAARDIGHEID</para>
+      <para id="id8139463">Voltooi elk van die volgende: </para>
+      <para id="id1170758123340">1.</para>
+      <para id="id1170752292276">
+        <figure id="id1170750485892">
+          <media id="id1170750485892_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 9-8969.png" id="id1170750485892__onlineimage" height="186" width="483"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170750215595">2.</para>
+      <figure id="id1170759319078">
+        <media id="id1170759319078_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-c2f6.png" id="id1170759319078__onlineimage" height="185" width="514"/>
+        </media>
+      </figure>
+      <para id="id6870412">3.</para>
+      <figure id="id9001507">
+        <media id="id9001507_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11-c260.png" id="id9001507__onlineimage" height="185" width="514"/>
+        </media>
+      </figure>
+      <para id="id2952703">4.</para>
+      <para id="id1170759257025">
+        <figure id="id6397591">
+          <media id="id6397591_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 12-c2b4.png" id="id6397591__onlineimage" height="190" width="347"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170757097802">5.</para>
+      <figure id="id8576398">
+        <media id="id8576398_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13-badc.png" id="id8576398__onlineimage" height="185" width="514"/>
+        </media>
+      </figure>
+      <para id="id1170750774221">6. Verduidelik die skakel tussen 4 en 5.</para>
+      <para id="id1170751377181">7. Gebruik wat jy in 4 en 5 geleer het om die volgende te voltooi:</para>
+      <table id="id1170750806278" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>(a) 6 × 20 =</entry>
+              <entry>(f) 40 × 20 =</entry>
+            </row>
+            <row>
+              <entry>(b) 7 × 70 =</entry>
+              <entry>(g) 60 × 60 =</entry>
+            </row>
+            <row>
+              <entry>(c) 50 × 3 =</entry>
+              <entry>(h) 50 × 80 =</entry>
+            </row>
+            <row>
+              <entry>(d) 9 × 70 =</entry>
+              <entry>(j) 60 × 7 =</entry>
+            </row>
+            <row>
+              <entry>(e) 8 × 30 =</entry>
+              <entry>(k) 90 × 50 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3793510">Aktiwiteit 3:</para>
+      <para id="id1170750319795">Om te skat en bereken deur 'n tegniek uit 'n reeks te kies en toe te pas [LU 1.1, 1.8.3, 1.8.6]</para>
+      <para id="id3133450">1. Jy het maniere gevind om antwoorde vir tafels wat jy nie uit die hoof ken nie, te bereken. Skat die antwoorde vir die volgende met behulp van afronding. Skatting behoort vinnig en maklik te geskied, maar dit verskaf net benaderde antwoorde. Vind nou maniere om die presiese antwoorde vir die volgende somme uit te vind. Skryf al die stappe wat jy volg, uit:</para>
+      <para id="id6790737">1.1 7 x 18</para>
+      <para id="id5722541">Bespreek jou metodes met maats in jou groep.</para>
+      <para id="id1170756278701">1.3 36 x 54</para>
+      <para id="id7352905"/>
+      <para id="id1170755574133">Voorbeelde van metodes: </para>
+      <list id="id1170757659518" list-type="bulleted">
+        <item>7 × 18   Skatting: 7 × 20 = 140; die antwoord is omtrent 140 </item>
+      </list>
+      <para id="id1170758310498">7 × 10 + 7 × 8 d.w.s. 7 maal alles van 18 </para>
+      <para id="id1170759232769">Ander maniere om die presiese antwoord te kry:</para>
+      <para id="id7626730">of: 18 + 18 + 18 + 18 + 18 +18 + 18</para>
+      <para id="id5014117">of: 7 × 20 － 14 </para>
+      <para id="id1170754970188">Daar is nog meer metodes. Probeer om dit uit te werk.</para>
+      <list id="id1170751300418" list-type="bulleted">
+        <item>64 × 35:  dit is alles van 64 × alles van 35. Skatting: 60 × 40 =2 400</item>
+      </list>
+      <para id="id1170757101259">60 × 30 = 1 800</para>
+      <para id="id1170750789598">60 × 5 = 300 d.w.s. tel alle antwoorde bymekaar</para>
+      <para id="id1170751266598">4 × 30 = 120</para>
+      <para id="id1170757183936">4 × 5 = <emphasis effect="underline">20</emphasis></para>
+      <para id="id1170752278019">2 240</para>
+      <para id="id1170761439171">Wanneer jy hierdie metode heeltemal gemaklik kan volg, kan jy weer met die ou, tradisionele, vertikale metode werk. Moenie te gou daarmee aangaan nie – onthou; hoe meer haas, hoe minder spoed.</para>
+      <para id="id1170754723051">2. Woordsomme.</para>
+      <para id="id1170750708941">2.1 Verdeel 54 Smarties gelykop tussen 9 maats. Hoeveel kry elkeen?</para>
+      <para id="id1170755094043">2.2 54 leerders moet na 'n atletiekbyeenkoms vervoer word. Die afrigter wil voertuie huur wat 8 passasiers kan vervoer. Hoeveel voertuie sal hy moet huur?</para>
+      <para id="id1170750821046">2.3 'n Winkelier het 106 appels. Hy verpak hulle in klein bakkies om hulle in sy winkel  te verkoop. Daar is 6 appels in elke bakkie. Hoeveel bakkies kan hy vul?</para>
+      <para id="id1170751362127">'n Paar metodes:</para>
+      <list id="id1170751307247" list-type="bulleted">
+        <item>9 + 9 + 9 + 9 + 9 + 9 (Hoeveel 9’s in 54?)</item>
+      </list>
+      <para id="id1170751231468">of: 54  9</para>
+      <para id="id1170755612955">9 × ? = 54</para>
+      <para id="id1170755641452">Daar is nog meer metodes</para>
+      <list id="id1170754231956" list-type="bulleted">
+        <item>54  8</item>
+      </list>
+      <para id="id1170759391368">6 × 8 = 48; 6 res. 6 maar hulle is ook mense wat by die atletiekbyeenkoms moet kom.</para>
+      <para id="id3794322">7 × 8 = 56</para>
+      <para id="id1170759510141">7 voertuie sal benodig word, maar daar sal 2 leë sitplekke in een van hulle wees.</para>
+      <list id="id8966532" list-type="bulleted">
+        <item>106  6</item>
+      </list>
+      <para id="id1170750940970">10 × 6 = 60</para>
+      <para id="id1170761364661">5 × 6 = 30</para>
+      <para id="id1170750381199">2 × 6 = <emphasis effect="underline">12</emphasis></para>
+      <para id="id1170752372307">102</para>
+      <para id="id1170750199407">17 bakkies res. 4 appels (Die sleutelwoord by hierdie som is "vul".)</para>
+      <para id="id1170761466624">Daar is ook ander maniere. Bespreek hulle met jou maats en vind die manier wat julle die maklikste kan verstaan.</para>
+      <para id="id1170750566971">3. Bereken die antwoord. Skryf die stappe van jou berekenings neer om (met die getalle) te verduidelik hoe jy die oplossing gevind het. Skryf dan die stappe neer wat jy gebruik het om die redelikheid van jou antwoord te kontroleer.</para>
+      <para id="id1170757883841">3.1 Nadat dit vol gelaai is, is die massa van 'n vervoerwa 2 500 kg. Wat is die massa van die vervoerwa wanneer dit leeg is, as die massa van die vrag 500 kg is?</para>
+      <para id="id8269121"/>
+      <para id="id1170751162874">3.2 Die massa van een sak sement is 25 kg. Hoeveel sakke sement sal daar wees as die massa van die hele vrag 500 kg is?</para>
+      <para id="id1170751288522"/>
+      <para id="id1170759631971">3.3 Wanneer dit vol is, hou die brandstoftenk van die vervoerwa 55 liters brandstof. Die vervoerwa kan 13 km op een liter brandstof aflê. Die bestuurder maak die tenk vol brandstof. Hoe ver kan hy reis voordat hy die tenk weer moet volmaak?</para>
+      <para id="id1170756759324">3.4 Wanneer die vervoerwa vir kort ritte in die dorp gebruik word, ry dit 11 km ver op een liter brandstof. Die bestuurder maak die tenk, wat 55 liter brandstof kan neem, vol brandstof. Hoeveel kilometers kan hy in die dorp aflê?</para>
+      <para id="id1170757616978">3.5 Jou skool se sokkerspan reis vanaf Kaapstad na Grahamstad om aan 'n sokkertoernooi deel te neem. Die span kan met die kus langs oor 'n afstand van 899 km per bus reis, of julle kan per trein oor De Aar reis. Die afstand tussen Kaapstad en De Aar is 762 km. Van De Aar na Grahamstad is dit 444 km.</para>
+      <figure id="id1170752335005">
+        <media id="id1170752335005_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14-0c00.png" id="id1170752335005__onlineimage" height="126" width="422"/>
+        </media>
+      </figure>
+      <para id="id1170759543677">Hoeveel verder sal julle reis as julle per trein gaan?</para>
+      <para id="id1170756846218">3.6 'n Spesiale toer na die Kruger Nasionale Park is vir 134 toeriste van oorsee georganiseer. Die ruskamp se rondawels het slaapplek vir 8 persone. Hoeveel rondawels sal vir hierdie groep toeriste benodig word?</para>
+      <para id="id1170760137216"/>
+      <para id="id1170754689742">3.7 Daar is 'n toeristewinkel by die ruskamp in die Kruger-park. Die winkel verkoop flitsligte wat as <emphasis effect="italics">Bush Baby Lanterns</emphasis> bekend staan. Sewe toeriste koop elk 'n flitslig en betaal saam R 273 daarvoor. Hoeveel kos een <emphasis effect="italics">Bush Baby Lantern</emphasis>?</para>
+      <para id="id1170757828999"/>
+      <para id="id1170756316348">3.8 Aan die een kant van die toeristekamp se parkeerplek is 'n reguit heining wat van houtpale gemaak is. Die regop pale van die heining is 3 m uit mekaar geplant. Daar is 18 regop pale. Hoe lank is die heining? (Om hierdie storie te kan verstaan, moet jy 'n heining met 6 pale teken – tegniek: vervanging met kleiner getalle om die storie te kan verstaan.)</para>
+    </section>
+    <section id="id1170759532495">
+      <title>Assessering</title>
+      <table id="id1170759215685" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder kan getalle en hulle verwantskappe herken, beskryf en voorstel en kan in die oplossing van probleme met bekwaamheid en selfvertroue tel, skat, bereken en kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 aan en terugtel in ‘n verskeidenheid van intervalle;</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle herken en voorstel sodat dit beskryf en vergelyk kan word:<list id="id1170756434914" list-type="bulleted"><item>gewone breuke met verskillende noemers, insluitend halwes, derdes, kwarte, vyfdes, sesdes, sewendes en agstes;</item><item>gewone breuke in diagramvorm;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens., in die konteks van meting;</item></list><list id="id1170760177576" list-type="bulleted"><item>veelvoude van enkelsyfergetalle tot minstens 100;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.5 ekwivalente vorms van die bogenoemde getalle herken en gebruik, insluitend;<list id="id1170754348170" list-type="bulleted"><item>gewone breuke met noemers wat veelvoude van mekaar is;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens. In die konteks van die meting;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.7 probleme oplos wat die volgende behels:1.7.1 vergelyking van twee of meer hoeveelhede van dieselfde soort(verhouding);</entry>
+            </row>
+            <row>
+              <entry>1.8 skat en bereken deur geskikte bewerkings vir die oplossing van probleme in verband met die volgende kies en te gebruik:<list id="id8292560" list-type="bulleted"><item>optel van gewone breuke in konteks;</item></list><list id="id1170756324855" list-type="bulleted"><item>gelyke verdeling met reste;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.9 hoofberekeninge uitvoer wat die volgende behels:1</entry>
+            </row>
+            <row>
+              <entry>1.9.2 vermenigvuldiging van heelgetalle tot minstens 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder kan patrone en verwantskappe herken, beskryf en voorstel en kan probleme oplos deur gebruik te maak van algebraïese taal en vaardighede.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en meetkundige patrone ondersoek en uitbrei om verwantskap of reëls te vind, insluitend patrone soos die volgende:<list id="id5187577" list-type="bulleted"><item>voorgestel in fisiese of diagramvorm;</item><item>nie beperk tot reekse met ‘n konstante verskil of verhouding nie;</item><item>teenwoordig in natuurlike en kulturele kontekste;</item><item>wat die leerder self geskep het;</item></list></entry>
+            </row>
+            <row>
+              <entry>2.2 verwantskappe of reëls wat waargeneem is in eie woorde beskryf;</entry>
+            </row>
+            <row>
+              <entry>2.3 uitsetwaardes vir gegewe insetwaardes bepaal deur gebruik te maak van:<list id="id1170750899207" list-type="bulleted"><item>woordelikse beskrywing;</item><item>vloeidiagramme.</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1170757921660">
+      <title>Memorandum</title>
+      <para id="id4750776">AKTIWITEIT 1</para>
+      <section id="id1170751038332">
+        <title>VEELVOUDE; GETALPATRONE; VLOEIDIAGRAMME</title>
+        <list id="id1170751349400" list-type="enumerated" number-style="arabic">
+          <item>Veelvoude van 6</item>
+        </list>
+        <list id="id1170750544890" list-type="bulleted">
+          <item>Mondeling</item>
+          <item>Ontbrekende veelvoude van 6</item>
+        </list>
+        <table id="id6463547" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 6</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>36</entry>
+                <entry>42</entry>
+                <entry>48</entry>
+                <entry>54</entry>
+                <entry/>
+                <entry/>
+                <entry>72</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1170751092754" list-type="bulleted">
+          <item>Mondeling</item>
+          <item>Eie antwoorde, bv. Hulle is almal ewe getalle; Hulle is ook veelvoude van 3; sommige is veelvoude van 9; sommige is veelvoude van 12; Daar is geen priem-getalle nie.</item>
+          <item>Vloeidiagram: Die uitvoergetalle is: 12; 18; 24; 30; 36; 42; 48; 54; 60</item>
+          <item>Gebruik die sakrekanaar om in 6’e te tel: druk die sleutel vir "clear", dan 6 + = = = of 6 + + = = =</item>
+          <item>6; 12; 18; 24; 30; 36; 42; 48; 54; 60; 66; 72; 78; 84; 90; 96; 102</item>
+          <item>"clear"; 102 － 6 = = = of "clear"; 6 － － 102 = = =</item>
+        </list>
+        <para id="id1170751331947">2. Veelvoude van 7</para>
+        <para id="id1170751014371">2.1 Vloeidiagram – uitvoergetalle: 14; 21; 28; 35; 42; 49; 56; 63; 70</para>
+        <para id="id1170759566839"/>
+        <list id="id1170758078929" list-type="bulleted">
+          <item>Ontbrekende veelvoude van 7</item>
+        </list>
+        <table id="id6499646" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 7</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>28</entry>
+                <entry>35</entry>
+                <entry>42</entry>
+                <entry>49</entry>
+                <entry>56</entry>
+                <entry>63</entry>
+                <entry/>
+                <entry/>
+                <entry>84</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1170763589476" list-type="bulleted">
+          <title/>
+          <item>Ja</item>
+          <item>Eie idees</item>
+        </list>
+        <para id="id1170759240787">2.3 105; 98; 91; 84; 77; 70; 63; 56; 49; 42; 35; 28; 21; 14; 7; 0</para>
+        <para id="id6442904">2.4 Ontbrekende veelvoude van 6 en van 7</para>
+        <table id="id1170752308242" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 6</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>30</entry>
+                <entry>36</entry>
+                <entry>42</entry>
+                <entry>48</entry>
+                <entry>54</entry>
+                <entry>60</entry>
+                <entry>66</entry>
+                <entry>72</entry>
+              </row>
+              <row>
+                <entry>x 7</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>35</entry>
+                <entry>42</entry>
+                <entry>49</entry>
+                <entry>56</entry>
+                <entry>63</entry>
+                <entry>70</entry>
+                <entry>77</entry>
+                <entry>84</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170756792865">2.5 Die verskil tussen die veelvoude van 6 en van 7: 1; 2; 3; …</para>
+        <para id="id1170763528516">d.w.s. 1 x 6 = <emphasis effect="italics">6</emphasis>  1 x 7 =<emphasis effect="italics"> 7 </emphasis>die verskil tussen die <emphasis effect="italics">antwoorde </emphasis>is 1;</para>
+        <para id="id1170752310235">2 x 6 = <emphasis effect="italics">12</emphasis>  2 x 7 =<emphasis effect="italics"> 14 </emphasis>die verskil tussen die <emphasis effect="italics">antwoorde </emphasis>is 2;</para>
+        <para id="id6669486">3 x 6 = <emphasis effect="italics">18 </emphasis> 3 x 7 =<emphasis effect="italics"> 21 </emphasis>die verskil tussen die <emphasis effect="italics">antwoorde </emphasis>is 3 ens.</para>
+        <para id="id1170761205763">Ontbrekende getalle:</para>
+        <para id="id1170751029303"> 1,5,9,2,6,10,3, 7,11,4, 8,12</para>
+        <list id="id1170751454032" list-type="bulleted">
+          <item>Vloeidiagram: ontbrekende uitvoergetalle: 16; 24; 32; 40; 48; 56; 64; 72; 80</item>
+        </list>
+        <para id="id1170757435237">3.3 Ontbrekende veelvoude van 8:</para>
+        <table id="id1170750532286" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 8 </entry>
+                <entry/>
+                <entry/>
+                <entry>24</entry>
+                <entry>32</entry>
+                <entry>40</entry>
+                <entry>48</entry>
+                <entry>56</entry>
+                <entry>64</entry>
+                <entry>72</entry>
+                <entry/>
+                <entry/>
+                <entry>96</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170755632262">3.4 Mondeling</para>
+        <para id="id6344193">3.5 Mondeling</para>
+        <para id="id8493440"/>
+        <para id="id1170757336268">4. Veelvoude van 9</para>
+        <para id="id1170754744080">4.1 Vloeidiagram: ontbrekende uitvoergetalle: 18; 27; 36; 45; 54; 63; 72; 81; 90</para>
+        <list id="id1170750406033" list-type="bulleted">
+          <item>Ontbrekende veelvoude van 9</item>
+        </list>
+        <table id="id1170759170708" summary="">
+          <tgroup cols="13">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>x 9 </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>36</entry>
+                <entry>45</entry>
+                <entry>54</entry>
+                <entry>63</entry>
+                <entry>72</entry>
+                <entry>81</entry>
+                <entry/>
+                <entry/>
+                <entry>108</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1170757748930" list-type="bulleted">
+          <item>Mondeling</item>
+        </list>
+        <para id="id1170756267459">Toets jou vaardighede</para>
+        <para id="id1170759898702">1. (a) 28, 48, 72, 16</para>
+        <para id="id1170751543054">(b) 72, 21, 7, 54</para>
+        <para id="id1170755151261">(c) 42, 56, 30, 56</para>
+        <para id="id1170761396799">(d) 10, 27, 63, 25</para>
+        <para id="id1170757193856">(e) 100, 16, 81, 24</para>
+        <para id="id1170750210985">(f) 18, 40, 0, 72</para>
+        <para id="id1170750752440">(g) 8, 40, 21, 70</para>
+        <para id="id1170755148653">(h) 30, 36, 64, 24</para>
+        <para id="id2871325">(j) 16, 0, 36, 35</para>
+        <para id="id8148146">(k) 45, 32, 35, 28</para>
+        <para id="id1170751512772">2. Eie</para>
+        <para id="id1170756459405">AKTIWITEIT 2</para>
+        <para id="id3634036">1. Vloeidiagram – veelvoude van 8, deurmekaar</para>
+        <para id="id1170753908666">Ontbrekende uitvoergetalle: 16; 72; 32; 48; 64; 56; 40; 24; 80</para>
+        <para id="id1170751599424">2. Eie</para>
+        <para id="id1170756846603">3. Eie</para>
+        <para id="id7785730">4. Eie metodes vir oplossing vir vermenigvuldiging van enkelsyfer x enkelsyfer.</para>
+      </section>
+      <section id="id1170756317740">
+        <title>TOETS JOU VAARDIGHEDE</title>
+        <para id="id1170756518052">1. Vloeidiagram – Ontbrekende uitvoergetalle: 50; 57; 64; 71; 78; 85</para>
+        <para id="id1170756372066">2. Vloeidiagram – Ontbrekende uitvoergetalle: 6; 7; 8;___ 11</para>
+        <para id="id1170750314292">– Ontbrekende uitvoergetalle: …; 86; 95</para>
+        <para id="id1170750297646">3. Vloeidiagram – Ontbrekende uitvoergetalle:___; 8</para>
+        <para id="id7935218">– Ontbrekende uitvoergetalle: 28; 40; 46;___; 58; 76</para>
+        <para id="id1170755166742">4. Vloeidiagram – Ontbrekende uitvoergetalle:___; 6; 7</para>
+        <list id="id1170754711486" list-type="bulleted">
+          <item>Ontbrekende uitvoergetalle: 240; 300;___; 480; 540</item>
+        </list>
+        <para id="id1170759365768">5. Vloeidiagram – Ontbrekende uitvoergetalle:___; 6; 7</para>
+        <para id="id1170750809968"> Ontbrekende uitvoergetalle: 240; 300;___; 480; 540</para>
+        <para id="id1170750316150">6. x 60 ≈ x 6 x 10</para>
+        <para id="id1170750506790">7. Ontbrekende getalle </para>
+        <para id="id7959588">(a) 120 </para>
+        <para id="id1170751535624">(b) 490 </para>
+        <para id="id1170759264418">(c) 150 </para>
+        <para id="id1170756290442">(d) 630 </para>
+        <para id="id1170759984652">(e) 240</para>
+        <para id="id1170756960138">(f) 800 </para>
+        <para id="id7709606">(g) 3 600 </para>
+        <para id="id1170755651655">(h) 4 000 </para>
+        <para id="id1170752310248">(j) 420 </para>
+        <para id="id1170751203096">(k) 4 500</para>
+        <para id="id1170754939381">AKTIWITEIT 3 – skattings en berekeninge</para>
+        <para id="id8201735">1.1 126; 7 x 20 = 140 of 10 x 18 = 180</para>
+        <para id="id1170758196348">1.2 144; 20 x 6 = 120 of 24 x 10 = 240 of 20 x 10 = 200</para>
+        <para id="id1170755783726">1.3 1 944; 40 x 50 = 2 000</para>
+        <para id="id1170750714537">2. Woordsomme</para>
+        <para id="id1170757094055">2.1 6 Smarties </para>
+        <para id="id8509091">2.2 7 voertuie </para>
+        <para id="id1170757604244">2.3 17 bakkies en 4 appels bly oor</para>
+        <para id="id1170750817151">3. Berekeninge en kontrolering</para>
+        <para id="id1170759245921">3.1 2 000 kg 2 000 + 500</para>
+        <para id="id2963416">3.2 20 sakke 25 x 20 = 500</para>
+        <para id="id1170755150692">3.3 715 km afronding: 60 x 10 = 600 (verskillende maniere om te kontroleer)</para>
+        <para id="id1170760522642">3.4 605 km afronding: 60 x 10 = 600</para>
+        <para id="id6922496">3.5  307 km  899 km + 307 km = 762 km + 444 km</para>
+        <para id="id1170750197085">3.6 17 rondawels 17 x 8 = 80 + 56 = 136</para>
+        <para id="id3467288">3.7 R39  39 x 7 = 210 + 63 = 273</para>
+        <para id="id1170759623063">3.8 I – I – I – I – I – I  51m</para>
+      </section>
+    </section>
+  </content>
+</document>

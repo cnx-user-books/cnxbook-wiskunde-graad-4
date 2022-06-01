@@ -1,0 +1,724 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Herkenning van desimale breuke</title>
+  <metadata>
+  <md:content-id>m30732</md:content-id><md:title>Herkenning van desimale breuke</md:title>
+  <md:abstract/>
+  <md:uuid>194bf270-8752-4867-ab40-2af42a53525d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id6081785">
+      <title>WISKUNDE</title>
+      <para id="para-id6081785">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4224055">
+      <title>Graad 4</title>
+      <para id="para-id4224055">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4614349">
+      <title>GETALLE, BREUKE, DESIMALE BREUKE EN GETALPATRONE</title>
+      <para id="para-id4614349">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168771854667">
+      <title>Module 9</title>
+      <para id="para-id1168771854667">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7276257">
+      <title>HERKENNING VAN DESIMALE BREUKE</title>
+      <para id="id1168771856895">Aktiwiteit 1:</para>
+      <para id="id1168778248992">Om desimale breuke te herken en voor te stel [LU 1.3.4]</para>
+      <para id="id3426637">HERKENNING VAN DESIMALE</para>
+      <para id="id5104556">1. Wat is desimale?</para>
+      <para id="id5336066">1.2 Dink terug oor Plekwaardes: Duisende; Honderde; Tiene en Ene (Eenhede).</para>
+      <para id="id1905844">Voltooi die volgende:</para>
+      <table id="id1168770949235" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>1 000  10 = 100</entry>
+            </row>
+            <row>
+              <entry>100  10 =</entry>
+            </row>
+            <row>
+              <entry>10  10 =</entry>
+            </row>
+            <row>
+              <entry>1  10 = ?</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8462552">1.3 Toets nou jou antwoorde met behulp van die sakrekenaar.</para>
+      <para id="id1168776419315">Die sakrekenaar sê 1  10 = 0,1. Wat beteken 0,1 ? Bespreek dit met 'n maat.</para>
+      <para id="id8523265">1.4 Trek lyne in die staaf hieronder om tiendes te toon. Een (staaf) is deur 10 verdeel. Ons sê dat 0,1 een tiende is. Dit is die enigste manier waarop sakrekenaars een tiende kan voorstel, omdat dit is wat hulle geprogrammeer is om te doen. Nou moet jy elke afdeling van die staaf hieronder merk deur 0,1 in elkeen te skryf.</para>
+      <table id="id1168775538697" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id7457396">Wat beteken 0,1? Ons het gesien dat 1  10 = 0,1.</para>
+      <para id="id1168773879187">Dink weer oor Breuke: ons het gesê: 1  2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1168771541395">Dus is 1  10 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id4280679">1  10 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> = 0,1</para>
+      <para id="id1168781177534">0,1 is slegs 'n ander manier waarop ons 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> kan skryf</para>
+      <para id="id1168774189034">Bestudeer die diagram:</para>
+      <table id="id5847688" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Duisende1 000</entry>
+              <entry>Honderde100</entry>
+              <entry>Tiene10</entry>
+              <entry>Eenhede (ene)1</entry>
+              <entry>Tiendes</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id5716633" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Duisende1 000</entry>
+              <entry>Honderde100</entry>
+              <entry>Tiene10</entry>
+              <entry>Eenhede (ene)1</entry>
+              <entry>Tiendes
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>7 </entry>
+              <entry>1</entry>
+              <entry>9</entry>
+              <entry>3</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>0</entry>
+              <entry>6</entry>
+              <entry>9</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168770994199"> Hoe dui ons die einde van die heelgetal aan as daar geen hoofde by die kolomme is nie?</para>
+      <para id="id1168775082073">Ons gebruik 'n DESIMALE KOMMA.</para>
+      <para id="id1168777321511"> Wat is die getalle wat in die kolomme geskryf is?</para>
+      <list id="id1168770228324" list-type="bulleted">
+        <item>7 193, 6 = 7 × 1 000 + 1 × 100 + 9 × 10 + 3 × 1 + ses tiendes</item>
+        <item>5 069,1 = 5 × 1 000 + 0 + 6 × 10 + 9 × 1 + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></item>
+      </list>
+      <para id="id1168773813569">Ons sakrekenaars is nie in staat om gewone breuke aan te dui soos ons dit doen nie; hulle is bloot masjiene wat geprogrammeer word om plekwaardes te gebruik, dus kan hulle net desimale breuke toon.</para>
+      <para id="id1168777817278">Onthou: Ons gebruik die DESIMALE KOMMA</para>
+      <para id="id6368370">Om die EINDE VAN DIE HEELGETAL en die </para>
+      <para id="id1168775088712">BEGIN VAN DIE DESIMALE BREUK aan te dui</para>
+      <para id="id1168776347997"/>
+      <para id="id1168769897227">2. Skryf nou die volgende desimale getalle in hul uitgebreide vorm onder die korrekte hofie in die kolomme hieronder:</para>
+      <para id="id8833213">2.1 (a) 1 456,3 </para>
+      <para id="id8918087">(b) 4 601,9 </para>
+      <para id="id1168771909964">(c) 8,5 </para>
+      <para id="id1168770002365">(d) 31, 7 </para>
+      <para id="id6834364">(e) 456,2</para>
+      <table id="id1168778201586" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>X 1 000</entry>
+              <entry>× 100</entry>
+              <entry>× 10</entry>
+              <entry>× 1</entry>
+              <entry>× 0,1(tiendes)</entry>
+            </row>
+            <row>
+              <entry>(a)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(b)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(c)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(d)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>(e)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8778379">Die EERSTE figuur ná die desimale komma is altyd TIENDES.</para>
+      <para id="id6820113">2.2 Skryf hulle nou weer, in hul uitgebreide vorm:</para>
+      <para id="id6980742">(a) 1 456,3 = 1 × 1 000 + 4 × 100 + 5 × 10 + 6 × 1 + 3 × 0,1</para>
+      <para id="id1168779023789">Aktiwiteit 2:</para>
+      <para id="id3637018">Om desimale breuke te vergelyk [LU 1.5.2]</para>
+      <para id="id4302955">1. Dink sorgvuldig na oor die waarde van elke figuur en gebruik die korrekte teken van die volgende: &lt;; ; = om die onderstaande vergelykings aan te dui:</para>
+      <para id="id1168781182288">1.1  1,5 _____ 1,7 1.4 45,9 _____62,3</para>
+      <para id="id1168770779865">1.2  6,3 _____6,1 1.5 13,2 _____8,6</para>
+      <para id="id1852242">1.3  24,7_____42,3 1.6 57,5 _____58,2</para>
+      <para id="id1168777493604">2. Trek 'n kring om die grootste getal:</para>
+      <para id="id1168771460939">43,7; 41,9; 43,1; 49,1; 41,5</para>
+      <para id="id1168771401711">3. Skryf die getal wat gevra word:</para>
+      <table id="id1168776642575" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Antwoord</entry>
+              <entry/>
+              <entry>Antwoord</entry>
+            </row>
+            <row>
+              <entry>3.1 een meer as 9,9</entry>
+              <entry>3.1</entry>
+              <entry>3.5 0,1 minder as 7,1</entry>
+              <entry>3.5</entry>
+            </row>
+            <row>
+              <entry>3..2 0,1 meer as 5,3 </entry>
+              <entry>3.2</entry>
+              <entry>3.6 0,1 meer as 99,0</entry>
+              <entry>3.6</entry>
+            </row>
+            <row>
+              <entry>3.3 0,1 minder as 6</entry>
+              <entry>3.3</entry>
+              <entry>3.7 0,1 meer as 5,8</entry>
+              <entry>3.7</entry>
+            </row>
+            <row>
+              <entry>3.4 0,1 minder as 8,3</entry>
+              <entry>3.4</entry>
+              <entry>3.8 0,1 minder as 10</entry>
+              <entry>3.8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168777850888">Aktiwiteit 3:</para>
+      <para id="id1862038">Om breuke te herlei na desimale breuke en omgekeerd [LU 1.5.2]</para>
+      <para id="id1168779112699">Groepbespreking.</para>
+      <para id="id1168774092137">1. Lees die volgende gesprek tussen John en Sara. </para>
+      <figure id="id7276979">
+        <media id="id7276979_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-2de7.png" id="id7276979__onlineimage" height="236" width="509"/>
+        </media>
+      </figure>
+      <list id="id1168776215083" list-type="bulleted">
+        <item>Is Sara se antwoord reg? Dit het nie gelyk of dit John se vraag heeltemal beantwoord het nie. Waarvandaan het die ,5 gekom? Bespreek dit gou. Probeer om te verduidelik hoekom 'n sakrekenaar 'n halwe as = 0,5 aandui.</item>
+        <item>Wie van julle was wawyd wakker? Almal? Het almal die antwoord geken? Dis wonderlik! Ja, dit is omdat die sakrekenaar in tiendes tel en vyf tiendes = een halwe. Die arme sakrekenaar moet ekwivalente breuke gebruik om getalle soos halwes en kwarte en enige ander breuke wat nie tiendes is nie tot tiendes (of honderdstes en duisendstes, waaroor ons later praat) te maak.</item>
+      </list>
+      <para id="id7121294">Gebruik jou sakrekenaar:</para>
+      <para id="id1168770424170">2. Maak desimale breuke van die volgende:</para>
+      <para id="id1168777000820">2.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> = 3  4 = 0, ___________</para>
+      <table id="id1168777138114" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>2.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math> = 2  5 = ......................................................................................................</entry>
+            </row>
+            <row>
+              <entry>2.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+            <row>
+              <entry>2.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+            <row>
+              <entry>2.5 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {5} } } {}</m:annotation></m:semantics></m:math> = </entry>
+            </row>
+            <row>
+              <entry>2.6 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1994548">Ons kan enige gewone breuk op dié manier tot 'n desimaal herlei.</para>
+      <para id="id6078254">3. Maak een derde tot 'n desimaal: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 1  3 = __________</para>
+      <para id="id1936958">Kan jy aan 'n rede dink hoekom dit die antwoord is?</para>
+      <para id="id1168777842153">Doen die volgende sonder 'n sakrekenaar:</para>
+      <para id="id1168776102113">4. Skryf ekwivalente breuke vir elk van die volgende en skryf hulle dan as desimale breuke:</para>
+      <table id="id1168778761823" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Breuk</entry>
+              <entry>Breuk as tiendes</entry>
+              <entry>Desimale breuk</entry>
+            </row>
+            <row>
+              <entry>halwe</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>een derde</entry>
+              <entry>Kan nie</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168778202278" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Breuk</entry>
+              <entry>Breuk as tiendes</entry>
+              <entry>Desimale breuk</entry>
+            </row>
+            <row>
+              <entry>twee derdes</entry>
+              <entry>Kan nie</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>'n kwart</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>driekwart</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>een vyfde</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>twee vyfdes</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>drie vyfdes</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>vier vyfdes</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>een sesde</entry>
+              <entry>Kan nie</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>een agste</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5925003">(Sommige van die bogenoemde het meer as een desimale plek, en dit is goed om van hulle te weet.)</para>
+      <para id="id6783539">5. Wat word van die derdes en sesdes en ander wat nie tot tiendes gemaak kan word nie?</para>
+      <list id="id1168777595615" list-type="bulleted">
+        <item>een derde = 1  3 =</item>
+        <item>twee derdes = 2  3 =</item>
+      </list>
+      <para id="id7017498">Gebruik jou eie metode vir die verdeling, of gebruik 'n sakrekenaar. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> = 1 ÷ 3</para>
+      <para id="id1168781108939">Een manier: ? x 3 = 1</para>
+      <para id="id1168773495465"> 0 x 3 = 0,0</para>
+      <para id="id1168772061598"> 0,3 x3 = 0,9</para>
+      <para id="id6963508"> 0,03 x 3 = <emphasis effect="underline">0,09</emphasis></para>
+      <para id="id1168777236184"> 0,99 (wat amper 1 is)</para>
+      <para id="id1168770534863"> dus: (0 x 3) + (<emphasis effect="underline">0,3</emphasis> x 3) + (<emphasis effect="underline">0,03</emphasis> x 3)</para>
+      <para id="id1168770486459">  0 + 0,3 + 0,03</para>
+      <para id="id3629917">  = 0,333</para>
+      <para id="id1168770585530"> (en die sakrekenaar sal aanhou deel: 0,333)</para>
+      <para id="id6404000"> Ons sê : 0,3 herhaald of 0,3֯(Die punt dui op die herhaling.)</para>
+      <para id="id1168772121773">TOETS JOU VORDERING</para>
+      <para id="id7302525">1. Los op sonder om die sakrekenaar te gebruik:</para>
+      <para id="id1168772549941">1.1 17 × 26</para>
+      <para id="id6868742">1.2 153  9</para>
+      <para id="id8760809">2. Verdeel 11 worsbroodjies gelykop tussen 10 seuns. Hoeveel sal elke seun kry?</para>
+      <para id="id7597268">3. Verdeel 12 worsbroodjies gelykop tussen 10 seuns. Hoeveel sal elke seun kry?</para>
+      <para id="id6644131">4. Mike drink 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> bekers melk vir ontbyt. Sy suster, Sanet, drink 'n 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> beker melk. Hoeveel melk drink hulle altesaam?</para>
+      <para id="id6357298">5. Skryf die volgende in uitgebreide notasie:</para>
+      <table id="id1168775843059" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>5.1 64,8 = ...................................................................................................................</entry>
+            </row>
+            <row>
+              <entry>5.2 341,2 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168772178072">6. Skryf as desimale:</para>
+      <list id="id6785554" list-type="bulleted">
+        <item>Drie en vier vyfdes = _____________</item>
+        <item>Een en drie tiendes = _______________</item>
+        <item>Vyf en 'n kwart = ______________</item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{4 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> = _____________</item>
+      </list>
+      <para id="id1168773819999">7. Kies een van die tekens&lt;;&gt;; = en skryf die korrekte teken om die volgende waar te maak:</para>
+      <list id="id1168781157737" list-type="bulleted">
+        <item>2,4 ____ 4,2</item>
+        <item>1,7 _____ 2,1</item>
+      </list>
+      <para id="id5996817">8. Skryf die getal vir:</para>
+      <table id="id1168776102065" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Antwoord</entry>
+            </row>
+            <row>
+              <entry>een tiende meer as 45,9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>een tiende minder as 10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168773486458"/>
+    </section>
+    <section id="id1168777366186">
+      <title>Assessering</title>
+      <table id="id1168773595358" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder kan getalle en hulle verwantskappe herken, beskryf en voorstel en kan in die oplossing van probleme met bekwaamheid en selfvertroue tel, skat, bereken en kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 aan en terugtel in ‘n verskeidenheid van intervalle;</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle herken en voorstel sodat dit beskryf en vergelyk kan word:<list id="id6788863" list-type="bulleted"><item>gewone breuke met verskillende noemers, insluitend halwes, derdes, kwarte, vyfdes, sesdes, sewendes en agstes;</item><item>gewone breuke in diagramvorm;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens., in die konteks van meting;</item></list><list id="id1168776283196" list-type="bulleted"><item>veelvoude van enkelsyfergetalle tot minstens 100;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.5 ekwivalente vorms van die bogenoemde getalle herken en gebruik, insluitend;<list id="id1168769901100" list-type="bulleted"><item>gewone breuke met noemers wat veelvoude van mekaar is;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens. In die konteks van die meting;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168774795161">
+      <title>Memorandum</title>
+      <para id="id1168777072550">AKTIWITEIT 1: herkenning en voorstelling van desimale Breuke</para>
+      <para id="id6583708">1.1 Ontbrekende getalle: 10; 1; een tiende</para>
+      <para id="id1168778492084">1.2 Sakrekenaar-antwoorde: 10; 1; 0,1</para>
+      <para id="id7883980">0,1 beteken een tiende</para>
+      <para id="id7432404">2.1</para>
+      <table id="id3872097" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>x 1 000</entry>
+              <entry>x 100</entry>
+              <entry>x 10</entry>
+              <entry>x 1</entry>
+              <entry>x 0,1</entry>
+            </row>
+            <row>
+              <entry>(a)</entry>
+              <entry>1 </entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>(b)</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>(c)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>8</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>(d)</entry>
+              <entry/>
+              <entry/>
+              <entry>3</entry>
+              <entry>1</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>(e)</entry>
+              <entry/>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168774155077">2.2 (b) 4 x 1 000 + 6 x 100 + 0 x 10 + 1 x 1 + 9 x 0,1</para>
+      <para id="id5204168">(c) 0 x 1 000 + 0 x 100 + 0 x 10 + 8 x 1 + 5 x 0,1 of net: 8 x 1 + 5 x 0,1</para>
+      <para id="id7130471">(d) 0 x 1 000 + 0 x 100 + 3 x 10 + 1 x 1 + 7 x 0,1 of net: 3 x 10 + 1 x 1 + 7 x 0,1</para>
+      <para id="id2625879">(e) 0 x 1 000 + 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1 of net: 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1</para>
+      <para id="id1168769914958">AKTIWITEIT 2:- vergelyking van desimale breuke</para>
+      <para id="id1168771418389">1.1 &lt; </para>
+      <para id="id1168777412419">1.2  </para>
+      <para id="id1168772614575">1.3 &lt; </para>
+      <para id="id1168770562174">1.4 &lt; </para>
+      <para id="id6390269">1.5  </para>
+      <para id="id5292447">1.6 &lt;</para>
+      <para id="id1168773728697">2. Omkringde getal: 49,1</para>
+      <para id="id1168770258910">3.1 10,9  </para>
+      <para id="id6417676">3.2 5,4  </para>
+      <para id="id1168778618360">3.3 5,9  </para>
+      <para id="id1168774128762">3.4 8,2</para>
+      <para id="id1168775094707">3.5 7 </para>
+      <para id="id1168776193370">3.6 99,1  </para>
+      <para id="id1168776332773">3.7 5,9  </para>
+      <para id="id1168778443093">3.8 9,9</para>
+      <para id="id1168772065565">AKTIWITEIT 3:- herleiding van breuke na desimale breuke en omgekeerd</para>
+      <para id="id6243896">1. Bespreking</para>
+      <para id="id4287880">2. Met behulp van 'n sakrekenaar</para>
+      <list id="id1168772160980" list-type="bulleted">
+        <item>0,75  </item>
+        <item>2.2 0,4  </item>
+        <item>2.3 0,6  </item>
+        <item>2.4 0,8</item>
+      </list>
+      <para id="id1642249">2.5 0,8  </para>
+      <para id="id1168770826514">2.6 0,25</para>
+      <para id="id4914308">3. 0,33333</para>
+      <para id="id1168776094560">4.</para>
+      <table id="id7275202" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Breuk</entry>
+              <entry>Breuk as tiendes</entry>
+              <entry>Desimale breuk</entry>
+            </row>
+            <row>
+              <entry>halwe</entry>
+              <entry>Vyf tiendes</entry>
+              <entry>0,5</entry>
+            </row>
+            <row>
+              <entry>Een derde</entry>
+              <entry>Nie moontlik nie</entry>
+              <entry>0,3333</entry>
+            </row>
+            <row>
+              <entry>Twee derdes</entry>
+              <entry>Nie moontlik nie</entry>
+              <entry>0,6666</entry>
+            </row>
+            <row>
+              <entry>Een kwart</entry>
+              <entry>Nie moontlik nie; </entry>
+              <entry>0,25</entry>
+            </row>
+            <row>
+              <entry>Drie kwarte</entry>
+              <entry>Nie moontlik nie; </entry>
+              <entry>0,75</entry>
+            </row>
+            <row>
+              <entry>Een vyfde</entry>
+              <entry>Twee tiendes</entry>
+              <entry>0,2</entry>
+            </row>
+            <row>
+              <entry>Twee vyfdes</entry>
+              <entry>Vier tiendes</entry>
+              <entry>0,4</entry>
+            </row>
+            <row>
+              <entry>Drie vyfdes</entry>
+              <entry>Ses tiendes</entry>
+              <entry>0,6</entry>
+            </row>
+            <row>
+              <entry>Vier vyfdes</entry>
+              <entry>Ag tiendes</entry>
+              <entry>0,8</entry>
+            </row>
+            <row>
+              <entry>Een sesde</entry>
+              <entry>Nie moontlik nie</entry>
+              <entry>0,1666</entry>
+            </row>
+            <row>
+              <entry>Een agste</entry>
+              <entry>Nie moontlik nie; </entry>
+              <entry>0,125</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1168771410875" list-type="bulleted">
+        <item>0,333</item>
+        <item>0,666</item>
+      </list>
+      <section id="id1168770270298">
+        <title>TOETS JOU VORDERING</title>
+        <para id="id1168774620998">1.1 442</para>
+        <para id="id1168772032998">1.2 17</para>
+        <para id="id1168777001940">2. een en een tiende of 1,1 worsbroodjies</para>
+        <para id="id6006828">3. een en een tiende of 1 en 'n vyfde worsbroodjies (of 1,2)</para>
+        <para id="id5739094">4. twee en 'n kwart beker</para>
+        <list id="id1168776018774" list-type="bulleted">
+          <item>6 x 10 + 4 x 1 + 8 x 0,1</item>
+          <item>3 x 100 + 4 x 10 + 1 x 1 + 2 x 0,1</item>
+        </list>
+        <list id="id3222482" list-type="bulleted">
+          <item>3,8 </item>
+          <item>1,3</item>
+          <item>5,25</item>
+          <item>4,5</item>
+        </list>
+        <list id="id8770359" list-type="bulleted">
+          <item>&lt; </item>
+          <item>&lt;</item>
+        </list>
+        <list id="id6591167" list-type="bulleted">
+          <item>46 </item>
+          <item>9,9</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

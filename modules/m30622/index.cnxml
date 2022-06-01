@@ -1,0 +1,1064 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Plekwaardes van syfers in heelgetalle</title>
+  <metadata>
+  <md:content-id>m30622</md:content-id><md:title>Plekwaardes van syfers in heelgetalle</md:title>
+  <md:abstract/>
+  <md:uuid>e925703d-a867-4cf0-a1d4-a5d39b87decf</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4139974">
+      <title>WISKUNDE</title>
+      <para id="para-id4139974">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3191166">
+      <title>Graad 4</title>
+      <para id="para-id3191166">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3214960">
+      <title>HEELGETALLE EN HUL VERWANTSKAPPE</title>
+      <para id="para-id3214960">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id2494020">
+      <title>Module 2</title>
+      <para id="para-id2494020">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5521882">
+      <title>PLEKWAARDES VAN SYFERS IN HEELGETALLE</title>
+      <para id="id3068887">Aktiwiteit 1:</para>
+      <list id="id5857859" list-type="bulleted">
+        <item>Om plekwaardes van syfers in heelgetalle te herken [LU 1.4]</item>
+        <item>Om heelgetalle te herken en voor te stel deur hulle beskryf en te vergelyk [LU 1.3.1]</item>
+      </list>
+      <para id="id3955188">DIE MODERNE GETALLESTELSEL: DIE DESIMALE STELSEL</para>
+      <list id="id3086737" list-type="bulleted">
+        <item>Noudat ons mondelinge tel-oefeninge en hoofrekene gedoen het, gaan ons kyk na die betekenis van ons getallestelsel. </item>
+        <item>Kom ons kyk wat Jannie oor Susie vertel. Dit klink vreemd, nie waar nie?</item>
+      </list>
+      <figure id="id1430319">
+        <media id="id1430319_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-9405.png" id="id1430319__onlineimage" height="251" width="475"/>
+        </media>
+      </figure>
+      <list id="id4191086" list-type="bulleted">
+        <item>1+1 is nie elf nie! Maar miskien moet ons na Romeinse syfers kyk: I +I = II. Dan sal dit reg wees. II is hoe die Romeine 2 geskryf het. In AKTIWITEIT 5 sal ons meer oor Romeinse syfers leer.</item>
+      </list>
+      <para id="id4596022">1. Laat ons na ‘n groter getal kyk. Wat presies beteken die getal 1 111, en hoekom? Probeer om die betekenis neer te skryf:</para>
+      <para id="id2043768"/>
+      <para id="id3072039"/>
+      <para id="id3474365">Dalk kan ons sê dat dit die volgende beteken:</para>
+      <figure id="id4123398">
+        <media id="id4123398_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-a44d.png" id="id4123398__onlineimage" height="149" width="530"/>
+        </media>
+      </figure>
+      <para id="id4121856">2. Watter getal dink jy word in hierdie diagram voorgestel? Skryf jou antwoord neer in die blokkie onder die diagram.</para>
+      <figure id="id3068469">
+        <media id="id3068469_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-1f50.png" id="id3068469__onlineimage" height="203" width="589"/>
+        </media>
+      </figure>
+      <list id="id3071282" list-type="bulleted">
+        <item>Ons desimale stelsel maak gebruik van groepe van los ene (eenhede), tiene, honderde, duisende en tienduisende. Ons kan tot nege aparte blokke hê. Sodra ons nog 'n blok bykry, sê ons dat ons tien blokke / 10 het, d.w.s. een groep van tien en niks wat los oorbly nie. In die leë blok sit ons ‘n “0” om te sê daar is niks wat oorbly nie. Met blokke lyk dit dan so:</item>
+      </list>
+      <figure id="id3534884">
+        <media id="id3534884_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-f570.png" id="id3534884__onlineimage" height="147" width="459"/>
+        </media>
+      </figure>
+      <list id="id2584466" list-type="bulleted">
+        <item>Omdat ons nie altyd blokke kan teken nie, gebruik ons die POSISIE van die syfers om te sê hoeveel in daardie groep is. Daarom praat ons van plekwaardes:</item>
+      </list>
+      <table id="id3195338" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DUISENDE</entry>
+              <entry>HONDERDE</entry>
+              <entry>TIENE</entry>
+              <entry>ENE</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>100</entry>
+              <entry>10</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>10 x 10 x 10</entry>
+              <entry>10 x 10</entry>
+              <entry>10</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4756173">
+      <title>Hersiening: Ons Desimale Stelsel</title>
+      <para id="id3632009">In ons getallestelsel maak ons gebruik van nege simbole en “0”. Ons gebruik die simbole, 1; 2; 3; 4; 5; 6; 7; 8; 9 en 0 om enige en al die getalle wat ons nodig het te skryf. Ons maak gebruik van die <emphasis effect="italics">posisie</emphasis> van die syfer soos dit in die getal is om sy waarde aan te dui. In die getal 2 768 beteken die <emphasis effect="bold">7</emphasis> eintlik 700 as gevolg van <emphasis effect="italics">waar dit in die getal staan</emphasis>.</para>
+      <figure id="id4160695">
+        <media id="id4160695_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-f7ba.png" id="id4160695__onlineimage" height="171" width="452"/>
+        </media>
+      </figure>
+      <para id="id2048436">Indien daar geen duisende is nie (of syfers in die ander kolomme nie) gebruik ons die 0 om die plek te hou. </para>
+      <para id="id3262016">Let wel: <emphasis effect="italics">Ons kan nie die 0 weglaat nie</emphasis>. As ons die 0 weglaat, sal die waarde van die hele getal verander (bv.: 10 291 sal 1 291 word). Die 0 is dus besonder belangrik.</para>
+      <para id="id2965562"/>
+      <list id="id4130237" list-type="enumerated" number-style="arabic">
+        <item>Skryf elkeen van die getalle hieronder in UITGEBREIDE NOTASIE. Die een bo-aan die lys lyk so: 2 768 = 2 000 + 700 + 60 + 8 </item>
+      </list>
+      <para id="id4133400">Voltooi nou die volgende:</para>
+      <table id="id3960568" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>2 768 = 2 000 + 700 + 60 + 8</entry>
+            </row>
+            <row>
+              <entry>7 834 =...............................................................................................................................</entry>
+            </row>
+            <row>
+              <entry>2 056 =</entry>
+            </row>
+            <row>
+              <entry>8 503 =</entry>
+            </row>
+            <row>
+              <entry>1 940 =</entry>
+            </row>
+            <row>
+              <entry>16 473 =</entry>
+            </row>
+            <row>
+              <entry>25 809 =</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3561686">Let wel: </para>
+      <para id="id4101903">Wanneer ons ‘n groot getal skryf<emphasis effect="italics">, laat ons ‘n spasie tussen die duisende en die honderde.</emphasis> Dit maak die lees van die getal makliker. Sleutel 10 403 op jou sakrekenaar in. Die sakrekenaar los nie hierdie spasie nie. Jy sal agterkom dat dit nie so maklik is om die getal te lees wanneer die spasie tussen die duisende en die honderde nie daar is nie. Wanneer jy self groot getalle neerskryf, moet jy seker maak dat jy die spasie in die korrekte plek laat. </para>
+      <para id="id4085325"/>
+      <para id="id2327744">DIE MAAK VAN GETALLE EN OM HULLE IN DIE KORREKTE ORDE TE RANGSKIK</para>
+      <list id="id1864742" list-type="bulleted">
+        <item>Ons het nou gesien dat elke syfer in ‘n getal ‘n waarde het, byvoorbeeld: </item>
+      </list>
+      <para id="id4003457">3 967 = 3 000 + 900 + 60 + 7.</para>
+      <para id="id3173201">Hierdie getal kan soos volg in kolomme geskryf word:</para>
+      <table id="id2746086" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DUISENDE1 000</entry>
+              <entry>HONDERDE100</entry>
+              <entry>TIENE10</entry>
+              <entry>ENE1</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>9</entry>
+              <entry>6</entry>
+              <entry>7</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3084555">Want daar is: </para>
+      <para id="id3475870">3 × 1 000 + 9 × 100 + 6 × 10 + 7</para>
+      <para id="id4096184">4. Skep nou die grootste en die kleinste getalle moontlik met die syfers 2; 8; 4; 1 hieronder: Skryf daarna enige twee ander getalle - steeds met die gebruik van dieselfde syfers. Skryf al hierdie getalle in die kolomme:</para>
+      <table id="id4094875" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DUISENDE1 000</entry>
+              <entry>HONDERDE100</entry>
+              <entry>TIENE10</entry>
+              <entry>ENE1</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3195044">Watter van hierdie getalle is die grootste? </para>
+      <list id="id3356683" list-type="bulleted">
+        <item>Skryf nou jou getalle neer. Begin bo met die grootste, daarna die tweede grootste, dan die volgende grootste, totdat jy die kleinste getal bereik. Hier praat ons van 'n DALENDE VOLGORDE. (Vliegtuie daal neer om te land.)</item>
+      </list>
+      <para id="id2223022">‘n<emphasis effect="bold"> D</emphasis>alende volgorde begin met die grootste getal en <emphasis effect="bold">D</emphasis>aal na die kleinste getal.</para>
+      <para id="id2713817"><emphasis effect="bold">Voorbeeld:</emphasis> 10; 9; 8; 7; 6; 5; 4; 3; 2; 1</para>
+      <para id="id3211612">4.2 ‘n Stygende volgorde begin met die kleinste en gaan op na die grootste getal! Skryf nou jou getalle in ‘n stygende volgorde. Onthou om by die kleinste getal te begin.</para>
+      <para id="id2643561">4.3 Skryf hierdie getalle van die kleinste tot die grootste neer:</para>
+      <para id="id3659199">6 095; 9 065; 6 059; 9 506; 5 069 </para>
+      <para id="id3776450">4.4 Skryf hierdie getalle van die grootste tot die kleinste neer:</para>
+      <para id="id3204091">8 315; 3 851; 5 318; 1 853; 8 513</para>
+      <para id="id3265018">5. <emphasis effect="bold">EWE EN ONEWE GETALLE</emphasis></para>
+      <para id="id3806680">5.1 Bestudeer die volgende getallel:</para>
+      <para id="id3924554">0, 2, 4, 6, 8, 10, 12, 14, 16</para>
+      <para id="id3807749">Al die getalle wat hier geskryf is, is ewe getalle. Die getalle kan gelykop tussen twee maats verdeel word. </para>
+      <para id="id4141558">5.2 Tussen die ewe getalle is daar onewe getalle. Hulle kan nie heel gehou en gelykop tussen twee mense verdeel word nie. Skryf die name van die onewe getalle neer.</para>
+      <para id="id3186314">TOETS JOU KENNIS van ewe en onewe getalle:</para>
+      <para id="id3214693">a. Maak 'n lys van die ewe getalle tussen 2 800 en 2 812.</para>
+      <para id="id2032982">b. Watter onewe getal is net voor 10 000?</para>
+      <para id="id2319277">c. Wat is die eerste ewe getal na 2 998?</para>
+      <para id="id2618466">6. <emphasis effect="bold">GROTER EN KLEINER</emphasis></para>
+      <para id="id3986498">In Wiskunde beteken hierdie teken<emphasis effect="bold"/><emphasis effect="bold">&gt;</emphasis><emphasis effect="bold"/>GROTER AS of MEER AS:</para>
+      <para id="id3394507">Hierdie teken <emphasis effect="bold">&lt;</emphasis> beteken: KLEINER AS of MINDER AS </para>
+      <para id="id3761754">(Onthou dat die krokodil altyd sy bek in die rigting van die grootste getal oopmaak – hy is beslis honger!)</para>
+      <figure id="id4107203">
+        <media id="id4107203_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-7b56.png" id="id4107203__onlineimage" height="135" width="212"/>
+        </media>
+      </figure>
+      <para id="id2165756">500 <emphasis effect="bold">&gt;</emphasis> 400</para>
+      <para id="id4033332">of 500 is groter as 400</para>
+      <list id="id3469029" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="bold">&lt;</emphasis> 500</item>
+      </list>
+      <para id="id3966722">of 400 is minder as 500</para>
+      <para id="id3264608">TOETS JOU BEGRIP VAN HIERDIE TEKENS:</para>
+      <list id="id3174697" list-type="bulleted">
+        <item>Kies vir die stelling wat volg die korrekte teken uit die volgende: &lt; of = of &gt;</item>
+      </list>
+      <para id="id5582639">a) 0 + 4  11 －  3</para>
+      <para id="id4140650">b) 13 － 6  0 + 7</para>
+      <para id="id3553409">c) 2 + 7  14 － 8</para>
+      <para id="id4162084">d) 13 － 5  7 + 4</para>
+      <para id="id3108657">6.2 Skryf die getal wat ontbreek (wanneer jy in tiene tel) hier neer:</para>
+      <para id="id3008097">  1 470 &lt; _____ ______________ &lt; 1 490.</para>
+      <para id="id3539052">7. <emphasis effect="bold">'n SAKREKENAARSPELETJIE</emphasis></para>
+      <para id="id2663180">Nou kan ons weer met die sakrekenaar speel. Probeer vasstel wat die leerders hier doen. Daarna kan jy dit met ‘n maat speel.</para>
+      <figure id="id5884571">
+        <media id="id5884571_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-61da.png" id="id5884571__onlineimage" height="289" width="633"/>
+        </media>
+      </figure>
+      <para id="id3976086">Paul het 187 ingesleutel. Hy het een bewerkingsteken ingesleutel en = gedruk en die getal 1 870 het op die skerm verskyn. Watter bewerkingsteken het hy ingesleutel? Dis reg, dit was x 10, want 187 x 10 = 1 870.</para>
+      <para id="id4044388">Watter bewerkingsteken het Reyhana ingesleutel? Ja - dis reg, dit was ook x 10, want 1 870 x 10 = 18 700.</para>
+      <para id="id4100958"/>
+      <para id="id3402631">8. Kyk of jy nou die volgende tabel sonder 'n sakrekenaar kan voltooi. Daarna kan jy die  antwoorde met ‘n maat kontroleer. (As jy vashaak, kan julle ‘n sakrekenaar gebruik.)</para>
+      <table id="id5594374" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Getal</entry>
+              <entry>Bewerkingsteken</entry>
+              <entry>Antwoord</entry>
+            </row>
+            <row>
+              <entry>58</entry>
+              <entry>X 100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>145</entry>
+              <entry>X 10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>309</entry>
+              <entry/>
+              <entry>3 090</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry/>
+              <entry>10 000</entry>
+            </row>
+            <row>
+              <entry>520</entry>
+              <entry/>
+              <entry>52</entry>
+            </row>
+            <row>
+              <entry>1 690</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10 000</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2974646">Hallo! Ek word Sesduisend genoem.Ek is deel van ‘n baie groter getal:Sestienduisend driehonderd nege en twintig.</para>
+      <para id="id2192496">1<emphasis effect="underline">6</emphasis> 329</para>
+      <para id="id3056666">9. Skryf nou <emphasis effect="bold">die waarde</emphasis> van die syfers wat vetgedruk is neer:</para>
+      <para id="id3959517"><emphasis effect="bold">3</emphasis> 421 </para>
+      <para id="id4045626"><emphasis effect="bold">8</emphasis> 035 </para>
+      <para id="id3274906">9<emphasis effect="bold">2</emphasis>6</para>
+      <para id="id3468274"><emphasis effect="bold">1</emphasis>4 051</para>
+      <para id="id3201047">Laat ons na die getal 2 <emphasis effect="bold">8</emphasis>4<emphasis effect="bold">8 </emphasis>kyk.</para>
+      <para id="id4120468">Die 8 aan die <emphasis effect="bold">linkerkant</emphasis> beteken 800. Die 8 aan die <emphasis effect="bold">regterkant</emphasis> beteken 8.</para>
+      <para id="id4000146"><emphasis effect="italics">Wat is die verskil tussen </emphasis><emphasis effect="italics">die waardes</emphasis> van die twee 8’s ?</para>
+      <para id="id4165469">800 － 8 = 792</para>
+      <para id="id4790832">10. <emphasis effect="bold">Bereken nou die verskille in die waardes</emphasis> van die getalle wat vetgedruk en onderstreep is (kyk na die voorbeeld in die vorige blokkie):</para>
+      <table id="id4137534" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">7</emphasis> 3<emphasis effect="bold">7</emphasis>4</entry>
+              <entry>.....................................................................................................</entry>
+            </row>
+            <row>
+              <entry>6<emphasis effect="bold"> 99</emphasis>5 </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">3</emphasis> 02<emphasis effect="bold">3</emphasis></entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id3089213" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">5 5</emphasis>19</entry>
+              <entry>...................................................................................................</entry>
+            </row>
+            <row>
+              <entry>2 <emphasis effect="bold">4</emphasis>5<emphasis effect="bold">4</emphasis></entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>0 0<emphasis effect="bold">1</emphasis>0</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2281132">11. Jy kan nou ‘n ‘plekwaarde’-speletjie met ‘n maat en ‘n sakrekenaar speel. Dit sal jou help om die begrip ‘plekwaarde’ beter te verstaan. Dit is nogal belangrik om hierdie speletjie te speel. </para>
+      <para id="id2333163">Kom ons kyk of jy die speletjie kan leer ken deur te lees wat die twee leerders sê:</para>
+      <figure id="id4085433">
+        <media id="id4085433_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10-2eea.png" id="id4085433__onlineimage" height="260" width="633"/>
+        </media>
+      </figure>
+      <para id="id4048520"/>
+      <para id="id4093148">Die speletjie eindig wanneer al die syfers met ‘n 0 vervang is. </para>
+      <para id="id3072867">12. Noudat jy die "plekwaarde"-speletjie gespeel het, kan ons probeer om die volgende oefening te doen Die syfer wat vet gedruk is, moet met ‘n 0 vervang word. (Die eerste twee is reeds gedoen.) </para>
+      <table id="id4139449" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Getal, die <emphasis effect="bold">vetgedrukte</emphasis> syfer moet met ‘n 0 vervang word</entry>
+              <entry>My voorstel: wat gedoen moet word:</entry>
+              <entry>Sakrekenaar se antwoord</entry>
+              <entry>Π</entry>
+              <entry>ρ</entry>
+              <entry>Wat ek moes gedoen het:</entry>
+            </row>
+            <row>
+              <entry>1 35<emphasis effect="bold">6</emphasis></entry>
+              <entry>－ 6 =</entry>
+              <entry>1 350</entry>
+              <entry>Π</entry>
+              <entry>-</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">2</emphasis><emphasis effect="underline"/>519</entry>
+              <entry>－ 200 =</entry>
+              <entry>2 319</entry>
+              <entry/>
+              <entry>ρ</entry>
+              <entry>－ 2 000 =</entry>
+            </row>
+            <row>
+              <entry>6 <emphasis effect="bold">7</emphasis>23</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15 6<emphasis effect="bold">3</emphasis>8</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>3 642</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1<emphasis effect="bold">7</emphasis> 389</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="italics">5</emphasis>90</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14 84<emphasis effect="italics">3</emphasis></entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7<emphasis effect="underline"/><emphasis effect="bold">3</emphasis>94</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2022697">1.3 Kom ons kyk weer na die eerste een. Sou dit reg gewees het om + 4 te sê? Ja dis reg:  1 35<emphasis effect="bold">6</emphasis> + 4 = 1 36<emphasis effect="bold">0. </emphasis>Dit is hoe<emphasis effect="bold"/>ons die 6 met ‘n 0 vervang!! </para>
+      <para id="id2181562">TOETS JOU VAARDIGHEID: PLEKWAARDES en DIE BESKRYWING EN VERGELYKING VAN HEELGETALLE </para>
+      <para id="id4071752">Nou dat ons geleer het hoe belangrik plekwaardes is, kan ons hierdie kennis gebruik om die volgende oefeninge te voltooi: </para>
+      <para id="id5279462">1. Skryf die getal wat uit die volgende bestaan:</para>
+      <para id="id3049556">6 000 + 0 + 20 + 9  </para>
+      <para id="id4127386"/>
+      <para id="id4134113">2.1 Skryf neer die grootste heelgetal moontlik wat uit die volgende syfers bestaan:</para>
+      <para id="id4146895">6 ; 0; 9; 2; 7</para>
+      <para id="id5753292"/>
+      <para id="id5870114">2.2 Skryf die onewe getal onmiddellik voor 4 521</para>
+      <para id="id4141069"/>
+      <para id="id4141853">2.3 Skryf die ewe getal wat na 3 008 kom.</para>
+      <para id="id3920108"/>
+      <para id="id3186732">3. Wat is die waarde van die 6 in 1<emphasis effect="bold">6</emphasis> 708?</para>
+      <para id="id4128847"/>
+      <para id="id2407060">4. Die getal 17 538 verskyn op my rekenaar skerm. Hoe kan ek die 7 in ‘n 0 verander deur slegs een instruksie en = in te sleutel?</para>
+      <para id="id4167944"/>
+      <para id="id4597858">5. Skryf die heelgetal:</para>
+      <para id="id4534331"> 5.1 wat net voor 10 000 is</para>
+      <para id="id3149401"/>
+      <para id="id4031419">5.2 wat net na 1 000 is</para>
+      <para id="id4202490"/>
+      <para id="id3153883">5.3 wat groter is as 998 en kleiner is as 1 000</para>
+      <para id="id4084757"/>
+      <para id="id4182621">5.4 wat tussen 5 009 en 5 011 is</para>
+      <para id="id1065162"/>
+      <para id="id4555732">6. Skryf die antwoorde neer:</para>
+      <list id="id2740346" list-type="bulleted">
+        <item>347 － 47 =   </item>
+        <item>347 － 37 =  </item>
+        <item>254 － 54 =  </item>
+        <item>254 － 64 =  </item>
+        <item>254 － 44 =  </item>
+      </list>
+      <para id="id6157655">KOM LAAT ONS JOU VORDERING TOT DUSVER TOETS</para>
+      <para id="id6148398">18 <emphasis effect="underline">4</emphasis>08</para>
+      <para id="id5980646">1. Gebruik die getal in die raam hierbo om die volgende te voltooi:</para>
+      <list id="id6154321" list-type="bulleted">
+        <item>Watter getallestelsel gebruik ons? </item>
+        <item>Watter getalsimbole gebruik ons om al ons getalle te maak? Skryf hulle hieronder neer:</item>
+        <item>Skryf die waarde van die onderstreepte syfer in die raam hierbo neer.</item>
+      </list>
+      <para id="id6169365">1.4 Wat is die waarde van die 8</para>
+      <list id="id6166214" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>aan die linkerkant?___________ b) aan die regterkant? __________</item>
+      </list>
+      <para id="id6166581">1.5 Wat sal die getal wees, indien jy die “0” weglaat? </para>
+      <para id="id6140384"/>
+      <para id="id5939157">1.6 Tel 4 by die getal in die raam 18 408 + 4 = ______________</para>
+      <para id="id5980104">1.7 Skryf die getal in die raam (hierbo) in uitgebreide notasie:</para>
+      <para id="id5883064">1 ×________+ 8 × ___________ + 4 × __________+________× 10 + ________</para>
+      <para id="id5905927">1.8 Jy tel in 2’s. Begin met die getal hierbo en skryf die <emphasis effect="italics">volgende</emphasis> 5 getalle neer:</para>
+      <para id="id6147696">2. Skryf die ontbrekende getalle neer:</para>
+      <para id="id5986588">18 408; 18 508; 18 608; 18 708; _________ , _______________ , ____________ .</para>
+    </section>
+    <section id="id5992787">
+      <title>Assessering</title>
+      <table id="id5928096" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id5987689" list-type="bulleted">
+                  <item>Leeruitkomstes(LUs)</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id6127778" list-type="bulleted">
+                  <item>LU 1 </item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6120111" list-type="bulleted">
+                  <item>Getalle, Verwerkings en Verwantskappe</item>
+                  <item>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6120345" list-type="bulleted">
+                  <item>Assesseringstandaarde(ASe)</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <list id="id6114426" list-type="bulleted">
+                  <item>Dit is duidelik wanneer die leerder:</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6006952" list-type="bulleted">
+                  <item>1.1 aan- en terugtel in ‘n verskeidenheid intervalle (insluitend 2’s, 3’e, 5’e, 10’e, 25’s, 50’s en 100’e) tussen 0 en minstens 10 000;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6006117" list-type="bulleted">
+                  <item>1.2 verskeie maniere van tel deur die geskiedenis heen in verskillende kulture (insluitend plaaslik) beskryf en illustreer;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6140731" list-type="bulleted">
+                  <item>1.3 die volgende getalle kan herken en voorstel sodat dit beskryf en vergelyk kan word:</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6137119" list-type="bulleted">
+                  <item>1.3.1 heelgetalle tot minstens 4-syfergetalle;</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <list id="id6140735" list-type="bulleted">
+                  <item>1.4 die plekwaarde van syfers in heelgetalle tot minstens 4-syfergetalle herken;</item>
+                </list>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id6127738">
+      <title>Memorandum</title>
+      <para id="id6008797">AKTIWITEIT 1: PLEKWAARDE</para>
+      <para id="id5987844">1. 1 000 + 100 + 10 + 1</para>
+      <para id="id6110943">2. 1 000 + 300 + 20 + 6 = 1 326</para>
+      <para id="id6006204"/>
+      <para id="id6013392">3. 7 834 = 7 000 + 800 + 30 + 4</para>
+      <para id="id6119001"> 2 056 = 2 000 + 0 + 50 + 6</para>
+      <para id="id6120305"> 8 503 = 8 000 + 500 + 0 + 3</para>
+      <para id="id6008555"> 1 940 = 1 000 + 900 + 400 + 0</para>
+      <para id="id5941402"> 16 473 = 10 000 + 6 000 + 400 + 70 + 3</para>
+      <para id="id6124253"> 25 809 = 20 000 + 5 000 + 800 + 0 + 9</para>
+      <para id="id5983665">4. Let wel: Baie getalle is moontlik met die gebruik van 2; 8; 4; 1, maar ruimte word net gegee vir 4 getalle. Al die moontlike getalle word egter in die memorandum gegee.</para>
+      <table id="id5976267" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DUISENDE1 000</entry>
+              <entry>HONDERDE100</entry>
+              <entry>TIENE10</entry>
+              <entry>ENE/EENHEDE1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>8</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5999627">Alle leerders sal moontlik nie merk dat soveel getalle moontlik is nie, maar sommige leerders sal dit wel merk. Dit kan na 'n waardevolle bespreking lei. die grootste getal wat moontlik is, is 8 421. Die kleinste is 1 248. </para>
+      <para id="id6012150">4.1 Slegs 4 stappe word weer voorsien. kontroleer dat die leerders se antwoorde in dalende volgorde gegee word, bv. 8 421; 4 821; 2 841; 1 248</para>
+      <para id="id6006395">Let wel: dit is nie nodig vir leerders om al die moontlike getalle in dalende volgorde te skryf nie; vier getalle sal voldoende wees om te toon dat hulle die betekenis van dalende volgorde verstaan.</para>
+      <para id="id5984848">4.2 Vier getalle sal ook hier voldoende wees om te toon dat die leerder die betekenis van stygende volgorde verstaan. gaan asseblief elke leerder se antwoorde na.</para>
+      <para id="id6154363">Voorbeeld: 1 248; 2 148; 4 218; 8 421</para>
+      <para id="id6152222">4.3 5 069; 6 059; 6 095; 9 065; 9 506</para>
+      <list id="id5989390" list-type="bulleted">
+        <item>8 513; 8 315; 5 318; 3 851; 1 853</item>
+      </list>
+      <list id="id5986985" list-type="bulleted">
+        <item>1; 3; 5; 7; 9; 11; 13; 15</item>
+      </list>
+      <para id="id5992836">TOETS JOU KENNIS: ewe en onewe getalle </para>
+      <para id="id6166205">1. 2 802; 2 894; 2 806; 2 808; 2 810</para>
+      <para id="id5993734">2. 9 999</para>
+      <para id="id6002914">3. 3 000 </para>
+      <para id="id5988999"><emphasis effect="bold">6.</emphasis><emphasis effect="bold"/><emphasis effect="bold">GROTER EN KLEINER</emphasis> ; &lt; ; =</para>
+      <para id="id6123251">6.1 (a) &lt; (b) = c)   (d) &lt;</para>
+      <list id="id5980722" list-type="bulleted">
+        <item>1 480</item>
+      </list>
+      <para id="id6123299">7.</para>
+      <table id="id6140275" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Getal</entry>
+              <entry>Bewerkingsteken</entry>
+              <entry>Antwoord</entry>
+            </row>
+            <row>
+              <entry>58</entry>
+              <entry>x 100</entry>
+              <entry>5 800</entry>
+            </row>
+            <row>
+              <entry>145</entry>
+              <entry>x 10</entry>
+              <entry>1 450</entry>
+            </row>
+            <row>
+              <entry>309</entry>
+              <entry>x 10</entry>
+              <entry>3 090</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>10</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>x 10</entry>
+              <entry>10 000</entry>
+            </row>
+            <row>
+              <entry>520</entry>
+              <entry>10</entry>
+              <entry>52</entry>
+            </row>
+            <row>
+              <entry>1 690</entry>
+              <entry>10</entry>
+              <entry>169</entry>
+            </row>
+            <row>
+              <entry>1 000</entry>
+              <entry>100</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>10 000</entry>
+              <entry>10</entry>
+              <entry>1 000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6113684">9. 3 000; 8 000</para>
+      <para id="id6013162"> 20; 10 000</para>
+      <para id="id5936654">10.</para>
+      <table id="id5919626" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>7 374</entry>
+              <entry>7 000 –70 = 6 930</entry>
+            </row>
+            <row>
+              <entry>6 995</entry>
+              <entry>9 00 – 90 = 810</entry>
+            </row>
+            <row>
+              <entry>3 023</entry>
+              <entry>3 000 – 3 = 2 997</entry>
+            </row>
+            <row>
+              <entry>5 519</entry>
+              <entry>5 000 – 500 = 4 500</entry>
+            </row>
+            <row>
+              <entry>2 454</entry>
+              <entry>400 –4 = 396</entry>
+            </row>
+            <row>
+              <entry>10 010</entry>
+              <entry>10 000 – 10 =9 990</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6011931">11. Speletjie</para>
+      <para id="id5839455">12. Die eerste twee dien as voorbeelde:</para>
+      <table id="id6148157" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Getal, vetletter-syfer moet met 0 vervang word</entry>
+              <entry>Hoe om te werk te gaan</entry>
+              <entry>Sakrekenaar-antwoord</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1 35<emphasis effect="bold">6</emphasis></entry>
+              <entry>- 6of: + 4</entry>
+              <entry>1 3501 360</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">2</emphasis> 519</entry>
+              <entry>- 200</entry>
+              <entry>2 319</entry>
+              <entry/>
+              <entry>×</entry>
+              <entry>- 2 000 =</entry>
+            </row>
+            <row>
+              <entry>6 <emphasis effect="bold">7</emphasis>23</entry>
+              <entry>- 700of: + 300</entry>
+              <entry>6 0237 023</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>15 6<emphasis effect="bold">3</emphasis>8</entry>
+              <entry>- 30of: + 70</entry>
+              <entry>15 60815 708</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">1</emphasis>3 642</entry>
+              <entry>-10 000of: + 90 000</entry>
+              <entry>3 642103 642</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>1<emphasis effect="bold">7</emphasis> 389</entry>
+              <entry>- 7 000of: + 3 000</entry>
+              <entry>10 38920 389</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">5</emphasis>90</entry>
+              <entry>- 500of: + 500</entry>
+              <entry>901 090</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>14 84<emphasis effect="bold">3</emphasis></entry>
+              <entry>- 3of: + 7</entry>
+              <entry>14 84014 850</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>7 <emphasis effect="bold">3</emphasis>94</entry>
+              <entry>- 300of: + 700</entry>
+              <entry>7 0948 094</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6165469">13. Ja</para>
+      <para id="id6167396">TOETS JOU VAARDIGHEID: PLEKWAARDE </para>
+      <list id="id6169064" list-type="enumerated" number-style="arabic">
+        <item>6 029</item>
+      </list>
+      <list id="id5340660" list-type="bulleted">
+        <item>97 620   </item>
+      </list>
+      <para id="id6013981">2.2  4 519  </para>
+      <para id="id6155039">2.3 3 010</para>
+      <para id="id6132152">3. 6 000</para>
+      <list id="id6152779" list-type="enumerated" number-style="arabic">
+        <item>- 7 000  of  + 3 000</item>
+      </list>
+      <list id="id6119907" list-type="bulleted">
+        <item>9 999  </item>
+      </list>
+      <para id="id6167295">5.2  1 001</para>
+      <list id="id6124772" list-type="bulleted">
+        <item>999  </item>
+      </list>
+      <para id="id6132336">5.4 5 010</para>
+      <list id="id6168291" list-type="bulleted">
+        <item>300</item>
+        <item>310</item>
+        <item>200</item>
+        <item>190</item>
+        <item>210</item>
+      </list>
+      <para id="id6114894">TOETS JOU VORDERING TOT DUSVER </para>
+      <list id="id6114897" list-type="bulleted">
+        <item>Desimaal</item>
+        <item>0; 1; 2; 3; 4; … 9</item>
+        <item>400</item>
+        <item>(a) 8 000  </item>
+        <item>(b) 8</item>
+        <item>1 848</item>
+        <item>18 412</item>
+        <item>1 x 10 000 + 8 x 1 000 + 4 x 100 + 0 + 8</item>
+        <item>18 410; 18 412; 18414; 18 416; 18 418</item>
+      </list>
+      <para id="id6123694">2. 18 808; 18 908; 19 008</para>
+    </section>
+  </content>
+</document>

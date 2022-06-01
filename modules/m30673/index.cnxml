@@ -1,0 +1,702 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vergelyking van breuke</title>
+  <metadata>
+  <md:content-id>m30673</md:content-id><md:title>Vergelyking van breuke</md:title>
+  <md:abstract/>
+  <md:uuid>00f04bee-ce51-40ee-988f-70b4743f889d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166755487287">
+      <title>WISKUNDE</title>
+      <para id="para-id1166755487287">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166755667739">
+      <title>Graad 4</title>
+      <para id="para-id1166755667739">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7081997">
+      <title>GETALLE, BREUKE, DESIMALE BREUKE EN GETALPATRONE</title>
+      <para id="para-id7081997">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166756008713">
+      <title>Module 8</title>
+      <para id="para-id1166756008713">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166752722286">
+      <title>VERGELYKING VAN BREUKE</title>
+      <para id="id1166755384311">Aktiwiteit 1:</para>
+      <para id="id5872387">Om breuke te vergelyk [LU 1.5.1]</para>
+      <para id="id6104959">1. Elk van die volgende drie stawe verteenwoordig een geheel.</para>
+      <table id="id1166758545782" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+              <entry namest="c9" nameend="c12"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166757467351">Die boonste staaf toon derdes. Die middelste staaf toon twaalfdes. Die laaste staaf toon sesdes. Jy kan hulle raadpleeg om te besluit met watter teken ( &lt; of  ) jy die 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math> moet vervang om die stellings hieronder waar te maak:</para>
+      <para id="id4497768">1.1 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166754322695">1.2 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166755303865">1.3 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"12"} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id7850961">1.4 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"12"} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ * } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166754417780">2. Hier stel elke staaf weer een hele voor.</para>
+      <table id="id1166760438296" summary="">
+        <tgroup cols="10">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4272498">Die boonste staaf toon________. Die onderste staaf toon _____ .</para>
+      <para id="id1166756277661">Raadpleeg hierdie stawe om die onderstaande te voltooi:</para>
+      <list id="id5749861" list-type="bulleted">
+        <item>twee vyfdes &lt; __________________ tiendes</item>
+        <item>ses tiendes &lt; _______________ vyfdes</item>
+        <item>vier vyfdes &gt; _______________ tiendes</item>
+        <item>twee tiendes &lt; _______________ vyfdes</item>
+        <item>Watter een is groter: vier tiendes of vier vyfdes?________</item>
+        <item>Watter een is groter: drie tiendes of twee vyfdes?___________</item>
+        <item>Wat is minder: drie vyfdes of vyf tiendes?______________</item>
+      </list>
+      <para id="id7119712">3. Hier stel elke staaf weer een hele voor.</para>
+      <table id="id6013140" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166755702226">Beskou die stawe hierbo goed en voltooi dan die volgende:</para>
+      <list id="id5232549" list-type="bulleted">
+        <item>halwe &gt;__________ agste.</item>
+        <item>twee agstes &lt; __________ kwarte.</item>
+        <item>drie kwarte&gt; vyf_________ .</item>
+      </list>
+      <para id="id1166758429282">Aktiwiteit 2:</para>
+      <para id="id1166756999354">Om aan en terug te tel in breuke [LU 1.3]</para>
+      <para id="id1166755684073">1. Groepbespreking</para>
+      <para id="id1166754352040">Lees die volgende en bespreek dit om te besluit wie reg was:</para>
+      <para id="id1166755689862">Die opvoeder sê, “Tel in halwes van 0 tot 10.”</para>
+      <para id="id1166754227473">
+        <figure id="id1166755289000">
+          <media id="id1166755289000_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 16-c1a1.png" id="id1166755289000__onlineimage" height="239" width="633"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3995590">Wie was reg?</para>
+      <para id="id1166755670781">Eintlik was altwee maniere van tel korrek. Kom ons kyk na hoe Pieter dit gedoen het.</para>
+      <para id="id1166756029060"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="11pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 11{1}}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math>; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> Wat merk jy hier op?</para>
+      <para id="id1166755025482">Ja, na die eerste twee is die boonste gedeelte van die breuk groter as die onderste gedeelte.</para>
+      <para id="id7781178">Wat beteken dit? Bespreek.</para>
+      <para id="id1166755691077">Ja, dit beteken dat daar ten minste een hele in die getal versteek is.</para>
+      <para id="id5568524"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> = een hele; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  { size 11{2}} } }} {}</m:annotation></m:semantics></m:math> Wat is die betekenis van vier halwes? Wat beteken vyf halwes?</para>
+      <para id="id5607043">Wanneer die boonste deel van 'n breuk (teller) groter is as die onderste deel (noemer) praat ons van 'n ONEGTE BREUK.</para>
+      <para id="id877103"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mstyle fontsize="11pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  { size 11{2}} } } {}</m:annotation></m:semantics></m:math> is 'n ONEGTE BREUK; die boonste deel is groter as die onderste deel.</para>
+      <para id="id1166758556670">Soms is dit nodig om onegte breuke in berekeninge te gebruik. Die meeste opvoeders verkies egter dat jy die finale antwoord in 'n berekening as 'n gemengde getal skryf.</para>
+      <para id="id1166754749163">2. MONDELINGE WERK: Doen nou die volgende teloefeninge. Jy mag onegte breuke of gemengde getalle gebruik. Vra 'n maat om jou antwoorde te kontroleer.</para>
+      <para id="id2875905">2.1 (a) Tel in halwes van 0 tot 10.</para>
+      <para id="id1166758232702">(b) Tel terug in halwes van 100 tot 90.</para>
+      <para id="id1166755270525">2.2 (a) Tel in derdes van 6 tot 10.</para>
+      <para id="id1166753191447">(b) Tel terug in derdes van 30 tot 25.</para>
+      <para id="id1166755306402">2.3 (a) Tel in kwarte van 12 tot 16. </para>
+      <para id="id1166755685860">(b) Tel terug in kwarte van 100 tot 96.</para>
+      <para id="id8658356">2.4 (a) Tel in vyfdes van 50 tot 55.</para>
+      <para id="id1166756290217">(b) Tel terug in vyfdes van 10 tot 6.</para>
+      <para id="id1166755278601">2.5 (a) Tel in sesdes van 24 tot 26.</para>
+      <para id="id1166755294753">(b) Tel terug in sesdes van 36 tot 30.</para>
+      <para id="id8242154">2.6 (a) Tel in sewendes van 0 tot 4.</para>
+      <para id="id1583597">(b) Tel terug in sewendes van 21 tot 17.</para>
+      <para id="id4547905">2.7 (a) Tel in agstes van 0 tot 3.</para>
+      <para id="id8045986">(b) Tel terug in agstes van 10 tot</para>
+      <para id="id1166754787877">2.8 (a) Tel in tiendes van 3 tot 8.</para>
+      <para id="id1166757250553">(b) Tel terug in tiendes van 100 tot 97.</para>
+      <para id="id1166754685042">Aktiwiteit 3:</para>
+      <para id="id1166757311541">Om ekwivalente breuke te herken [LU 1.5.1]</para>
+      <para id="id1166755999900">Om numeriese patrone te ondersoek om verwantskappe of reëls te vind [LU 2.1]</para>
+      <para id="id1166755292073">Twee seuns bestudeer ‘n meetbeker wat halfvol is.</para>
+      <para id="id1166757001993">
+        <figure id="id1166757466896">
+          <media id="id1166757466896_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 26-e259.png" id="id1166757466896__onlineimage" height="241" width="488"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id5567952">Wie is korrek? Ja, beide is korrek. Daar is net een beker en een hoeveelheid Coca Cola, maar ons kan van 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mtext>500</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mtext>1 000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{"500"}}  over  { size 10{"1 000"}} } } {}</m:annotation></m:semantics></m:math> praat; dit is verskillende name vir dieselfde </para>
+      <para id="id1166755222919">hoeveelheid.</para>
+      <para id="id1166754589391">Ons sê 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> en 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mtext>500</m:mtext></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mtext>1 000</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{"500"}}  over  { size 10{"1 000"}} } } {}</m:annotation></m:semantics></m:math> is EKWIVALENTE BREUKE.</para>
+      <para id="id1602143">Die duisendstes is kleiner deeltjies, maar daar is 500 van hulle; genoeg vir die helfte.</para>
+      <para id="id1166758186535">1. Kyk of julle die ekwivalente breuke van die volgende kan uitwerk (Gebruik die stawe in die diagram, indien nodig):</para>
+      <list id="id1166755709301" list-type="bulleted">
+        <item>Die helfte van 'n worsbroodjie is ekwivalent aan (gelyk aan) _______ kwarte van 'n identiese worsbroodjie.</item>
+      </list>
+      <table id="id8285072" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166754211063">Kan jy insien hoekom dit nie maar 'n = teken is nie? Ekwivalensie kom voor wanneer die geheel miskien in verskillende dele verdeel is, maar daar genoeg van die dele is om dieselfde hoeveelheid te lewer as watdaar in die ander breuk is.Ons skryf dit in woorde of met syfers, bv. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{1}}  over  { size 10{2}} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="10pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="10pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 10{2}}  over  { size 10{4}} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166755486394">1.2 'n Halwe worsbroodjie is ekwivalent aan _______ sesdes van 'n </para>
+      <para id="id1166757004976"> identiese worsbroodjie.</para>
+      <para id="id1166752971815">1.3 'n Halwe worsbroodjie is ekwivalent aan _____ agstes van 'n identiese </para>
+      <para id="id1166754749224">worsbroodjie. Skryf nou jou eie stelling oor ekwivalensie:</para>
+      <para id="id9019088">1.4 'n Halwe worsbroodjie is ekwivalent aan ________ van 'n identiese </para>
+      <para id="id1585384">worsbroodjie.</para>
+      <para id="id8700005">2. Halwes.</para>
+      <table id="id7090766" summary="">
+        <tgroup cols="8">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166758214420" list-type="bulleted">
+        <item>Die boonste staaf toon halwes. Kleur een helfte in.</item>
+      </list>
+      <list id="id1166754210666" list-type="bulleted">
+        <item>Kyk nou of jy breuke wat ekwivalent aan 'n halwe is in die ander stawe kan opspoor. Skryf almal hieronder neer. Kyk ook of jy 'n patroon in jou antwoorde kan opspoor. Bespreek dit met 'n maat.</item>
+      </list>
+      <para id="id3720424">3. Derdes.</para>
+      <table id="id1166758169444" summary="">
+        <tgroup cols="24">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <colspec colnum="22" colname="c22"/>
+          <colspec colnum="23" colname="c23"/>
+          <colspec colnum="24" colname="c24"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c8"/>
+              <entry namest="c9" nameend="c16"/>
+              <entry namest="c17" nameend="c24"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c4"/>
+              <entry namest="c5" nameend="c8"/>
+              <entry namest="c9" nameend="c12"/>
+              <entry namest="c13" nameend="c16"/>
+              <entry namest="c17" nameend="c20"/>
+              <entry namest="c21" nameend="c24"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+              <entry namest="c17" nameend="c18"/>
+              <entry namest="c19" nameend="c20"/>
+              <entry namest="c21" nameend="c22"/>
+              <entry namest="c23" nameend="c24"/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1166755299755" list-type="bulleted">
+        <item>Die boonste staaf toon derdes. Kleur een derde in.</item>
+        <item>Kyk nou of jy breuke in die ander stawe kan opspoor wat ekwivalent is aan een derde. Skryf hulle hieronder neer.</item>
+      </list>
+      <para id="id1166758556997">Probeer om 'n patroon in jou antwoorde op te spoor. Bespreek dit met 'n maat.</para>
+      <para id="id8569816">3.3 Vind al die breuke wat ekwivalent is aan twee derdes. Skryf hulle hieronder neer.</para>
+      <para id="id6409475">4. Vyfdes.</para>
+      <table id="id1166754756389" summary="">
+        <tgroup cols="30">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <colspec colnum="21" colname="c21"/>
+          <colspec colnum="22" colname="c22"/>
+          <colspec colnum="23" colname="c23"/>
+          <colspec colnum="24" colname="c24"/>
+          <colspec colnum="25" colname="c25"/>
+          <colspec colnum="26" colname="c26"/>
+          <colspec colnum="27" colname="c27"/>
+          <colspec colnum="28" colname="c28"/>
+          <colspec colnum="29" colname="c29"/>
+          <colspec colnum="30" colname="c30"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c6"/>
+              <entry namest="c7" nameend="c12"/>
+              <entry namest="c13" nameend="c18"/>
+              <entry namest="c19" nameend="c24"/>
+              <entry namest="c25" nameend="c30"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c3"/>
+              <entry namest="c4" nameend="c6"/>
+              <entry namest="c7" nameend="c9"/>
+              <entry namest="c10" nameend="c12"/>
+              <entry namest="c13" nameend="c15"/>
+              <entry namest="c16" nameend="c18"/>
+              <entry namest="c19" nameend="c21"/>
+              <entry namest="c22" nameend="c24"/>
+              <entry namest="c25" nameend="c27"/>
+              <entry namest="c28" nameend="c30"/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c4"/>
+              <entry namest="c5" nameend="c6"/>
+              <entry namest="c7" nameend="c8"/>
+              <entry namest="c9" nameend="c10"/>
+              <entry namest="c11" nameend="c12"/>
+              <entry namest="c13" nameend="c14"/>
+              <entry namest="c15" nameend="c16"/>
+              <entry namest="c17" nameend="c18"/>
+              <entry namest="c19" nameend="c20"/>
+              <entry namest="c21" nameend="c22"/>
+              <entry namest="c23" nameend="c24"/>
+              <entry namest="c25" nameend="c26"/>
+              <entry namest="c27" nameend="c28"/>
+              <entry namest="c29" nameend="c30"/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3"/>
+              <entry namest="c4" nameend="c5"/>
+              <entry/>
+              <entry/>
+              <entry namest="c8" nameend="c9"/>
+              <entry namest="c10" nameend="c11"/>
+              <entry/>
+              <entry/>
+              <entry namest="c14" nameend="c15"/>
+              <entry namest="c16" nameend="c17"/>
+              <entry/>
+              <entry/>
+              <entry namest="c20" nameend="c21"/>
+              <entry namest="c22" nameend="c23"/>
+              <entry/>
+              <entry/>
+              <entry namest="c26" nameend="c27"/>
+              <entry namest="c28" nameend="c29"/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id7066824" list-type="bulleted">
+        <item>Die boonste staaf toon vyfdes. Kleur een vyfde in. </item>
+        <item>Kyk nou of jy breuke in die ander stawe kan opspoor wat ekwivalent is aan een vyfde. Skryf hulle hieronder neer.</item>
+      </list>
+      <para id="id1166758204995"/>
+      <para id="id8132808">Kyk of jy 'n patroon in jou antwoorde kan opspoor. Bespreek dit met 'n maat.</para>
+      <para id="id1166756008407">4.3 Kyk nou of jy breuke in die ander stawe kan opspoor wat ekwivalent is aan twee vyfdes. Skryf almal neer.</para>
+      <para id="id7218538"/>
+      <para id="id1166757006078">Kyk of jy 'n patroon in jou antwoorde kan opspoor. Bespreek dit met 'n maat.</para>
+      <para id="id1166754978454">4.4 Kyk nou of jy breuke in die ander stawe kan opspoor wat ekwivalent is aan drie vyfdes. Skryf almal neer.</para>
+      <para id="id1166752671353"/>
+      <para id="id1166754786995">Kyk of jy 'n patroon in jou antwoorde kan opspoor. Bespreek dit met 'n maat.</para>
+      <para id="id1166752829185">4.5 Kyk nou of jy breuke in die ander stawe kan opspoor wat ekwivalent is aan vier vyfdes. Skryf almal neer.</para>
+      <para id="id4576511"/>
+      <para id="id1166752995607">Kyk of jy 'n patroon in jou antwoorde kan opspoor. Bespreek dit met 'n maat.</para>
+      <para id="id1166752732754">Aktiwiteit 4:</para>
+      <para id="id6454097">Om gebruik te maak van ekwivalente breuke [LU 1.5.1, 1.7.1]</para>
+      <para id="id1166753190324">en haar broer, Willie, het vyf agstes van dieselfde vakansie tuis deurgebring. Wie van hulle het gedurende daardie vakansie die meeste tyd by die huis deurgebring? </para>
+      <para id="id1166756277313">2. Dawid se hasies het 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> van 'n bossie wortels opgevreet. Roy se hasies het 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> van 'n identiese bossie wortels gevreet. Water seun het meer wortels oorgehou?</para>
+      <para id="id5804478">3. Len se ma het drie identiese panne brosbeskuit gebak. Sy het die eerste een in drie stukke gesny; die tweede een het sy in ses stukke gesny en die derde in twaalf stukke. Len het een stuk uit die eerste pan geëet. Sy broer, Bruce, het drie stukke uit die tweede pan en hulle pa het vier stukke uit die derde pan geëet.</para>
+      <para id="id1166758208953">3.1 Wie het die meeste brosbeskuit geëet?</para>
+      <para id="id1166754622590">3.2 Wie van hulle het dieselfde hoeveelheid brosbeskuit geëet?</para>
+      <para id="id1166756300279">4. Amos het vir die wingerd aan die onderkant van sy oupa se groentetuin gesorg. Toe die druiwe ryp was, het Amos 15 kilogram heerlike Hanepootdruiwe gepluk. Toe sê sy oupa hy kan dit in pakkies wat elk 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontsize="11pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ size 11{1 {  {1}  over  {2} } }} {}</m:annotation></m:semantics></m:math> kg druiwe hou, verpak en dit teen R6 per pakkie verkoop, of hy kan dit in kissies wat 5 kg druiwe kan hou pak en dit vir R20 per kissie verkoop . Amos wou soveel geld as moontlik maak.</para>
+      <para id="id8046301">4.1 Hoeveel pakkies sou Amos nodig hê as hy die pakkies gekies het?</para>
+      <para id="id4821330"/>
+      <para id="id1166755196150"/>
+      <para id="id8876562">4.2 Hoeveel kissies sou hy nodig gehad het as hy kissies gekies het?</para>
+      <para id="id1166755415108"/>
+      <para id="id1166755028255"/>
+      <para id="id8554234">4.3 Sou hy meer geld maak met pakkies of kissies, en hoeveel sou hy maak? Verduidelik jou antwoord.</para>
+      <para id="id4471326"/>
+      <para id="id1166756304600"/>
+    </section>
+    <section id="id7570044">
+      <title>Assessering</title>
+      <table id="id2270876" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder kan getalle en hulle verwantskappe herken, beskryf en voorstel en kan in die oplossing van probleme met bekwaamheid en selfvertroue tel, skat, bereken en kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 aan en terugtel in ‘n verskeidenheid van intervalle;</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle herken en voorstel sodat dit beskryf en vergelyk kan word:<list id="id8566599" list-type="bulleted"><item>gewone breuke met verskillende noemers, insluitend halwes, derdes, kwarte, vyfdes, sesdes, sewendes en agstes;</item><item>gewone breuke in diagramvorm;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens., in die konteks van meting;</item></list><list id="id5178733" list-type="bulleted"><item>veelvoude van enkelsyfergetalle tot minstens 100;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.5 ekwivalente vorms van die bogenoemde getalle herken en gebruik, insluitend;<list id="id1166755239464" list-type="bulleted"><item>gewone breuke met noemers wat veelvoude van mekaar is;</item><item>desimale breuke in terme van 0,5; 1,5; 2,5, ens. In die konteks van die meting;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.7 probleme oplos wat die volgende behels:1.7.1 vergelyking van twee of meer hoeveelhede van dieselfde soort(verhouding);</entry>
+            </row>
+            <row>
+              <entry>1.8 skat en bereken deur geskikte bewerkings vir die oplossing van probleme in verband met die volgende kies en te gebruik:<list id="id1166755670924" list-type="bulleted"><item>optel van gewone breuke in konteks;</item></list><list id="id1166760375792" list-type="bulleted"><item>gelyke verdeling met reste;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.9 hoofberekeninge uitvoer wat die volgende behels:1</entry>
+            </row>
+            <row>
+              <entry>1.9.2 vermenigvuldiging van heelgetalle tot minstens 10 x 10;</entry>
+            </row>
+            <row>
+              <entry>1.12 herken, beskryf en gebruik:</entry>
+            </row>
+            <row>
+              <entry>1.12.1 die omgekeerde verwantskap tussen vermenigvuldiging en deling (bv. as 5 x 3 = 15 , dan is 15 ÷ 3 = 5 en 15 ÷ 5 = 3;</entry>
+            </row>
+            <row>
+              <entry>1.12.2 die ekwivalensie van deling en breuke (bv. 1 ÷ 8 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>;</entry>
+            </row>
+            <row>
+              <entry>1.12.3 die kommutatiewe, assosiatiewe en distributiewe eienskappe van heelgetalle.</entry>
+            </row>
+            <row>
+              <entry>LU 2 </entry>
+            </row>
+            <row>
+              <entry>Patrone, Funksies en AlgebraDie leerder kan patrone en verwantskappe herken, beskryf en voorstel en kan probleme oplos deur gebruik te maak van algebraïese taal en vaardighede.</entry>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>2.1 numeriese en meetkundige patrone ondersoek en uitbrei om verwantskap of reëls te vind, insluitend patrone soos die volgende:<list id="id7783050" list-type="bulleted"><item>voorgestel in fisiese of diagramvorm;</item><item>nie beperk tot reekse met ‘n konstante verskil of verhouding nie;</item><item>teenwoordig in natuurlike en kulturele kontekste;</item><item>wat die leerder self geskep het;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7925834">
+      <title>Memorandum</title>
+      <para id="id6372262">AKTIWITEIT 1: herkenning en voorstelling van desimale Breuke</para>
+      <para id="id1166755040312">1.1 Ontbrekende getalle: 10; 1; een tiende</para>
+      <para id="id1166752855199">1.2 Sakrekenaar-antwoorde: 10; 1; 0,1</para>
+      <para id="id7838758">0,1 beteken een tiende</para>
+      <para id="id4279417">2.1</para>
+      <table id="id1166756994714" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>x 1 000</entry>
+              <entry>x 100</entry>
+              <entry>x 10</entry>
+              <entry>x 1</entry>
+              <entry>x 0,1</entry>
+            </row>
+            <row>
+              <entry>(a)</entry>
+              <entry>1 </entry>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>(b)</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+              <entry>0</entry>
+              <entry>1</entry>
+              <entry>9</entry>
+            </row>
+            <row>
+              <entry>(c)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>8</entry>
+              <entry>5</entry>
+            </row>
+            <row>
+              <entry>(d)</entry>
+              <entry/>
+              <entry/>
+              <entry>3</entry>
+              <entry>1</entry>
+              <entry>7</entry>
+            </row>
+            <row>
+              <entry>(e)</entry>
+              <entry/>
+              <entry>4</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+              <entry>2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166752712067">2.2 (b) 4 x 1 000 + 6 x 100 + 0 x 10 + 1 x 1 + 9 x 0,1</para>
+      <para id="id1166754210811">(c) 0 x 1 000 + 0 x 100 + 0 x 10 + 8 x 1 + 5 x 0,1 of net: 8 x 1 + 5 x 0,1</para>
+      <para id="id7086359">(d) 0 x 1 000 + 0 x 100 + 3 x 10 + 1 x 1 + 7 x 0,1 of net: 3 x 10 + 1 x 1 + 7 x 0,1</para>
+      <para id="id1166755084577">(e) 0 x 1 000 + 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1 of net: 4 x 100 + 5 x 10 + 6 x 1 + 2 x 0,1</para>
+      <para id="id5504702">AKTIWITEIT 2: vergelyking van desimale breuke</para>
+      <para id="id1166754586085">1.1 &lt; 1.2  1.3 &lt; 1.4 &lt; 1.5  1.6 &lt;</para>
+      <para id="id1166754982274">2. Omkringde getal: 49,1</para>
+      <para id="id8639261">3.1 10,9  </para>
+      <para id="id2838224">3.2 5,4  </para>
+      <para id="id7518253">3.3 5,9  </para>
+      <para id="id8173133">3.4 8,2</para>
+      <para id="id1166755690005">3.5 7 </para>
+      <para id="id1166754373096">3.6 99,1  </para>
+      <para id="id1595997">3.7 5,9  </para>
+      <para id="id1166757102464">3.8 9,9</para>
+    </section>
+  </content>
+</document>

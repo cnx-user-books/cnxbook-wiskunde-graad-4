@@ -1,0 +1,764 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Finansiele probleme en die opstel van 'n begroting</title>
+  <metadata>
+  <md:content-id>m30624</md:content-id><md:title>Finansiele probleme en die opstel van 'n begroting</md:title>
+  <md:abstract/>
+  <md:uuid>e05a5b28-bbf3-48b0-9235-7bebc76f3544</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172614426814">
+      <title>WISKUNDE</title>
+      <para id="para-id1172614426814">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8131895">
+      <title>Graad 4</title>
+      <para id="para-id8131895">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3005887">
+      <title>HEELGETALLE EN HUL VERWANTSKAPPE</title>
+      <para id="para-id3005887">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3101847">
+      <title>Module 4</title>
+      <para id="para-id3101847">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172613106651">
+      <title>finansiële probleme en die opstel van eenvoudige begrotings</title>
+      <para id="id3537878">Aktiwiteit 1:</para>
+      <para id="id3176094">Probleemoplossing in konteks, insluitend ekonomiese en omgewingsake soos finansiële probleme en die opstel van eenvoudige begrotings [LU 1.6.1]</para>
+      <para id="id1172618380204">1. <emphasis effect="bold">GELDSAKE</emphasis></para>
+      <para id="id1172613177835">Jy het gedurende die Grondslagfase ontdek hoeveel 1-sente, 2-sente, 5-sente, ens. daar in R1 is. Wys nou hoe knap jy is!</para>
+      <table id="id1172610895608" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Vraag </entry>
+              <entry>Antwoord</entry>
+            </row>
+            <row>
+              <entry>1.1 Hoeveel sente in R5? </entry>
+              <entry>________________sent</entry>
+            </row>
+            <row>
+              <entry>1.2 Hoeveel sente in R50?</entry>
+              <entry>_______________sent</entry>
+            </row>
+            <row>
+              <entry>1.3 Hoeveel 5-sentstukke in R1?</entry>
+              <entry>____________vyfsentstukke </entry>
+            </row>
+            <row>
+              <entry>1.4 Hoeveel 5-sentstukke in 10?</entry>
+              <entry>______________vyfsentstukke</entry>
+            </row>
+            <row>
+              <entry>1.5 Hoeveel 5-sentstukke in R100? </entry>
+              <entry>____________vyfsentstukke</entry>
+            </row>
+            <row>
+              <entry>1.6 Hoeveel 10-sentstukke in R1?</entry>
+              <entry>____________tiensentstukke</entry>
+            </row>
+            <row>
+              <entry>1.7 Hoeveel 10-sentstukke in R100?</entry>
+              <entry>___________tiensentstukke</entry>
+            </row>
+            <row>
+              <entry>1.8 Hoeveel 50-sentstukke in R1?</entry>
+              <entry>____________vyftigsentstukke</entry>
+            </row>
+            <row>
+              <entry>1.9 Hoeveel 50-sentstukke in R10? </entry>
+              <entry>____________vyftigsentstukke</entry>
+            </row>
+            <row>
+              <entry>1.10 Hoeveel 50-sentstukke in R20?</entry>
+              <entry>____________vyftigsentstukke</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1172613174479">Baie winkels maak nie meer gebruik van 1c-stukke nie.</para>
+      <para id="id8185542">2. <emphasis effect="bold">AANKOOP VAN SKRYFBEHOEFTES</emphasis></para>
+      <para id="id1172616231460">Voor die skole aan die begin van die jaar begin het, moes jy by die supermark inkopies doen. Hier volg die pryse van verskillende items:</para>
+      <para id="id8595269">Potloodskerpmaker R5   Filtpenne (Kleur)  R10</para>
+      <para id="id3107239">Gomstafie R4 Meetkundestel R20</para>
+      <para id="id6947189">Skryfboek R3 "Flip file"  R10</para>
+      <para id="id2048780">Potloodkryt (klein dosie) R14  2 potlode  R8 </para>
+      <para id="id2469292">Pen (rolpunt)  R15 Skryfblok  R6</para>
+      <para id="id1172616205760">Sakrekenaar R49 Skêr   R7</para>
+      <para id="id3536199">Dagboek R15  Liniaal   R5 </para>
+      <para id="id1172613134223">Uitveër R6 </para>
+      <para id="id6913499"> 2.1 Hoeveel altesaam sou elke kind die kassier moes betaal, indien hulle die volgende   items gekoop het:</para>
+      <list id="id2086980" list-type="enumerated" number-style="lower-alpha">
+        <item>Jani het ‘n dagboek en ‘n liniaal gekoop. </item>
+        <item>Andries het ‘n sakrekenaar, ‘n skryfblok en twee potlode gekoop.</item>
+        <item>Hettie het ‘n stel potloodkryt en ‘n gomstokkie gekoop. </item>
+        <item>Mandi het ‘n pen, ‘n liniaal, ‘n uitveër en ‘n potloodskerpmaker gekoop. </item>
+        <item>Brian het ‘n skryfboek, ‘n dagboek, ‘n skryfblok en ‘n pen gekoop. </item>
+        <item> 2.2 Hoeveel het al die kinders saam op skryfbehoeftes spandeer?</item>
+      </list>
+      <para id="id6988344">3. <emphasis effect="bold">GELD IN WINKELS</emphasis></para>
+      <para id="id2490479">3.1 In groot winkels sluit die pryse van items ook sente in. Die kassiere vergeet nieteenstaande maar van die een- en tweesente. Die kassiere bereken altyd jou kleingeld na die volgende vyfsent. Indien jy dus 17 sent behoort te kry, gee hulle vir jou 20 sent. Kleingeld word altyd “op bereken”, dit is anders as afronding. Hoekom dink jy dat winkels hierdie reëling het? Verloor winkels baie geld hierdeur? Bespreek dit eers met jou maats en skryf daarna jou antwoord neer.</para>
+      <para id="id6504779">3.2 Maak asof jy as ‘n kassier in ‘n winkel werk. Die kasregister sê vir jou hoeveel geld jy vir elke klant moet gee, maar jy moet besluit watter banknote en muntstukke jy uitkeer. Jy moet die kleinste hoeveelheid moontlik in banknote en muntstukke uitkeer.</para>
+      <para id="id6595080"> Voltooi nou die volgende tabel (die eerste een is reeds vir jou gedoen):</para>
+      <table id="id1172616179358" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Banknote en muntstukke</entry>
+              <entry namest="c2" nameend="c7">Hoeveelheid kleingeld wat uitgekeer word:R78,76 - R 30,45 - R 43,62 - R 21,94 - R120,13 - R0,55</entry>
+            </row>
+            <row>
+              <entry>R100</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R50</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R20</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R5</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R2</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R1</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>50c</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>20c</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10c</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>5c</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8306320">3.3 Onthou dat die kleingeld boontoe afgerond word; dis nie altyd die bedrag wat die klant betaal nie. Wat kry die klant werklik as die kleingeld op R78,76 te staan kom?</para>
+      <para id="id8981509">4. <emphasis effect="bold">BY DIE SKOOL: OMGEWING: GROEPBESPREKING EN PROBLEEMOPLOSSING</emphasis></para>
+      <para id="id3539325">Die “Verlore Eiendom”-houer was vol toerusting! Die opvoeder was moeg van goed orals op lessenaars en op die vloer optel en bêre. Toe sê sy vir die klas dat sy die leerder met die beste maniere die geleentheid sou gee om twee verskillende goed te kies, indien alles nie voor die einde van die week opgeëis word nie. 'n Kombinasie van twee goed kon byvoorbeeld 'n potlood en 'n potloodskerpmaker of 'n gomstokkie en 'n potlood wees. Daar het groot opgewondenheid geheers terwyl die leerders besig was om te besluit watter twee items hulle sou kies.</para>
+      <para id="id8867421">4.1 Hoeveel verskillende kombinasies van twee verskillende items kon hulle bymekaar sit as daar potlode, liniale, uitveërs, skerpmakers, gomstafies en skêre in die doos was? Probeer om 'n sistematiese manier te vind om die antwoord uit te werk. Vergelyk dan jou manier met dié van 'n maat.</para>
+      <para id="id6962612">5. <emphasis effect="bold">BEGROTINGS:</emphasis></para>
+      <para id="id4183371">Behoort Graad 4-leerders hulle oor ‘n eenvoudige begroting te bekommer? Ja, hulle behoort bewus gemaak te word dat dit nodig is om geldsake te beplan.</para>
+      <para id="id6965396">Wat is ‘n begroting? Dit is ‘n manier om aan te dui hoeveel geld ons ontvang en hoeveel ons spandeer.</para>
+      <para id="id8762536">5.1 GROEPWERK: ‘N ONDERSOEK</para>
+      <para id="id6982122">Hoe stel ek ‘n begroting op? Kyk na die uiteensetting van 'n begroting hieronder. Bespreek dit eers en vul daarna die moontlike bedrae in.</para>
+      <para id="id6974524">‘N BEGROTING VIR EEN MAAND VIR ‘N GESIN WAT UIT VIER MENSE BESTAAN</para>
+      <table id="id1172611025646" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>BEGROOT (Beplan) </entry>
+              <entry>Werklike uitgawe</entry>
+            </row>
+            <row>
+              <entry>INKOMSTE (geld wat inkom)</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>SalarisseAnder inkomste (verkoop van groente; motors was; koerante aflewer; kunsmarkverkope)Totaal</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>UITGAWES (Gespandeer)</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Elke maand se uitgawes:HuishuurElektrisiteit en waterTelefoonVersekeringMediese hulpskemaSkoolgeldVervoerKos / huishoudingMediese uitgawesKlerasieTotaal</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6768763">
+        <emphasis effect="bold">Trek die </emphasis>
+        <emphasis effect="italics">totale uitgawes</emphasis>
+        <emphasis effect="bold"> van die </emphasis>
+        <emphasis effect="italics">totale inkomste</emphasis>
+        <emphasis effect="bold"> af. Wat bly vir vermaaklikheid of ‘n vakansie oor? (Nou kan jy sien dat daar niks </emphasis>
+      </para>
+      <para id="id2285157">oorbly vir die video of vir die duur “tekkies” nie.)</para>
+      <list id="id6944772" list-type="bulleted">
+        <item>Ons gaan nou ‘n bietjie praktiese navorsing doen om die projek af te handel.</item>
+      </list>
+      <para id="id6955931">PROJEK: BEGROTINGS: GEBRUIK JOU KENNIS</para>
+      <para id="id6257927">Ons moet al die items waarvan ons praat tot die naaste heel rand afrond. (Indien ‘n bottel Coca Cola R15,99 kos, sal ons van R16 praat.)</para>
+      <para id="id2028504">Jy en ‘n paar vriende gaan die aandete vir Moedersdag maak. Altesame gaan daar 12 mense by hierdie ete wees. Jou ouer sussie sal jou met die stoof help en jou pa is bereid om vir die vuur te sorg, indien daar ‘n braai gaan wees. Jy werk en verdien geld om die kos te koop. Jy het nou altesame R150. Dit is nou tyd om ‘n begroting op te stel om jou beplande uitgawes uiteen te sit.</para>
+      <para id="id8240688">a. Eerstens moet jy besluit of jy binne gaan kos maak of buite gaan braai. Kom ons kyk na die geld wat ons het. Toe hierdie projek beplan is, kon twaalf lamtjops en ‘n bietjie wors maklik R100 kos. Indien jy egter gekruide maalvleis, herderspastei, spaghetti bolognaise of bobotie sou maak, sou een-en-‘n-half kilogram maalvleis slegs R25 kos. ‘n Lys van alles wat jy moet koop, sal nou baie nuttig wees.</para>
+      <para id="id1172613237479"/>
+      <list id="id2628362" list-type="enumerated" number-style="lower-alpha">
+        <item>Jy moet besluit <emphasis effect="italics">hoeveel</emphasis><emphasis effect="italics">van elke item</emphasis> jy nodig het. Skryf die hoeveelheid in die  kolom langs die item neer.</item>
+      </list>
+      <para id="id1840237">c. Jy kan kyk na die supermarkadvertensies wat ons daagliks in ons posbusse kry, of jy kan na die naaste supermark gaan om pryse van die verskillende items vas te stel. Probeer om vas te stel of bottels of blikke koeldrank die goedkoopste is. Dink aan die grootte wat jy benodig. Onthou dat jy nie meer geld as wat jy het, kan spandeer nie.</para>
+      <para id="id9047176">Besluit watter items absoluut noodsaaklik is en maak ‘n aparte lys van hierdie goed. Skryf die hoeveelheid en die prys van elke item neer. (Dalk wil jy 'n ouer persoon raadpleeg.)</para>
+      <table id="id1172613161400" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Item</entry>
+              <entry>Hoeveelheid benodig</entry>
+              <entry>Prys per eenheid</entry>
+              <entry>Totale Prys</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3563291">d. Gebruik die volgende tabel om jou begroting op te stel. Skryf heel eerste R150 onder "Werklike Inkomste". Dis al wat jy kan spandeer! Onder "Uitgawes" skryf jy alles wat jy wil koop. Begin met die belangrikste items. Onder "Koste in R" skryf jy die totale prys van elke item. </para>
+      <para id="id8986387">BEGROTING VIR ‘N GRAAD 4 BRAAI </para>
+      <table id="id1172616578838" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>INKOMSTE</entry>
+              <entry>WERKLIKE INKOMSTE</entry>
+            </row>
+            <row>
+              <entry>Geld verdien</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>UITGAWES </entry>
+              <entry>Koste in R</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>FINALE TOTAAL</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id3136624">Trek nou die totale <emphasis effect="italics">uitgawes</emphasis> van die <emphasis effect="italics">inkomste</emphasis> af. Het jy genoeg geld – ook vir die </para>
+      <para id="id9039850">papierbordjies en die koppies?  </para>
+      <section id="id6360001">
+        <title>TOETS JOU VORDERING </title>
+        <para id="id3516280">Kom ons kyk weer na hoe jy regkom. </para>
+        <para id="id2039269">1. Afronding tot die naaste:</para>
+        <table id="id1172613144890" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Tien</entry>
+                <entry>Honderd</entry>
+                <entry>Duisend</entry>
+              </row>
+              <row>
+                <entry>1 387</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>925</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4 813</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6 492</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>9 509</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7015348">2. In elkeen van hierdie somme moet jy skat wat die antwoord is deur die afronding van die getalle tot die naaste duisend. Dis nie nodig om die presiese antwoord te bereken nie:</para>
+        <list id="id4615796" list-type="bulleted">
+          <item>7 462 + 2 948  </item>
+          <item>9 476 － 4 508 </item>
+        </list>
+        <para id="id4120171">3. Geld</para>
+        <list id="id3564271" list-type="bulleted">
+          <item>Hoeveel 1c-stukke is daar in R50?  </item>
+          <item>Hoeveel 5c-stukke is daar in R50?  </item>
+        </list>
+        <para id="id9024914">4. Bereken en skryf al jou stappe duidelik neer:</para>
+        <list id="id1172618373762" list-type="bulleted">
+          <item>5 907 + 3 754</item>
+          <item>6 098 － 3 274</item>
+          <item>1 234  768  630  266</item>
+        </list>
+        <para id="id1172613000276">SAKREKENAARS EN WOORDSOMME</para>
+        <para id="id3468618">In hierdie afdeling kan jy jou sakrekenaar gebruik om antwoorde te vind.</para>
+        <para id="id6878056">5. Lees hierdie som aandagtig en beantwoord die vrae: Lewer bewyse van hoe jy te werk gegaan het om by die antwoorde uit te kom. </para>
+        <para id="id1172616556889">Mnr. Gouws, ‘n professionele tuinier, snoei 765 roosbome in Julie. Mnr. Greg snoei 648 roosbome in dieselfde maand. In die eerste week van die volgende maand snoei mnr. Gouws ‘n verdere 165 roosbome, terwyl mnr. Greg ‘n verdere 261 roosbome snoei. In die tweede week van Augustus snoei mnr. Greg 87 meer roosbome en mnr. Gouws snoei ‘n verdere 184 roosbome.</para>
+        <list id="id2734377" list-type="bulleted">
+          <item>Hoeveel meer roosbome as mnr. Greg het mnr. Gouws in Julie gesnoei? </item>
+          <item>Was mnr. Greg besig om mnr. Gouws teen die einde van die eerste week van Augustus in te haal? Gee redes om jou antwoord te staaf. </item>
+          <item>Wie het altesaam die meeste roosbome gesnoei?</item>
+          <item>Altesaam hoeveel roosbome het die twee mans gesnoei?</item>
+        </list>
+      </section>
+    </section>
+    <section id="id3389251">
+      <title>Assessering</title>
+      <table id="id7785346" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Getalle, Verwerkings en VerwantskappeDie leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 aan- en terugtel in ‘n verskeidenheid intervalle (insluitend 2’s, 3’e, 5’e, 10’e, 25’s, 50’s en 100’e) tussen 0 en minstens 10 000;</entry>
+            </row>
+            <row>
+              <entry>1.2 verskeie maniere van tel deur die geskiedenis heen in verskillende kulture (insluitend plaaslik) beskryf en illustreer;</entry>
+            </row>
+            <row>
+              <entry>1.3 die volgende getalle kan herken en voorstel sodat dit beskryf en vergelyk kan word:</entry>
+            </row>
+            <row>
+              <entry>1.3.1 heelgetalle tot minstens 4-syfergetalle;</entry>
+            </row>
+            <row>
+              <entry>1.4 die plekwaarde van syfers in heelgetalle tot minstens 4-syfergetalle herken;</entry>
+            </row>
+            <row>
+              <entry>1.6 probleme in konteks oplos, insluitend kontekste wat gebruik kan word om ‘n bewustheid van ander leerareas, asook van menseregte-, sosiale, ekonomiese en omgewingskwessies, te bevorder, soos:1.6.1 finansiële kontekste (insluitend koop en verkoop, en eenvoudige begrotings);</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id3580869">
+      <title>Memorandum</title>
+      <para id="id1172613940468">AKTIWITEIT 1</para>
+      <para id="id8757319">1. GELDSAKE</para>
+      <list id="id4642267" list-type="bulleted">
+        <item>500 sente</item>
+      </list>
+      <para id="id8540370"> 1.2 5 000 sente </para>
+      <para id="id1172612946479">1.3 20 vyfsentstukke</para>
+      <para id="id8979209">1.4 200 vyfsentstukke1.5 2 000 vyfsentstukke </para>
+      <para id="id6892811">1.6 10 tiensentstukke </para>
+      <para id="id2757820">1.7 1 000 tiensentstukke 1.8 2 vyftigsentstukke </para>
+      <para id="id6426174">1.9 20 vyftigsentstukke </para>
+      <para id="id2580390">1.10 40 vyftigsentstukke</para>
+      <para id="id8505935">2. AANKOOP VAN SKRYFBEHOEFTES</para>
+      <para id="id6694927">2.1(a)  R20 </para>
+      <para id="id3501432">(b) R63  </para>
+      <para id="id1172610901936">(c) R18  </para>
+      <para id="id6998629">(d) R33  </para>
+      <para id="id1172613882553">(e) R39  </para>
+      <para id="id6952045">2.2  R173</para>
+      <para id="id1172613218210">3.1 Dit spaar tyd; ja.</para>
+      <para id="id6827662">3.2 </para>
+      <table id="id6301554" summary="">
+        <tgroup cols="7">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <tbody>
+            <row>
+              <entry>Banknote en munte</entry>
+              <entry>R78,76 -</entry>
+              <entry>BedragR30,45 -</entry>
+              <entry>in kleingeldR43,62 -</entry>
+              <entry>Sal wees?R21,94 -</entry>
+              <entry>R120,13 -</entry>
+              <entry>R0,55</entry>
+            </row>
+            <row>
+              <entry>R100</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>R50</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R20</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>R10 </entry>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R5</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R2</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>R1</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>50c</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>20c</entry>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry/>
+              <entry>2</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>10c</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5c</entry>
+              <entry/>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2762072">3.3 Onthou dat kleingeld <emphasis effect="italics">opwaarts</emphasis> afgerond word, dus sal die klant R78,80 kry indien die eintlike bedrag in <emphasis effect="italics">kleingeld wat gegee moet word</emphasis> R78,76 is </para>
+      <para id="id3155292">4. BY DIE SKOOL</para>
+      <para id="id3466552">4.1 15</para>
+      <para id="id2327255">5. BEGROTINGS</para>
+      <para id="id7048223">5.1 GROEPWERK – 'n ONDERSOEK - eie antwoorde</para>
+      <para id="id7791146">5.2 (a) eie antwoorde (b) eie antwoorde (c) eie antwoorde (d) eie antwoorde</para>
+      <section id="id6946957">
+        <title>TOETS JOU VORDERING</title>
+        <para id="id8870792">1. Afronding tot die naaste:</para>
+        <table id="id1172612817817" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>10</entry>
+                <entry>100</entry>
+                <entry>1 000</entry>
+              </row>
+              <row>
+                <entry>1 387</entry>
+                <entry>1 390</entry>
+                <entry>1 400</entry>
+                <entry>1 000</entry>
+              </row>
+              <row>
+                <entry>925</entry>
+                <entry>930</entry>
+                <entry>900</entry>
+                <entry>1 000</entry>
+              </row>
+              <row>
+                <entry>4 813 </entry>
+                <entry>4 810</entry>
+                <entry>4 800</entry>
+                <entry>5 000</entry>
+              </row>
+              <row>
+                <entry>6 492</entry>
+                <entry>6490</entry>
+                <entry>6 500</entry>
+                <entry>6 000</entry>
+              </row>
+              <row>
+                <entry>9 509</entry>
+                <entry>9 510</entry>
+                <entry>9 500</entry>
+                <entry>10 000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8144286">2.1 10 400  </para>
+        <para id="id8693337">2.2 3 900</para>
+        <para id="id3174517">3.1 5 000  </para>
+        <para id="id3656620">3.2 1 000</para>
+        <para id="id1172613249181">4.1 9 661  </para>
+        <para id="id6644919">4.2 2 824  </para>
+        <para id="id8742363">4.3 2 898</para>
+        <section id="id6966076">
+          <title>5MET BEHULP VAN SAKREKENAARS – WOORDSOMME</title>
+          <para id="id1172613175582">5.1 17 meer </para>
+          <para id="id3269320">5.2 Ja; 910 – 909 </para>
+          <para id="id4180676">5.3 Mnr. Gouws </para>
+          <para id="id3541400">5.4 2 090</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
